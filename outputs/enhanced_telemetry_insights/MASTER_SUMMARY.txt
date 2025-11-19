@@ -1,0 +1,71 @@
+================================================================================
+TOYOTA GR CUP - ENHANCED TELEMETRY INSIGHTS SUMMARY
+================================================================================
+
+Analysis Date: 2025-11-18 22:14:34
+Drivers Analyzed: 19
+Total Insights Generated: 252
+Average Insights per Driver: 13.3
+
+Benchmark (Fastest Driver):
+  Car #113 - 96.86s
+  Speed: 128.6 km/h
+  Throttle: 64.9%
+  Brake: 5.7%
+  RPM: 6097
+
+================================================================================
+INSIGHT DISTRIBUTION
+================================================================================
+
+By Priority:
+  HIGH: 144 (57.1%)
+  MEDIUM: 108 (42.9%)
+  LOW: 0 (0.0%)
+
+By Category (Top 10):
+  1. Average Speed Optimization: 19 insights
+  2. Traction Management: 19 insights
+  3. Corner Exit Acceleration: 19 insights
+  4. Cornering Speed Development: 19 insights
+  5. Full Throttle Utilization: 19 insights
+  6. Maximum Speed Development: 19 insights
+  7. Overall Consistency: 19 insights
+  8. Shift Point Optimization: 19 insights
+  9. Threshold Braking Development: 19 insights
+  10. Throttle Application Timing: 19 insights
+
+================================================================================
+MOST COMMON ISSUES
+================================================================================
+
+1. Threshold Braking Development
+   Affects 19 drivers (100.0%)
+   Total insights: 19
+
+2. Full Throttle Utilization
+   Affects 19 drivers (100.0%)
+   Total insights: 19
+
+3. Throttle Application Timing
+   Affects 19 drivers (100.0%)
+   Total insights: 19
+
+4. Traction Management
+   Affects 19 drivers (100.0%)
+   Total insights: 19
+
+5. Average Speed Optimization
+   Affects 19 drivers (100.0%)
+   Total insights: 19
+
+================================================================================
+RECOMMENDATIONS
+================================================================================
+
+1. Drivers should focus on HIGH priority insights first
+2. Address consistency issues before chasing raw speed
+3. Use driver reports for detailed, actionable recommendations
+4. Compare telemetry to fastest driver for learning opportunities
+5. Track progress by re-running analysis after each session
+

@@ -1,0 +1,81 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Streamlit (but keep config for deployment)
+.streamlit/secrets.toml
+
+# Logs
+*.log
+
+# CSV Data Files (race data - user downloads)
+indianapolis/**/*.csv
+
+# Allow all models, outputs, scripts, and telemetry_analysis for Streamlit
+# (These are needed for the deployed dashboard to work)
+
+# Data files (download separately from https://trddev.com/hackathon-2025/)
+indianapolis/
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
+**/.DS_Store
+**/__MACOSX/
+._*
+
+# Temporary files
+*.tmp
+*.temp
+temp_*.py
+test_*.py
+
+# Archive folder (old backups)
+archive/
+
+# Analysis folders - now included for Streamlit deployment
+
+# Generated README files in outputs
+outputs/**/README*.md
+
+# Note: restart_dashboard.bat is tracked (user-facing script)

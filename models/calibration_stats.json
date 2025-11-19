@@ -1,0 +1,44 @@
+{
+  "RandomForest": {
+    "q_residual": 1.130220909091006,
+    "alpha": 0.1,
+    "n_calibration": 99,
+    "mean_residual": 0.4739267406804781,
+    "std_residual": 0.7863140448905217
+  },
+  "GradientBoosting": {
+    "q_residual": 1.087386933299642,
+    "alpha": 0.1,
+    "n_calibration": 99,
+    "mean_residual": 0.45670074402278504,
+    "std_residual": 0.8427038855316008
+  },
+  "Ridge": {
+    "q_residual": 1.8361502916308208,
+    "alpha": 0.1,
+    "n_calibration": 99,
+    "mean_residual": 0.6636175339031857,
+    "std_residual": 0.7319572722119475
+  },
+  "XGBoost": {
+    "q_residual": 0.7785443226207347,
+    "alpha": 0.1,
+    "n_calibration": 99,
+    "mean_residual": 0.4297238516759391,
+    "std_residual": 0.6695830039628577
+  },
+  "LightGBM": {
+    "q_residual": 1.2468214112552896,
+    "alpha": 0.1,
+    "n_calibration": 99,
+    "mean_residual": 0.6206398591879042,
+    "std_residual": 0.9792630477740878
+  },
+  "CatBoost": {
+    "q_residual": 2.123770341729026,
+    "alpha": 0.1,
+    "n_calibration": 99,
+    "mean_residual": 1.179060010183312,
+    "std_residual": 3.272364715757164
+  }
+}

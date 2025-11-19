@@ -1,0 +1,182 @@
+================================================================================
+ENHANCED SECTOR ANALYSIS REPORT
+Intermediate Timing Points + Wind Analysis + Top Speed
+================================================================================
+
+Drivers Analyzed: 27
+Timing Recommendations Generated: 78
+Total Laps Analyzed: 669
+
+================================================================================
+WIND CONDITIONS
+================================================================================
+
+Average Wind Speed: 6.40 km/h
+Max Wind Speed: 12.24 km/h
+Average Wind Direction: 177°
+Pressure: 984.5 mbar
+
+================================================================================
+TOP TIMING POINT IMPROVEMENTS BY DRIVER
+================================================================================
+
+
+Michael Edwards
+----------------------------------------
+
+Weakest Segments:
+  • Finish Line: 2.922s potential gain
+    Type: straight, Avg: 7.129s, Best: 4.207s
+  • Turn 1 Entry: 2.645s potential gain
+    Type: braking, Avg: 26.619s, Best: 23.974s
+  • Oval Entry: 1.883s potential gain
+    Type: speed, Avg: 2.767s, Best: 0.884s
+
+Top Speed: 204.1 km/h avg (max: 220.4 km/h)
+
+Wind Impact: Moderate (6.4 km/h)
+
+
+Karl Forman
+----------------------------------------
+
+Weakest Segments:
+  • Turn 1 Entry: 2.900s potential gain
+    Type: braking, Avg: 26.861s, Best: 23.961s
+  • Finish Line: 2.371s potential gain
+    Type: straight, Avg: 7.204s, Best: 4.833s
+  • Turn 7 Complex Entry: 1.657s potential gain
+    Type: technical, Avg: 10.064s, Best: 8.407s
+
+Top Speed: 203.9 km/h avg (max: 217.3 km/h)
+
+Wind Impact: Moderate (6.4 km/h)
+
+
+Farran Davis
+----------------------------------------
+
+Weakest Segments:
+  • Turn 1 Entry: 2.528s potential gain
+    Type: braking, Avg: 26.771s, Best: 24.243s
+  • Turn 7 Complex Entry: 2.268s potential gain
+    Type: technical, Avg: 10.141s, Best: 7.873s
+  • Finish Line: 1.032s potential gain
+    Type: straight, Avg: 7.058s, Best: 6.026s
+
+Top Speed: 205.0 km/h avg (max: 217.3 km/h)
+
+Wind Impact: Moderate (6.4 km/h)
+
+
+Isabella Robusto
+----------------------------------------
+
+Weakest Segments:
+  • Turn 1 Entry: 2.667s potential gain
+    Type: braking, Avg: 26.747s, Best: 24.080s
+  • Finish Line: 1.644s potential gain
+    Type: straight, Avg: 6.977s, Best: 5.333s
+  • Turn 7 Complex Entry: 1.614s potential gain
+    Type: technical, Avg: 10.091s, Best: 8.477s
+
+Top Speed: 203.3 km/h avg (max: 214.3 km/h)
+
+Wind Impact: Moderate (6.4 km/h)
+
+
+Ethan Tovo
+----------------------------------------
+
+Weakest Segments:
+  • Finish Line: 2.842s potential gain
+    Type: straight, Avg: 7.045s, Best: 4.203s
+  • Turn 1 Entry: 2.363s potential gain
+    Type: braking, Avg: 26.301s, Best: 23.938s
+  • Oval Entry: 2.194s potential gain
+    Type: speed, Avg: 2.217s, Best: 0.023s
+
+Top Speed: 205.4 km/h avg (max: 218.2 km/h)
+
+Wind Impact: Moderate (6.4 km/h)
+
+
+Westin Workman
+----------------------------------------
+
+Weakest Segments:
+  • Finish Line: 2.816s potential gain
+    Type: straight, Avg: 6.965s, Best: 4.149s
+  • Turn 1 Entry: 2.189s potential gain
+    Type: braking, Avg: 26.074s, Best: 23.885s
+  • Oval Entry: 1.133s potential gain
+    Type: speed, Avg: 1.788s, Best: 0.655s
+
+Top Speed: 203.6 km/h avg (max: 217.3 km/h)
+
+Wind Impact: Moderate (6.4 km/h)
+
+
+Rutledge Wood
+----------------------------------------
+
+Weakest Segments:
+  • Turn 1 Entry: 2.792s potential gain
+    Type: braking, Avg: 27.082s, Best: 24.290s
+  • Finish Line: 1.397s potential gain
+    Type: straight, Avg: 7.163s, Best: 5.766s
+  • Turn 7 Complex Entry: 1.379s potential gain
+    Type: technical, Avg: 9.930s, Best: 8.551s
+
+Top Speed: 205.7 km/h avg (max: 214.3 km/h)
+
+Wind Impact: Moderate (6.4 km/h)
+
+
+Will Robusto
+----------------------------------------
+
+Weakest Segments:
+  • Finish Line: 2.443s potential gain
+    Type: straight, Avg: 6.994s, Best: 4.551s
+  • Turn 1 Entry: 2.270s potential gain
+    Type: braking, Avg: 26.095s, Best: 23.825s
+  • Oval Entry: 1.454s potential gain
+    Type: speed, Avg: 1.801s, Best: 0.347s
+
+Top Speed: 203.0 km/h avg (max: 214.3 km/h)
+
+Wind Impact: Moderate (6.4 km/h)
+
+
+Ramon Llano
+----------------------------------------
+
+Weakest Segments:
+  • Turn 1 Entry: 2.182s potential gain
+    Type: braking, Avg: 26.963s, Best: 24.781s
+  • Finish Line: 1.681s potential gain
+    Type: straight, Avg: 7.197s, Best: 5.516s
+  • Oval Entry: 0.946s potential gain
+    Type: speed, Avg: 1.135s, Best: 0.190s
+
+Top Speed: 201.3 km/h avg (max: 207.3 km/h)
+
+Wind Impact: Moderate (6.4 km/h)
+
+
+Jeremy Fletcher
+----------------------------------------
+
+Weakest Segments:
+  • Finish Line: 2.780s potential gain
+    Type: straight, Avg: 7.080s, Best: 4.300s
+  • Turn 1 Entry: 2.353s potential gain
+    Type: braking, Avg: 26.089s, Best: 23.736s
+  • Turn 7 Complex Entry: 1.029s potential gain
+    Type: technical, Avg: 9.680s, Best: 8.651s
+
+Top Speed: 204.1 km/h avg (max: 214.3 km/h)
+
+Wind Impact: Moderate (6.4 km/h)
+

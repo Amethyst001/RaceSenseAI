@@ -1,0 +1,125 @@
+================================================================================
+Car #47 - COMPREHENSIVE TELEMETRY INSIGHTS
+================================================================================
+
+Best Lap: 100.343s
+Total Insights: 14
+  - HIGH Priority: 10
+  - MEDIUM Priority: 4
+  - LOW Priority: 0
+
+TOTAL POTENTIAL IMPROVEMENT: 9.87s
+PROJECTED BEST LAP: 90.473s
+
+================================================================================
+INSIGHTS BY PRIORITY
+================================================================================
+
+
+================================================================================
+HIGH PRIORITY (10 insights)
+================================================================================
+
+1. [Threshold Braking Development]
+   Issue: Peak brake pressure of 8.9% is below GR86 threshold capability (90%+ with race ABS and Alcon brakes).
+   Action: Critical: Increase peak braking force by 15% at Turn 1/2 chicane. The GR86 race ABS allows 90-95% pressure without lock-up. Build confidence progressively.
+   Potential Gain: 0.52-0.90s
+   Estimated New Lap: 99.630s
+   Confidence: High
+
+2. [Full Throttle Utilization]
+   Issue: Only 0.0% of lap at full throttle. GR86 requires 55%+ due to lower power output.
+   Action: Critical: Reach 100% throttle 55% earlier. Focus on Turn 2 exit and Turn 5 exit. Every meter earlier = 0.05s gained on main straight.
+   Potential Gain: 0.57-0.96s
+   Estimated New Lap: 99.578s
+   Confidence: High
+
+3. [Throttle Application Timing]
+   Issue: Throttle application 10.5% below best lap average.
+   Action: Apply throttle at apex of Turn 3 and Turn 4. Target: 50% at apex, 75% at mid-exit, 100% at track-out. Current: 67.1%, Target: 77.6%.
+   Potential Gain: 0.31-0.52s
+   Estimated New Lap: 99.923s
+   Confidence: High
+
+4. [Throttle Consistency]
+   Issue: Throttle variance of ±19.7% indicates inconsistent corner exits.
+   Action: Standardize throttle application points. Use apex curbing as reference for initial 50% application. Smooth progression is critical.
+   Potential Gain: 0.36-0.62s
+   Estimated New Lap: 99.853s
+   Confidence: High
+
+5. [Average Speed Optimization]
+   Issue: Average speed 9.6 km/h below your best lap (129.9 vs 139.5 km/h)
+   Action: Focus on minimum corner speeds. Every 1 km/h gained through corners = 0.08s per lap. Target: 139.5 km/h average.
+   Potential Gain: 4.44-6.66s
+   Estimated New Lap: 94.796s
+   Confidence: High
+
+6. [Apex Consistency]
+   Issue: Combined throttle (±19.7%) and speed (±16.6 km/h) variance indicates inconsistent apex positioning.
+   Action: Standardize apex points at Turn 3 and Turn 4. Use inside curbing as reference. Consistent apex = consistent exit = consistent lap times.
+   Potential Gain: 0.33-0.56s
+   Estimated New Lap: 99.898s
+   Confidence: High
+
+7. [Corner Exit Acceleration]
+   Issue: Exit acceleration of -0.26g is below GR86 potential.
+   Action: Critical: Apply 50% throttle at Turn 2 apex, building to 100% by track-out. The GR86 requires aggressive exits to compensate for lower power. Every 0.1g improvement = 0.15s per lap.
+   Potential Gain: 0.38-0.56s
+   Estimated New Lap: 99.874s
+   Confidence: High
+
+8. [Cornering Speed Development]
+   Issue: Lateral G-force of 0.20g is 0.80g below GR86 capability on slicks (1.0g threshold).
+   Action: Critical: Increase corner entry speed by 5 km/h at Turn 3 and Turn 4. Build confidence progressively over 3 sessions. The GR86 on slicks can sustain 1.0g+ in steady-state cornering.
+   Potential Gain: 0.38-0.60s
+   Estimated New Lap: 99.856s
+   Confidence: High
+
+9. [Speed Gap to Leader]
+   Issue: 14.1 km/h slower than fastest driver (Avg: 129.9 vs 115.8 km/h).
+   Action: Study fastest driver's minimum corner speeds at Turn 3 and Turn 4. They carry 14.1 km/h more speed. Focus on entry positioning and mid-corner speed maintenance.
+   Potential Gain: 0.68-1.01s
+   Estimated New Lap: 99.499s
+   Confidence: High
+
+10. [Overall Consistency]
+   Issue: Input variance (Speed: ±16.6 km/h, Throttle: ±19.7%) is the primary performance limiter.
+   Action: Mandatory: Establish 3 reference points per corner - brake marker (100m board), turn-in point (apex curbing), throttle point (track-out). Consistency is the foundation of speed. All other improvements are meaningless without this.
+   Potential Gain: 0.47-0.84s
+   Estimated New Lap: 99.687s
+   Confidence: High
+
+
+================================================================================
+MEDIUM PRIORITY (4 insights)
+================================================================================
+
+1. [Traction Management]
+   Issue: Longitudinal acceleration of -0.26g is below GR86 capability on slicks.
+   Action: The GR86 torque curve allows aggressive application from 3700 RPM. If losing traction at Turn 2 exit, reduce initial rate by 10%. If no traction loss, increase aggression by 20%.
+   Potential Gain: 0.38-0.60s
+   Estimated New Lap: 99.856s
+   Confidence: Medium
+
+2. [Maximum Speed Development]
+   Issue: Top speed of 139.7 km/h suggests exit speed or straight-line issues
+   Action: Focus on corner exit acceleration. Better exits = higher top speeds. Also check if you're short-shifting.
+   Potential Gain: 0.30-0.60s
+   Estimated New Lap: 99.893s
+   Confidence: Medium
+
+3. [Shift Point Optimization]
+   Issue: Shifting at 6477 RPM. GR86 optimal shift point is 7100 RPM.
+   Action: Shift 623 RPM later on main straight and Turn 2 exit. Use shift light as reference. Power curve remains strong to 7100 RPM.
+   Potential Gain: 0.30-0.52s
+   Estimated New Lap: 99.931s
+   Confidence: Medium
+
+4. [Input Smoothness]
+   Issue: Abrupt input changes detected (Throttle: ±19.7%, Brake: ±2.3%).
+   Action: Practice progressive inputs. Throttle: 0% to 100% over 1.5 seconds. Brake: 100% to 0% over 1.0 second. Smooth inputs = predictable car behavior.
+   Potential Gain: 0.45-0.75s
+   Estimated New Lap: 99.743s
+   Confidence: Medium
+

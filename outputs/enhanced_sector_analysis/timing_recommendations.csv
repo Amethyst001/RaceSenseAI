@@ -1,0 +1,79 @@
+category,issue,action,priority,potential_gain,location,driver_number,driver_name
+Speed Section,Losing 2.922s at Finish Line,Carry more speed through Finish Line. Check for setup or technique issues.,MEDIUM,2.922s per lap,Finish Line,21,Michael Edwards
+Braking Zone,Losing 2.645s at Turn 1 Entry,"Focus on later, harder braking at Turn 1 Entry. Current average is 26.619s vs best of 23.974s.",HIGH,2.645s per lap,Turn 1 Entry,21,Michael Edwards
+Speed Section,Losing 1.883s at Oval Entry,Carry more speed through Oval Entry. Check for setup or technique issues.,MEDIUM,1.883s per lap,Oval Entry,21,Michael Edwards
+Braking Zone,Losing 2.900s at Turn 1 Entry,"Focus on later, harder braking at Turn 1 Entry. Current average is 26.861s vs best of 23.961s.",HIGH,2.900s per lap,Turn 1 Entry,3,Karl Forman
+Speed Section,Losing 2.371s at Finish Line,Carry more speed through Finish Line. Check for setup or technique issues.,MEDIUM,2.371s per lap,Finish Line,3,Karl Forman
+Technical Section,Losing 1.657s through Turn 7 Complex Entry,Optimize racing line through Turn 7 Complex Entry. Current average is 10.064s vs best of 8.407s.,HIGH,1.657s per lap,Turn 7 Complex Entry,3,Karl Forman
+Braking Zone,Losing 2.528s at Turn 1 Entry,"Focus on later, harder braking at Turn 1 Entry. Current average is 26.771s vs best of 24.243s.",HIGH,2.528s per lap,Turn 1 Entry,11,Farran Davis
+Technical Section,Losing 2.268s through Turn 7 Complex Entry,Optimize racing line through Turn 7 Complex Entry. Current average is 10.141s vs best of 7.873s.,HIGH,2.268s per lap,Turn 7 Complex Entry,11,Farran Davis
+Speed Section,Losing 1.032s at Finish Line,Carry more speed through Finish Line. Check for setup or technique issues.,MEDIUM,1.032s per lap,Finish Line,11,Farran Davis
+Braking Zone,Losing 2.667s at Turn 1 Entry,"Focus on later, harder braking at Turn 1 Entry. Current average is 26.747s vs best of 24.080s.",HIGH,2.667s per lap,Turn 1 Entry,111,Isabella Robusto
+Speed Section,Losing 1.644s at Finish Line,Carry more speed through Finish Line. Check for setup or technique issues.,MEDIUM,1.644s per lap,Finish Line,111,Isabella Robusto
+Technical Section,Losing 1.614s through Turn 7 Complex Entry,Optimize racing line through Turn 7 Complex Entry. Current average is 10.091s vs best of 8.477s.,HIGH,1.614s per lap,Turn 7 Complex Entry,111,Isabella Robusto
+Speed Section,Losing 2.842s at Finish Line,Carry more speed through Finish Line. Check for setup or technique issues.,MEDIUM,2.842s per lap,Finish Line,113,Ethan Tovo
+Braking Zone,Losing 2.363s at Turn 1 Entry,"Focus on later, harder braking at Turn 1 Entry. Current average is 26.301s vs best of 23.938s.",HIGH,2.363s per lap,Turn 1 Entry,113,Ethan Tovo
+Speed Section,Losing 2.194s at Oval Entry,Carry more speed through Oval Entry. Check for setup or technique issues.,MEDIUM,2.194s per lap,Oval Entry,113,Ethan Tovo
+Speed Section,Losing 2.816s at Finish Line,Carry more speed through Finish Line. Check for setup or technique issues.,MEDIUM,2.816s per lap,Finish Line,13,Westin Workman
+Braking Zone,Losing 2.189s at Turn 1 Entry,"Focus on later, harder braking at Turn 1 Entry. Current average is 26.074s vs best of 23.885s.",HIGH,2.189s per lap,Turn 1 Entry,13,Westin Workman
+Speed Section,Losing 1.133s at Oval Entry,Carry more speed through Oval Entry. Check for setup or technique issues.,MEDIUM,1.133s per lap,Oval Entry,13,Westin Workman
+Braking Zone,Losing 2.792s at Turn 1 Entry,"Focus on later, harder braking at Turn 1 Entry. Current average is 27.082s vs best of 24.290s.",HIGH,2.792s per lap,Turn 1 Entry,18,Rutledge Wood
+Speed Section,Losing 1.397s at Finish Line,Carry more speed through Finish Line. Check for setup or technique issues.,MEDIUM,1.397s per lap,Finish Line,18,Rutledge Wood
+Technical Section,Losing 1.379s through Turn 7 Complex Entry,Optimize racing line through Turn 7 Complex Entry. Current average is 9.930s vs best of 8.551s.,HIGH,1.379s per lap,Turn 7 Complex Entry,18,Rutledge Wood
+Speed Section,Losing 2.443s at Finish Line,Carry more speed through Finish Line. Check for setup or technique issues.,MEDIUM,2.443s per lap,Finish Line,2,Will Robusto
+Braking Zone,Losing 2.270s at Turn 1 Entry,"Focus on later, harder braking at Turn 1 Entry. Current average is 26.095s vs best of 23.825s.",HIGH,2.270s per lap,Turn 1 Entry,2,Will Robusto
+Speed Section,Losing 1.454s at Oval Entry,Carry more speed through Oval Entry. Check for setup or technique issues.,MEDIUM,1.454s per lap,Oval Entry,2,Will Robusto
+Braking Zone,Losing 2.182s at Turn 1 Entry,"Focus on later, harder braking at Turn 1 Entry. Current average is 26.963s vs best of 24.781s.",HIGH,2.182s per lap,Turn 1 Entry,20,Ramon Llano
+Speed Section,Losing 1.681s at Finish Line,Carry more speed through Finish Line. Check for setup or technique issues.,MEDIUM,1.681s per lap,Finish Line,20,Ramon Llano
+Speed Section,Losing 0.946s at Oval Entry,Carry more speed through Oval Entry. Check for setup or technique issues.,MEDIUM,0.946s per lap,Oval Entry,20,Ramon Llano
+Speed Section,Losing 2.780s at Finish Line,Carry more speed through Finish Line. Check for setup or technique issues.,MEDIUM,2.780s per lap,Finish Line,22,Jeremy Fletcher
+Braking Zone,Losing 2.353s at Turn 1 Entry,"Focus on later, harder braking at Turn 1 Entry. Current average is 26.089s vs best of 23.736s.",HIGH,2.353s per lap,Turn 1 Entry,22,Jeremy Fletcher
+Technical Section,Losing 1.029s through Turn 7 Complex Entry,Optimize racing line through Turn 7 Complex Entry. Current average is 9.680s vs best of 8.651s.,HIGH,1.029s per lap,Turn 7 Complex Entry,22,Jeremy Fletcher
+Braking Zone,Losing 0.546s at Turn 1 Entry,"Focus on later, harder braking at Turn 1 Entry. Current average is 27.666s vs best of 27.120s.",HIGH,0.546s per lap,Turn 1 Entry,31,Jackson Tovo
+Speed Section,Losing 0.394s at Finish Line,Carry more speed through Finish Line. Check for setup or technique issues.,MEDIUM,0.394s per lap,Finish Line,31,Jackson Tovo
+Technical Section,Losing 0.385s through Turn 7 Complex Entry,Optimize racing line through Turn 7 Complex Entry. Current average is 9.126s vs best of 8.741s.,HIGH,0.385s per lap,Turn 7 Complex Entry,31,Jackson Tovo
+Speed Section,Losing 2.571s at Finish Line,Carry more speed through Finish Line. Check for setup or technique issues.,MEDIUM,2.571s per lap,Finish Line,46,Lucas Weisenberg
+Braking Zone,Losing 2.306s at Turn 1 Entry,"Focus on later, harder braking at Turn 1 Entry. Current average is 26.194s vs best of 23.888s.",HIGH,2.306s per lap,Turn 1 Entry,46,Lucas Weisenberg
+Speed Section,Losing 1.976s at Oval Entry,Carry more speed through Oval Entry. Check for setup or technique issues.,MEDIUM,1.976s per lap,Oval Entry,46,Lucas Weisenberg
+Speed Section,Losing 2.552s at Finish Line,Carry more speed through Finish Line. Check for setup or technique issues.,MEDIUM,2.552s per lap,Finish Line,47,Parker DeLong
+Braking Zone,Losing 2.285s at Turn 1 Entry,"Focus on later, harder braking at Turn 1 Entry. Current average is 26.154s vs best of 23.869s.",HIGH,2.285s per lap,Turn 1 Entry,47,Parker DeLong
+Speed Section,Losing 1.964s at Oval Entry,Carry more speed through Oval Entry. Check for setup or technique issues.,MEDIUM,1.964s per lap,Oval Entry,47,Parker DeLong
+Braking Zone,Losing 2.695s at Turn 1 Entry,"Focus on later, harder braking at Turn 1 Entry. Current average is 26.592s vs best of 23.897s.",HIGH,2.695s per lap,Turn 1 Entry,5,Beltre Curtis
+Speed Section,Losing 2.498s at Finish Line,Carry more speed through Finish Line. Check for setup or technique issues.,MEDIUM,2.498s per lap,Finish Line,5,Beltre Curtis
+Technical Section,Losing 1.572s through Turn 7 Complex Entry,Optimize racing line through Turn 7 Complex Entry. Current average is 9.960s vs best of 8.388s.,HIGH,1.572s per lap,Turn 7 Complex Entry,5,Beltre Curtis
+Braking Zone,Losing 2.684s at Turn 1 Entry,"Focus on later, harder braking at Turn 1 Entry. Current average is 26.710s vs best of 24.026s.",HIGH,2.684s per lap,Turn 1 Entry,51,Massimo Sunseri
+Technical Section,Losing 2.362s through Turn 7 Complex Entry,Optimize racing line through Turn 7 Complex Entry. Current average is 10.117s vs best of 7.755s.,HIGH,2.362s per lap,Turn 7 Complex Entry,51,Massimo Sunseri
+Speed Section,Losing 1.429s at Finish Line,Carry more speed through Finish Line. Check for setup or technique issues.,MEDIUM,1.429s per lap,Finish Line,51,Massimo Sunseri
+Speed Section,Losing 2.784s at Finish Line,Carry more speed through Finish Line. Check for setup or technique issues.,MEDIUM,2.784s per lap,Finish Line,55,Spike Kohlbecker
+Braking Zone,Losing 2.356s at Turn 1 Entry,"Focus on later, harder braking at Turn 1 Entry. Current average is 26.101s vs best of 23.745s.",HIGH,2.356s per lap,Turn 1 Entry,55,Spike Kohlbecker
+Speed Section,Losing 1.207s at Oval Entry,Carry more speed through Oval Entry. Check for setup or technique issues.,MEDIUM,1.207s per lap,Oval Entry,55,Spike Kohlbecker
+Braking Zone,Losing 4.175s at Turn 1 Entry,"Focus on later, harder braking at Turn 1 Entry. Current average is 28.700s vs best of 24.525s.",HIGH,4.175s per lap,Turn 1 Entry,57,Jeff Curry
+Speed Section,Losing 2.304s at Finish Line,Carry more speed through Finish Line. Check for setup or technique issues.,MEDIUM,2.304s per lap,Finish Line,57,Jeff Curry
+Technical Section,Losing 1.836s through Turn 7 Complex Entry,Optimize racing line through Turn 7 Complex Entry. Current average is 10.854s vs best of 9.018s.,HIGH,1.836s per lap,Turn 7 Complex Entry,57,Jeff Curry
+Braking Zone,Losing 2.821s at Turn 1 Entry,"Focus on later, harder braking at Turn 1 Entry. Current average is 26.983s vs best of 24.162s.",HIGH,2.821s per lap,Turn 1 Entry,61,James Klimas
+Speed Section,Losing 1.313s at Oval Entry,Carry more speed through Oval Entry. Check for setup or technique issues.,MEDIUM,1.313s per lap,Oval Entry,61,James Klimas
+Technical Section,Losing 1.255s through Turn 7 Complex Entry,Optimize racing line through Turn 7 Complex Entry. Current average is 10.001s vs best of 8.746s.,HIGH,1.255s per lap,Turn 7 Complex Entry,61,James Klimas
+Braking Zone,Losing 0.509s at Turn 1 Entry,"Focus on later, harder braking at Turn 1 Entry. Current average is 24.280s vs best of 23.771s.",HIGH,0.509s per lap,Turn 1 Entry,7,Jaxon Bell
+Speed Section,Losing 0.138s at Finish Line,Carry more speed through Finish Line. Check for setup or technique issues.,MEDIUM,0.138s per lap,Finish Line,7,Jaxon Bell
+Technical Section,Losing 0.109s through Turn 7 Complex Entry,Optimize racing line through Turn 7 Complex Entry. Current average is 8.966s vs best of 8.857s.,MEDIUM,0.109s per lap,Turn 7 Complex Entry,7,Jaxon Bell
+Speed Section,Losing 4.193s at Finish Line,Carry more speed through Finish Line. Check for setup or technique issues.,MEDIUM,4.193s per lap,Finish Line,72,Ethan Goulart
+Braking Zone,Losing 3.098s at Turn 1 Entry,"Focus on later, harder braking at Turn 1 Entry. Current average is 26.792s vs best of 23.694s.",HIGH,3.098s per lap,Turn 1 Entry,72,Ethan Goulart
+Technical Section,Losing 1.727s through Turn 7 Complex Entry,Optimize racing line through Turn 7 Complex Entry. Current average is 10.066s vs best of 8.339s.,HIGH,1.727s per lap,Turn 7 Complex Entry,72,Ethan Goulart
+Speed Section,Losing 2.970s at Finish Line,Carry more speed through Finish Line. Check for setup or technique issues.,MEDIUM,2.970s per lap,Finish Line,8,Tom Rudnai
+Braking Zone,Losing 2.804s at Turn 1 Entry,"Focus on later, harder braking at Turn 1 Entry. Current average is 27.344s vs best of 24.540s.",HIGH,2.804s per lap,Turn 1 Entry,8,Tom Rudnai
+Technical Section,Losing 1.327s through Turn 7 Complex Entry,Optimize racing line through Turn 7 Complex Entry. Current average is 9.703s vs best of 8.376s.,HIGH,1.327s per lap,Turn 7 Complex Entry,8,Tom Rudnai
+Braking Zone,Losing 2.230s at Turn 1 Entry,"Focus on later, harder braking at Turn 1 Entry. Current average is 26.533s vs best of 24.303s.",HIGH,2.230s per lap,Turn 1 Entry,80,Paityn Feyen
+Technical Section,Losing 1.213s through Turn 7 Complex Entry,Optimize racing line through Turn 7 Complex Entry. Current average is 9.821s vs best of 8.608s.,HIGH,1.213s per lap,Turn 7 Complex Entry,80,Paityn Feyen
+Speed Section,Losing 0.808s at Finish Line,Carry more speed through Finish Line. Check for setup or technique issues.,MEDIUM,0.808s per lap,Finish Line,80,Paityn Feyen
+Speed Section,Losing 2.931s at Finish Line,Carry more speed through Finish Line. Check for setup or technique issues.,MEDIUM,2.931s per lap,Finish Line,88,Henry Drury
+Braking Zone,Losing 2.494s at Turn 1 Entry,"Focus on later, harder braking at Turn 1 Entry. Current average is 26.437s vs best of 23.943s.",HIGH,2.494s per lap,Turn 1 Entry,88,Henry Drury
+Technical Section,Losing 1.605s through Turn 7 Complex Entry,Optimize racing line through Turn 7 Complex Entry. Current average is 10.317s vs best of 8.712s.,HIGH,1.605s per lap,Turn 7 Complex Entry,88,Henry Drury
+Speed Section,Losing 2.698s at Finish Line,Carry more speed through Finish Line. Check for setup or technique issues.,MEDIUM,2.698s per lap,Finish Line,89,Livio Galanti
+Braking Zone,Losing 2.638s at Turn 1 Entry,"Focus on later, harder braking at Turn 1 Entry. Current average is 26.688s vs best of 24.050s.",HIGH,2.638s per lap,Turn 1 Entry,89,Livio Galanti
+Technical Section,Losing 1.685s through Turn 7 Complex Entry,Optimize racing line through Turn 7 Complex Entry. Current average is 10.011s vs best of 8.326s.,HIGH,1.685s per lap,Turn 7 Complex Entry,89,Livio Galanti
+Braking Zone,Losing 2.581s at Turn 1 Entry,"Focus on later, harder braking at Turn 1 Entry. Current average is 26.844s vs best of 24.263s.",HIGH,2.581s per lap,Turn 1 Entry,93,Patrick Brunson
+Technical Section,Losing 1.621s through Turn 7 Complex Entry,Optimize racing line through Turn 7 Complex Entry. Current average is 10.225s vs best of 8.604s.,HIGH,1.621s per lap,Turn 7 Complex Entry,93,Patrick Brunson
+Speed Section,Losing 0.931s at Finish Line,Carry more speed through Finish Line. Check for setup or technique issues.,MEDIUM,0.931s per lap,Finish Line,93,Patrick Brunson
+Speed Section,Losing 2.653s at Finish Line,Carry more speed through Finish Line. Check for setup or technique issues.,MEDIUM,2.653s per lap,Finish Line,98,Max Schweid
+Braking Zone,Losing 2.354s at Turn 1 Entry,"Focus on later, harder braking at Turn 1 Entry. Current average is 26.131s vs best of 23.777s.",HIGH,2.354s per lap,Turn 1 Entry,98,Max Schweid
+Speed Section,Losing 1.618s at Oval Entry,Carry more speed through Oval Entry. Check for setup or technique issues.,MEDIUM,1.618s per lap,Oval Entry,98,Max Schweid

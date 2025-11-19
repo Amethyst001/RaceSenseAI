@@ -1,0 +1,35 @@
+================================================================================
+OFFICIAL RESULTS & BEST LAPS ANALYSIS
+================================================================================
+
+CONSISTENCY ANALYSIS (Best 10 Laps)
+--------------------------------------------------------------------------------
+Drivers analyzed: 25
+
+Most Consistent Drivers (Top 5):
+  Car #111: Best=101.405s, Std=0.121s, Score=99.9%
+  Car #89: Best=101.322s, Std=0.122s, Score=99.9%
+  Car #93: Best=102.091s, Std=0.126s, Score=99.9%
+  Car #2: Best=100.305s, Std=0.135s, Score=99.9%
+  Car #113: Best=100.717s, Std=0.136s, Score=99.9%
+
+Fastest Drivers (Top 5):
+  Car #55: 99.748s (Avg of best 10: 100.193s)
+  Car #72: 100.040s (Avg of best 10: 100.562s)
+  Car #98: 100.062s (Avg of best 10: 100.403s)
+  Car #13: 100.133s (Avg of best 10: 100.378s)
+  Car #22: 100.156s (Avg of best 10: 100.469s)
+
+================================================================================
+PREDICTION ACCURACY
+--------------------------------------------------------------------------------
+Mean Absolute Error: 0.513s
+Median Error: 0.046s
+Mean Error Percentage: 0.51%
+
+Most Accurate Predictions (Top 5):
+  Car #18: Predicted=101.876s, Actual=101.873s, Error=0.003s
+  Car #46: Predicted=100.247s, Actual=100.229s, Error=0.018s
+  Car #47: Predicted=100.343s, Actual=100.322s, Error=0.021s
+  Car #8: Predicted=103.645s, Actual=103.621s, Error=0.024s
+  Car #13: Predicted=100.101s, Actual=100.133s, Error=0.032s

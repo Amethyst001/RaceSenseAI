@@ -1,0 +1,19 @@
+{
+  "avg_air_temp": 17.547540322580648,
+  "avg_track_temp": 17.44475806451613,
+  "avg_humidity": 74.55153225806451,
+  "temp_range": {
+    "min": 16.9,
+    "max": 18.5
+  },
+  "optimal_conditions": {
+    "track_temp": 18.3,
+    "humidity": 72.36,
+    "weather_score": 0.8901748971193425
+  },
+  "weather_correlation": {
+    "track_temp": -0.1392877495397044,
+    "humidity": 0.10743706973102653,
+    "weather_score": -0.12751681652648972
+  }
+}

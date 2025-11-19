@@ -1,0 +1,1041 @@
+[
+  {
+    "driver_name": "Car #47",
+    "analysis": {
+      "driver_profile": {
+        "name": "Car #47",
+        "style": "smooth",
+        "experience": "novice",
+        "consistency": "0.0%",
+        "strengths": [
+          "Speed Consistency",
+          "Throttle Control",
+          "Braking Consistency"
+        ],
+        "weaknesses": []
+      },
+      "performance_insights": {
+        "ai_commentary": "Car #47 faces a 0.23s deficit to their optimal pace, likely influenced by mid-session conditions and their tendency to improves under competitive pressure. Our prediction engine shows exceptional confidence (79%) with 6/6 models in agreement, indicating highly predictable performance patterns. Race conditions favor their smooth approach, with tire preservation likely playing to their strengths in the latter stages of the stint.",
+        "telemetry_analysis": {
+          "braking_technique": "Excellent braking consistency with only 2.3% variation. This precision is a key strength, particularly effective in the technical infield section. Consider exploring 5-10m later braking points in Turn 7 to capitalize on this control for potential 0.1s gains.",
+          "throttle_application": "Well-balanced throttle technique with 67.1% average application and 0.0% time at full throttle. Fine-tuning opportunity exists in the transition zones - focus on eliminating brief lifts in the sweeper sections for marginal gains.",
+          "speed_optimization": "Top speed of 139.7 km/h indicates potential aerodynamic or mechanical limitations. However, your strength in maintaining 129.9 km/h average suggests excellent technical driving. Consider setup adjustments to reduce drag for the main straight while preserving cornering performance.",
+          "sector_analysis": "Sector analysis indicates strongest performance in the technical infield (S1) where precision driving pays dividends. The high-speed sweeper section (S2) shows moderate efficiency with opportunities for improved line optimization. The oval section (S3) demonstrates good straight-line speed but could benefit from optimized corner exit technique in Turn 14 for maximum main straight advantage."
+        },
+        "comparative_analysis": "Performance gap of 12.940s to the fastest lap indicates significant improvement potential. Analysis suggests the largest gains available through technique refinement and setup optimization. Currently 12.111s faster than session average, demonstrating above-average pace and consistency. This performance level suggests strong race potential with proper strategic execution."
+      },
+      "recommendations": [
+        {
+          "category": "Consistency Development",
+          "priority": "HIGH",
+          "explanation": "Current consistency rating of 0.0% indicates significant lap time variation. Improving consistency is the fastest path to better overall performance.",
+          "implementation": "Focus on repeatable reference points, standardized braking markers, and consistent throttle application patterns.",
+          "potential_gain": 0.25,
+          "difficulty": "Medium",
+          "timeline": "3-4 sessions",
+          "success_metrics": "Target: Reduce lap time standard deviation by 30%"
+        },
+        {
+          "category": "Setup Optimization",
+          "priority": "LOW",
+          "explanation": "Once driving technique is optimized, setup adjustments can extract final performance gains.",
+          "implementation": "Work with engineer on aerodynamic balance and differential settings tailored to your driving style.",
+          "potential_gain": 0.08,
+          "difficulty": "Medium",
+          "timeline": "2-3 sessions",
+          "success_metrics": "Target: 0.05-0.10s improvement through setup changes"
+        }
+      ],
+      "improvement_plan": {
+        "timeline_description": "Solid foundation with room for consistency improvement. Dedicate 2-3 sessions to consistency work, then transition to advanced technique refinement. Expected timeline to optimal performance: 4-6 sessions.",
+        "phase_1": "Consistency & Fundamentals (Sessions 1-3)",
+        "phase_2": "Technique Refinement (Sessions 4-6)",
+        "phase_3": "Race Craft & Optimization (Sessions 7+)"
+      }
+    }
+  },
+  {
+    "driver_name": "Car #13",
+    "analysis": {
+      "driver_profile": {
+        "name": "Car #13",
+        "style": "smooth",
+        "experience": "novice",
+        "consistency": "0.0%",
+        "strengths": [
+          "Speed Consistency",
+          "Throttle Control",
+          "Braking Consistency"
+        ],
+        "weaknesses": []
+      },
+      "performance_insights": {
+        "ai_commentary": "Car #13 faces a 0.71s deficit to their optimal pace, likely influenced by mid-session conditions and their tendency to improves under competitive pressure. Lower prediction confidence (57%) reflects the unpredictable nature of their recent performances, requiring careful session management. Race conditions favor their smooth approach, with tire preservation likely playing to their strengths in the latter stages of the stint.",
+        "telemetry_analysis": {
+          "braking_technique": "Excellent braking consistency with only 1.8% variation. This precision is a key strength, particularly effective in the technical infield section. Consider exploring 5-10m later braking points in Turn 7 to capitalize on this control for potential 0.1s gains.",
+          "throttle_application": "Well-balanced throttle technique with 67.3% average application and 0.0% time at full throttle. Fine-tuning opportunity exists in the transition zones - focus on eliminating brief lifts in the sweeper sections for marginal gains.",
+          "speed_optimization": "Top speed of 139.7 km/h indicates potential aerodynamic or mechanical limitations. However, your strength in maintaining 129.4 km/h average suggests excellent technical driving. Consider setup adjustments to reduce drag for the main straight while preserving cornering performance.",
+          "sector_analysis": "Sector analysis indicates strongest performance in the technical infield (S1) where precision driving pays dividends. The high-speed sweeper section (S2) shows moderate efficiency with opportunities for improved line optimization. The oval section (S3) demonstrates good straight-line speed but could benefit from optimized corner exit technique in Turn 14 for maximum main straight advantage."
+        },
+        "comparative_analysis": "Performance gap of 12.698s to the fastest lap indicates significant improvement potential. Analysis suggests the largest gains available through technique refinement and setup optimization. Currently 12.353s faster than session average, demonstrating above-average pace and consistency. This performance level suggests strong race potential with proper strategic execution."
+      },
+      "recommendations": [
+        {
+          "category": "Consistency Development",
+          "priority": "HIGH",
+          "explanation": "Current consistency rating of 0.0% indicates significant lap time variation. Improving consistency is the fastest path to better overall performance.",
+          "implementation": "Focus on repeatable reference points, standardized braking markers, and consistent throttle application patterns.",
+          "potential_gain": 0.25,
+          "difficulty": "Medium",
+          "timeline": "3-4 sessions",
+          "success_metrics": "Target: Reduce lap time standard deviation by 30%"
+        },
+        {
+          "category": "Setup Optimization",
+          "priority": "LOW",
+          "explanation": "Once driving technique is optimized, setup adjustments can extract final performance gains.",
+          "implementation": "Work with engineer on aerodynamic balance and differential settings tailored to your driving style.",
+          "potential_gain": 0.08,
+          "difficulty": "Medium",
+          "timeline": "2-3 sessions",
+          "success_metrics": "Target: 0.05-0.10s improvement through setup changes"
+        }
+      ],
+      "improvement_plan": {
+        "timeline_description": "Focus on consistency development over the next 3-4 sessions. Once lap time variation reduces, shift focus to pace optimization. Expected timeline to competitive pace: 6-8 sessions with dedicated practice.",
+        "phase_1": "Consistency & Fundamentals (Sessions 1-3)",
+        "phase_2": "Technique Refinement (Sessions 4-6)",
+        "phase_3": "Race Craft & Optimization (Sessions 7+)"
+      }
+    }
+  },
+  {
+    "driver_name": "Car #98",
+    "analysis": {
+      "driver_profile": {
+        "name": "Car #98",
+        "style": "smooth",
+        "experience": "novice",
+        "consistency": "0.0%",
+        "strengths": [
+          "Speed Consistency",
+          "Throttle Control",
+          "Braking Consistency"
+        ],
+        "weaknesses": []
+      },
+      "performance_insights": {
+        "ai_commentary": "Car #98 faces a 0.97s deficit to their optimal pace, likely influenced by mid-session conditions and their tendency to improves under competitive pressure. Moderate prediction confidence (65%) suggests some variability in performance, typical for drivers with smooth characteristics. Race conditions favor their smooth approach, with tire preservation likely playing to their strengths in the latter stages of the stint.",
+        "telemetry_analysis": {
+          "braking_technique": "Excellent braking consistency with only 2.4% variation. This precision is a key strength, particularly effective in the technical infield section. Consider exploring 5-10m later braking points in Turn 7 to capitalize on this control for potential 0.1s gains.",
+          "throttle_application": "Well-balanced throttle technique with 65.5% average application and 0.0% time at full throttle. Fine-tuning opportunity exists in the transition zones - focus on eliminating brief lifts in the sweeper sections for marginal gains.",
+          "speed_optimization": "Top speed of 139.4 km/h indicates potential aerodynamic or mechanical limitations. However, your strength in maintaining 128.5 km/h average suggests excellent technical driving. Consider setup adjustments to reduce drag for the main straight while preserving cornering performance.",
+          "sector_analysis": "Sector analysis indicates strongest performance in the technical infield (S1) where precision driving pays dividends. The high-speed sweeper section (S2) shows moderate efficiency with opportunities for improved line optimization. The oval section (S3) demonstrates good straight-line speed but could benefit from optimized corner exit technique in Turn 14 for maximum main straight advantage."
+        },
+        "comparative_analysis": "Performance gap of 12.695s to the fastest lap indicates significant improvement potential. Analysis suggests the largest gains available through technique refinement and setup optimization. Currently 12.356s faster than session average, demonstrating above-average pace and consistency. This performance level suggests strong race potential with proper strategic execution."
+      },
+      "recommendations": [
+        {
+          "category": "Consistency Development",
+          "priority": "HIGH",
+          "explanation": "Current consistency rating of 0.0% indicates significant lap time variation. Improving consistency is the fastest path to better overall performance.",
+          "implementation": "Focus on repeatable reference points, standardized braking markers, and consistent throttle application patterns.",
+          "potential_gain": 0.25,
+          "difficulty": "Medium",
+          "timeline": "3-4 sessions",
+          "success_metrics": "Target: Reduce lap time standard deviation by 30%"
+        },
+        {
+          "category": "Setup Optimization",
+          "priority": "LOW",
+          "explanation": "Once driving technique is optimized, setup adjustments can extract final performance gains.",
+          "implementation": "Work with engineer on aerodynamic balance and differential settings tailored to your driving style.",
+          "potential_gain": 0.08,
+          "difficulty": "Medium",
+          "timeline": "2-3 sessions",
+          "success_metrics": "Target: 0.05-0.10s improvement through setup changes"
+        }
+      ],
+      "improvement_plan": {
+        "timeline_description": "Solid foundation with room for consistency improvement. Dedicate 2-3 sessions to consistency work, then transition to advanced technique refinement. Expected timeline to optimal performance: 4-6 sessions.",
+        "phase_1": "Consistency & Fundamentals (Sessions 1-3)",
+        "phase_2": "Technique Refinement (Sessions 4-6)",
+        "phase_3": "Race Craft & Optimization (Sessions 7+)"
+      }
+    }
+  },
+  {
+    "driver_name": "Car #113",
+    "analysis": {
+      "driver_profile": {
+        "name": "Car #113",
+        "style": "smooth",
+        "experience": "novice",
+        "consistency": "0.0%",
+        "strengths": [
+          "Speed Consistency",
+          "Braking Consistency"
+        ],
+        "weaknesses": []
+      },
+      "performance_insights": {
+        "ai_commentary": "Car #113 faces a 4.26s deficit to their optimal pace, likely influenced by mid-session conditions and their tendency to improves under competitive pressure. Lower prediction confidence (56%) reflects the unpredictable nature of their recent performances, requiring careful session management. Race conditions favor their smooth approach, with tire preservation likely playing to their strengths in the latter stages of the stint.",
+        "telemetry_analysis": {
+          "braking_technique": "Excellent braking consistency with only 2.0% variation. This precision is a key strength, particularly effective in the technical infield section. Consider exploring 5-10m later braking points in Turn 7 to capitalize on this control for potential 0.1s gains.",
+          "throttle_application": "Throttle application shows 20.7% variation indicating aggressive on-off technique. While generating good rotation, this costs traction on corner exit. Smoother progressive application from 60% to 100% throttle could yield 0.12-0.18s per lap, especially beneficial in the high-speed sweeper complex.",
+          "speed_optimization": "Top speed of 139.0 km/h indicates potential aerodynamic or mechanical limitations. However, your strength in maintaining 128.6 km/h average suggests excellent technical driving. Consider setup adjustments to reduce drag for the main straight while preserving cornering performance.",
+          "sector_analysis": "Sector analysis indicates strongest performance in the technical infield (S1) where precision driving pays dividends. The high-speed sweeper section (S2) shows moderate efficiency with opportunities for improved line optimization. The oval section (S3) demonstrates good straight-line speed but could benefit from optimized corner exit technique in Turn 14 for maximum main straight advantage."
+        },
+        "comparative_analysis": "Performance gap of 9.460s to the fastest lap indicates significant improvement potential. Analysis suggests the largest gains available through technique refinement and setup optimization. Currently 15.591s faster than session average, demonstrating above-average pace and consistency. This performance level suggests strong race potential with proper strategic execution."
+      },
+      "recommendations": [
+        {
+          "category": "Consistency Development",
+          "priority": "HIGH",
+          "explanation": "Current consistency rating of 0.0% indicates significant lap time variation. Improving consistency is the fastest path to better overall performance.",
+          "implementation": "Focus on repeatable reference points, standardized braking markers, and consistent throttle application patterns.",
+          "potential_gain": 0.25,
+          "difficulty": "Medium",
+          "timeline": "3-4 sessions",
+          "success_metrics": "Target: Reduce lap time standard deviation by 30%"
+        },
+        {
+          "category": "Setup Optimization",
+          "priority": "LOW",
+          "explanation": "Once driving technique is optimized, setup adjustments can extract final performance gains.",
+          "implementation": "Work with engineer on aerodynamic balance and differential settings tailored to your driving style.",
+          "potential_gain": 0.08,
+          "difficulty": "Medium",
+          "timeline": "2-3 sessions",
+          "success_metrics": "Target: 0.05-0.10s improvement through setup changes"
+        }
+      ],
+      "improvement_plan": {
+        "timeline_description": "Focus on consistency development over the next 3-4 sessions. Once lap time variation reduces, shift focus to pace optimization. Expected timeline to competitive pace: 6-8 sessions with dedicated practice.",
+        "phase_1": "Consistency & Fundamentals (Sessions 1-3)",
+        "phase_2": "Technique Refinement (Sessions 4-6)",
+        "phase_3": "Race Craft & Optimization (Sessions 7+)"
+      }
+    }
+  },
+  {
+    "driver_name": "Car #16",
+    "analysis": {
+      "driver_profile": {
+        "name": "Car #16",
+        "style": "smooth",
+        "experience": "novice",
+        "consistency": "0.0%",
+        "strengths": [
+          "Throttle Control",
+          "Braking Consistency"
+        ],
+        "weaknesses": []
+      },
+      "performance_insights": {
+        "ai_commentary": "Car #16 faces a 1.08s deficit to their optimal pace, likely influenced by mid-session conditions and their tendency to improves under competitive pressure. Our prediction engine shows exceptional confidence (79%) with 6/6 models in agreement, indicating highly predictable performance patterns. Race conditions favor their smooth approach, with tire preservation likely playing to their strengths in the latter stages of the stint.",
+        "telemetry_analysis": {
+          "braking_technique": "Excellent braking consistency with only 2.0% variation. This precision is a key strength, particularly effective in the technical infield section. Consider exploring 5-10m later braking points in Turn 7 to capitalize on this control for potential 0.1s gains.",
+          "throttle_application": "Conservative throttle usage at 64.6% average suggests untapped performance potential. Your smooth style supports more aggressive application - target 70-75% average with earlier initial application for 0.15s improvement potential.",
+          "speed_optimization": "Top speed of 139.8 km/h indicates potential aerodynamic or mechanical limitations. However, your strength in maintaining 127.0 km/h average suggests excellent technical driving. Consider setup adjustments to reduce drag for the main straight while preserving cornering performance.",
+          "sector_analysis": "Sector analysis indicates strongest performance in the technical infield (S1) where precision driving pays dividends. The high-speed sweeper section (S2) shows moderate efficiency with opportunities for improved line optimization. The oval section (S3) demonstrates good straight-line speed but could benefit from optimized corner exit technique in Turn 14 for maximum main straight advantage."
+        },
+        "comparative_analysis": "Performance gap of 12.707s to the fastest lap indicates significant improvement potential. Analysis suggests the largest gains available through technique refinement and setup optimization. Currently 12.344s faster than session average, demonstrating above-average pace and consistency. This performance level suggests strong race potential with proper strategic execution."
+      },
+      "recommendations": [
+        {
+          "category": "Consistency Development",
+          "priority": "HIGH",
+          "explanation": "Current consistency rating of 0.0% indicates significant lap time variation. Improving consistency is the fastest path to better overall performance.",
+          "implementation": "Focus on repeatable reference points, standardized braking markers, and consistent throttle application patterns.",
+          "potential_gain": 0.25,
+          "difficulty": "Medium",
+          "timeline": "3-4 sessions",
+          "success_metrics": "Target: Reduce lap time standard deviation by 30%"
+        },
+        {
+          "category": "Setup Optimization",
+          "priority": "LOW",
+          "explanation": "Once driving technique is optimized, setup adjustments can extract final performance gains.",
+          "implementation": "Work with engineer on aerodynamic balance and differential settings tailored to your driving style.",
+          "potential_gain": 0.08,
+          "difficulty": "Medium",
+          "timeline": "2-3 sessions",
+          "success_metrics": "Target: 0.05-0.10s improvement through setup changes"
+        }
+      ],
+      "improvement_plan": {
+        "timeline_description": "Solid foundation with room for consistency improvement. Dedicate 2-3 sessions to consistency work, then transition to advanced technique refinement. Expected timeline to optimal performance: 4-6 sessions.",
+        "phase_1": "Consistency & Fundamentals (Sessions 1-3)",
+        "phase_2": "Technique Refinement (Sessions 4-6)",
+        "phase_3": "Race Craft & Optimization (Sessions 7+)"
+      }
+    }
+  },
+  {
+    "driver_name": "Car #46",
+    "analysis": {
+      "driver_profile": {
+        "name": "Car #46",
+        "style": "smooth",
+        "experience": "novice",
+        "consistency": "0.0%",
+        "strengths": [
+          "Speed Consistency",
+          "Throttle Control",
+          "Braking Consistency"
+        ],
+        "weaknesses": []
+      },
+      "performance_insights": {
+        "ai_commentary": "Car #46 faces a 1.23s deficit to their optimal pace, likely influenced by mid-session conditions and their tendency to improves under competitive pressure. Our prediction engine shows exceptional confidence (80%) with 6/6 models in agreement, indicating highly predictable performance patterns. Race conditions favor their smooth approach, with tire preservation likely playing to their strengths in the latter stages of the stint.",
+        "telemetry_analysis": {
+          "braking_technique": "Excellent braking consistency with only 2.0% variation. This precision is a key strength, particularly effective in the technical infield section. Consider exploring 5-10m later braking points in Turn 7 to capitalize on this control for potential 0.1s gains.",
+          "throttle_application": "Well-balanced throttle technique with 66.5% average application and 0.0% time at full throttle. Fine-tuning opportunity exists in the transition zones - focus on eliminating brief lifts in the sweeper sections for marginal gains.",
+          "speed_optimization": "Top speed of 139.6 km/h indicates potential aerodynamic or mechanical limitations. However, your strength in maintaining 130.7 km/h average suggests excellent technical driving. Consider setup adjustments to reduce drag for the main straight while preserving cornering performance.",
+          "sector_analysis": "Sector analysis indicates strongest performance in the technical infield (S1) where precision driving pays dividends. The high-speed sweeper section (S2) shows moderate efficiency with opportunities for improved line optimization. The oval section (S3) demonstrates good straight-line speed but could benefit from optimized corner exit technique in Turn 14 for maximum main straight advantage."
+        },
+        "comparative_analysis": "Performance gap of 12.844s to the fastest lap indicates significant improvement potential. Analysis suggests the largest gains available through technique refinement and setup optimization. Currently 12.207s faster than session average, demonstrating above-average pace and consistency. This performance level suggests strong race potential with proper strategic execution."
+      },
+      "recommendations": [
+        {
+          "category": "Consistency Development",
+          "priority": "HIGH",
+          "explanation": "Current consistency rating of 0.0% indicates significant lap time variation. Improving consistency is the fastest path to better overall performance.",
+          "implementation": "Focus on repeatable reference points, standardized braking markers, and consistent throttle application patterns.",
+          "potential_gain": 0.25,
+          "difficulty": "Medium",
+          "timeline": "3-4 sessions",
+          "success_metrics": "Target: Reduce lap time standard deviation by 30%"
+        },
+        {
+          "category": "Setup Optimization",
+          "priority": "LOW",
+          "explanation": "Once driving technique is optimized, setup adjustments can extract final performance gains.",
+          "implementation": "Work with engineer on aerodynamic balance and differential settings tailored to your driving style.",
+          "potential_gain": 0.08,
+          "difficulty": "Medium",
+          "timeline": "2-3 sessions",
+          "success_metrics": "Target: 0.05-0.10s improvement through setup changes"
+        }
+      ],
+      "improvement_plan": {
+        "timeline_description": "Solid foundation with room for consistency improvement. Dedicate 2-3 sessions to consistency work, then transition to advanced technique refinement. Expected timeline to optimal performance: 4-6 sessions.",
+        "phase_1": "Consistency & Fundamentals (Sessions 1-3)",
+        "phase_2": "Technique Refinement (Sessions 4-6)",
+        "phase_3": "Race Craft & Optimization (Sessions 7+)"
+      }
+    }
+  },
+  {
+    "driver_name": "Car #21",
+    "analysis": {
+      "driver_profile": {
+        "name": "Car #21",
+        "style": "smooth",
+        "experience": "novice",
+        "consistency": "0.0%",
+        "strengths": [
+          "Speed Consistency",
+          "Throttle Control",
+          "Braking Consistency"
+        ],
+        "weaknesses": []
+      },
+      "performance_insights": {
+        "ai_commentary": "Car #21 faces a 1.35s deficit to their optimal pace, likely influenced by mid-session conditions and their tendency to improves under competitive pressure. Our prediction engine shows exceptional confidence (79%) with 6/6 models in agreement, indicating highly predictable performance patterns. Race conditions favor their smooth approach, with tire preservation likely playing to their strengths in the latter stages of the stint.",
+        "telemetry_analysis": {
+          "braking_technique": "Excellent braking consistency with only 2.3% variation. This precision is a key strength, particularly effective in the technical infield section. Consider exploring 5-10m later braking points in Turn 7 to capitalize on this control for potential 0.1s gains.",
+          "throttle_application": "Well-balanced throttle technique with 66.1% average application and 0.0% time at full throttle. Fine-tuning opportunity exists in the transition zones - focus on eliminating brief lifts in the sweeper sections for marginal gains.",
+          "speed_optimization": "Top speed of 138.9 km/h indicates potential aerodynamic or mechanical limitations. However, your strength in maintaining 128.6 km/h average suggests excellent technical driving. Consider setup adjustments to reduce drag for the main straight while preserving cornering performance.",
+          "sector_analysis": "Sector analysis indicates strongest performance in the technical infield (S1) where precision driving pays dividends. The high-speed sweeper section (S2) shows moderate efficiency with opportunities for improved line optimization. The oval section (S3) demonstrates good straight-line speed but could benefit from optimized corner exit technique in Turn 14 for maximum main straight advantage."
+        },
+        "comparative_analysis": "Performance gap of 13.261s to the fastest lap indicates significant improvement potential. Analysis suggests the largest gains available through technique refinement and setup optimization. Currently 11.790s faster than session average, demonstrating above-average pace and consistency. This performance level suggests strong race potential with proper strategic execution."
+      },
+      "recommendations": [
+        {
+          "category": "Consistency Development",
+          "priority": "HIGH",
+          "explanation": "Current consistency rating of 0.0% indicates significant lap time variation. Improving consistency is the fastest path to better overall performance.",
+          "implementation": "Focus on repeatable reference points, standardized braking markers, and consistent throttle application patterns.",
+          "potential_gain": 0.25,
+          "difficulty": "Medium",
+          "timeline": "3-4 sessions",
+          "success_metrics": "Target: Reduce lap time standard deviation by 30%"
+        },
+        {
+          "category": "Setup Optimization",
+          "priority": "LOW",
+          "explanation": "Once driving technique is optimized, setup adjustments can extract final performance gains.",
+          "implementation": "Work with engineer on aerodynamic balance and differential settings tailored to your driving style.",
+          "potential_gain": 0.08,
+          "difficulty": "Medium",
+          "timeline": "2-3 sessions",
+          "success_metrics": "Target: 0.05-0.10s improvement through setup changes"
+        }
+      ],
+      "improvement_plan": {
+        "timeline_description": "Solid foundation with room for consistency improvement. Dedicate 2-3 sessions to consistency work, then transition to advanced technique refinement. Expected timeline to optimal performance: 4-6 sessions.",
+        "phase_1": "Consistency & Fundamentals (Sessions 1-3)",
+        "phase_2": "Technique Refinement (Sessions 4-6)",
+        "phase_3": "Race Craft & Optimization (Sessions 7+)"
+      }
+    }
+  },
+  {
+    "driver_name": "Car #89",
+    "analysis": {
+      "driver_profile": {
+        "name": "Car #89",
+        "style": "smooth",
+        "experience": "novice",
+        "consistency": "0.0%",
+        "strengths": [
+          "Speed Consistency",
+          "Throttle Control",
+          "Braking Consistency"
+        ],
+        "weaknesses": []
+      },
+      "performance_insights": {
+        "ai_commentary": "Car #89 faces a 0.87s deficit to their optimal pace, likely influenced by mid-session conditions and their tendency to degrades under competitive pressure. Our prediction engine shows exceptional confidence (78%) with 6/6 models in agreement, indicating highly predictable performance patterns. Race conditions favor their smooth approach, with tire preservation likely playing to their strengths in the latter stages of the stint.",
+        "telemetry_analysis": {
+          "braking_technique": "Excellent braking consistency with only 2.0% variation. This precision is a key strength, particularly effective in the technical infield section. Consider exploring 5-10m later braking points in Turn 7 to capitalize on this control for potential 0.1s gains.",
+          "throttle_application": "Well-balanced throttle technique with 65.1% average application and 0.0% time at full throttle. Fine-tuning opportunity exists in the transition zones - focus on eliminating brief lifts in the sweeper sections for marginal gains.",
+          "speed_optimization": "Top speed of 138.5 km/h indicates potential aerodynamic or mechanical limitations. However, your strength in maintaining 127.9 km/h average suggests excellent technical driving. Consider setup adjustments to reduce drag for the main straight while preserving cornering performance.",
+          "sector_analysis": "Sector analysis indicates strongest performance in the technical infield (S1) where precision driving pays dividends. The high-speed sweeper section (S2) shows moderate efficiency with opportunities for improved line optimization. The oval section (S3) demonstrates good straight-line speed but could benefit from optimized corner exit technique in Turn 14 for maximum main straight advantage."
+        },
+        "comparative_analysis": "Performance gap of 13.756s to the fastest lap indicates significant improvement potential. Analysis suggests the largest gains available through technique refinement and setup optimization. Currently 11.295s faster than session average, demonstrating above-average pace and consistency. This performance level suggests strong race potential with proper strategic execution."
+      },
+      "recommendations": [
+        {
+          "category": "Consistency Development",
+          "priority": "HIGH",
+          "explanation": "Current consistency rating of 0.0% indicates significant lap time variation. Improving consistency is the fastest path to better overall performance.",
+          "implementation": "Focus on repeatable reference points, standardized braking markers, and consistent throttle application patterns.",
+          "potential_gain": 0.25,
+          "difficulty": "Medium",
+          "timeline": "3-4 sessions",
+          "success_metrics": "Target: Reduce lap time standard deviation by 30%"
+        },
+        {
+          "category": "Setup Optimization",
+          "priority": "LOW",
+          "explanation": "Once driving technique is optimized, setup adjustments can extract final performance gains.",
+          "implementation": "Work with engineer on aerodynamic balance and differential settings tailored to your driving style.",
+          "potential_gain": 0.08,
+          "difficulty": "Medium",
+          "timeline": "2-3 sessions",
+          "success_metrics": "Target: 0.05-0.10s improvement through setup changes"
+        }
+      ],
+      "improvement_plan": {
+        "timeline_description": "Solid foundation with room for consistency improvement. Dedicate 2-3 sessions to consistency work, then transition to advanced technique refinement. Expected timeline to optimal performance: 4-6 sessions.",
+        "phase_1": "Consistency & Fundamentals (Sessions 1-3)",
+        "phase_2": "Technique Refinement (Sessions 4-6)",
+        "phase_3": "Race Craft & Optimization (Sessions 7+)"
+      }
+    }
+  },
+  {
+    "driver_name": "Car #88",
+    "analysis": {
+      "driver_profile": {
+        "name": "Car #88",
+        "style": "smooth",
+        "experience": "novice",
+        "consistency": "0.0%",
+        "strengths": [
+          "Speed Consistency",
+          "Throttle Control",
+          "Braking Consistency"
+        ],
+        "weaknesses": []
+      },
+      "performance_insights": {
+        "ai_commentary": "Car #88 faces a 1.63s deficit to their optimal pace, likely influenced by mid-session conditions and their tendency to improves under competitive pressure. Our prediction engine shows exceptional confidence (79%) with 6/6 models in agreement, indicating highly predictable performance patterns. Race conditions favor their smooth approach, with tire preservation likely playing to their strengths in the latter stages of the stint.",
+        "telemetry_analysis": {
+          "braking_technique": "Excellent braking consistency with only 1.7% variation. This precision is a key strength, particularly effective in the technical infield section. Consider exploring 5-10m later braking points in Turn 7 to capitalize on this control for potential 0.1s gains.",
+          "throttle_application": "Well-balanced throttle technique with 67.5% average application and 0.0% time at full throttle. Fine-tuning opportunity exists in the transition zones - focus on eliminating brief lifts in the sweeper sections for marginal gains.",
+          "speed_optimization": "Top speed of 138.9 km/h indicates potential aerodynamic or mechanical limitations. However, your strength in maintaining 128.4 km/h average suggests excellent technical driving. Consider setup adjustments to reduce drag for the main straight while preserving cornering performance.",
+          "sector_analysis": "Sector analysis indicates strongest performance in the technical infield (S1) where precision driving pays dividends. The high-speed sweeper section (S2) shows moderate efficiency with opportunities for improved line optimization. The oval section (S3) demonstrates good straight-line speed but could benefit from optimized corner exit technique in Turn 14 for maximum main straight advantage."
+        },
+        "comparative_analysis": "Performance gap of 13.011s to the fastest lap indicates significant improvement potential. Analysis suggests the largest gains available through technique refinement and setup optimization. Currently 12.040s faster than session average, demonstrating above-average pace and consistency. This performance level suggests strong race potential with proper strategic execution."
+      },
+      "recommendations": [
+        {
+          "category": "Consistency Development",
+          "priority": "HIGH",
+          "explanation": "Current consistency rating of 0.0% indicates significant lap time variation. Improving consistency is the fastest path to better overall performance.",
+          "implementation": "Focus on repeatable reference points, standardized braking markers, and consistent throttle application patterns.",
+          "potential_gain": 0.25,
+          "difficulty": "Medium",
+          "timeline": "3-4 sessions",
+          "success_metrics": "Target: Reduce lap time standard deviation by 30%"
+        },
+        {
+          "category": "Setup Optimization",
+          "priority": "LOW",
+          "explanation": "Once driving technique is optimized, setup adjustments can extract final performance gains.",
+          "implementation": "Work with engineer on aerodynamic balance and differential settings tailored to your driving style.",
+          "potential_gain": 0.08,
+          "difficulty": "Medium",
+          "timeline": "2-3 sessions",
+          "success_metrics": "Target: 0.05-0.10s improvement through setup changes"
+        }
+      ],
+      "improvement_plan": {
+        "timeline_description": "Solid foundation with room for consistency improvement. Dedicate 2-3 sessions to consistency work, then transition to advanced technique refinement. Expected timeline to optimal performance: 4-6 sessions.",
+        "phase_1": "Consistency & Fundamentals (Sessions 1-3)",
+        "phase_2": "Technique Refinement (Sessions 4-6)",
+        "phase_3": "Race Craft & Optimization (Sessions 7+)"
+      }
+    }
+  },
+  {
+    "driver_name": "Car #2",
+    "analysis": {
+      "driver_profile": {
+        "name": "Car #2",
+        "style": "smooth",
+        "experience": "novice",
+        "consistency": "0.0%",
+        "strengths": [
+          "Speed Consistency",
+          "Braking Consistency"
+        ],
+        "weaknesses": []
+      },
+      "performance_insights": {
+        "ai_commentary": "Car #2 faces a 0.76s deficit to their optimal pace, likely influenced by mid-session conditions and their tendency to improves under competitive pressure. Moderate prediction confidence (61%) suggests some variability in performance, typical for drivers with smooth characteristics. Race conditions favor their smooth approach, with tire preservation likely playing to their strengths in the latter stages of the stint.",
+        "telemetry_analysis": {
+          "braking_technique": "Excellent braking consistency with only 2.4% variation. This precision is a key strength, particularly effective in the technical infield section. Consider exploring 5-10m later braking points in Turn 7 to capitalize on this control for potential 0.1s gains.",
+          "throttle_application": "Throttle application shows 21.0% variation indicating aggressive on-off technique. While generating good rotation, this costs traction on corner exit. Smoother progressive application from 60% to 100% throttle could yield 0.12-0.18s per lap, especially beneficial in the high-speed sweeper complex.",
+          "speed_optimization": "Top speed of 138.0 km/h indicates potential aerodynamic or mechanical limitations. However, your strength in maintaining 126.1 km/h average suggests excellent technical driving. Consider setup adjustments to reduce drag for the main straight while preserving cornering performance.",
+          "sector_analysis": "Sector analysis indicates strongest performance in the technical infield (S1) where precision driving pays dividends. The high-speed sweeper section (S2) shows moderate efficiency with opportunities for improved line optimization. The oval section (S3) demonstrates good straight-line speed but could benefit from optimized corner exit technique in Turn 14 for maximum main straight advantage."
+        },
+        "comparative_analysis": "Performance gap of 13.984s to the fastest lap indicates significant improvement potential. Analysis suggests the largest gains available through technique refinement and setup optimization. Currently 11.067s faster than session average, demonstrating above-average pace and consistency. This performance level suggests strong race potential with proper strategic execution."
+      },
+      "recommendations": [
+        {
+          "category": "Consistency Development",
+          "priority": "HIGH",
+          "explanation": "Current consistency rating of 0.0% indicates significant lap time variation. Improving consistency is the fastest path to better overall performance.",
+          "implementation": "Focus on repeatable reference points, standardized braking markers, and consistent throttle application patterns.",
+          "potential_gain": 0.25,
+          "difficulty": "Medium",
+          "timeline": "3-4 sessions",
+          "success_metrics": "Target: Reduce lap time standard deviation by 30%"
+        },
+        {
+          "category": "Setup Optimization",
+          "priority": "LOW",
+          "explanation": "Once driving technique is optimized, setup adjustments can extract final performance gains.",
+          "implementation": "Work with engineer on aerodynamic balance and differential settings tailored to your driving style.",
+          "potential_gain": 0.08,
+          "difficulty": "Medium",
+          "timeline": "2-3 sessions",
+          "success_metrics": "Target: 0.05-0.10s improvement through setup changes"
+        }
+      ],
+      "improvement_plan": {
+        "timeline_description": "Solid foundation with room for consistency improvement. Dedicate 2-3 sessions to consistency work, then transition to advanced technique refinement. Expected timeline to optimal performance: 4-6 sessions.",
+        "phase_1": "Consistency & Fundamentals (Sessions 1-3)",
+        "phase_2": "Technique Refinement (Sessions 4-6)",
+        "phase_3": "Race Craft & Optimization (Sessions 7+)"
+      }
+    }
+  },
+  {
+    "driver_name": "Car #55",
+    "analysis": {
+      "driver_profile": {
+        "name": "Car #55",
+        "style": "smooth",
+        "experience": "novice",
+        "consistency": "0.0%",
+        "strengths": [
+          "Braking Consistency"
+        ],
+        "weaknesses": []
+      },
+      "performance_insights": {
+        "ai_commentary": "Car #55 faces a 4.30s deficit to their optimal pace, likely influenced by mid-session conditions and their tendency to improves under competitive pressure. Our prediction engine shows exceptional confidence (80%) with 6/6 models in agreement, indicating highly predictable performance patterns. Race conditions favor their smooth approach, with tire preservation likely playing to their strengths in the latter stages of the stint.",
+        "telemetry_analysis": {
+          "braking_technique": "Excellent braking consistency with only 1.8% variation. This precision is a key strength, particularly effective in the technical infield section. Consider exploring 5-10m later braking points in Turn 7 to capitalize on this control for potential 0.1s gains.",
+          "throttle_application": "Throttle application shows 22.5% variation indicating aggressive on-off technique. While generating good rotation, this costs traction on corner exit. Smoother progressive application from 60% to 100% throttle could yield 0.12-0.18s per lap, especially beneficial in the high-speed sweeper complex.",
+          "speed_optimization": "Top speed of 140.1 km/h indicates potential aerodynamic or mechanical limitations. However, your strength in maintaining 126.3 km/h average suggests excellent technical driving. Consider setup adjustments to reduce drag for the main straight while preserving cornering performance.",
+          "sector_analysis": "Sector analysis indicates strongest performance in the technical infield (S1) where precision driving pays dividends. The high-speed sweeper section (S2) shows moderate efficiency with opportunities for improved line optimization. The oval section (S3) demonstrates good straight-line speed but could benefit from optimized corner exit technique in Turn 14 for maximum main straight advantage."
+        },
+        "comparative_analysis": "Performance gap of 10.675s to the fastest lap indicates significant improvement potential. Analysis suggests the largest gains available through technique refinement and setup optimization. Currently 14.376s faster than session average, demonstrating above-average pace and consistency. This performance level suggests strong race potential with proper strategic execution."
+      },
+      "recommendations": [
+        {
+          "category": "Consistency Development",
+          "priority": "HIGH",
+          "explanation": "Current consistency rating of 0.0% indicates significant lap time variation. Improving consistency is the fastest path to better overall performance.",
+          "implementation": "Focus on repeatable reference points, standardized braking markers, and consistent throttle application patterns.",
+          "potential_gain": 0.25,
+          "difficulty": "Medium",
+          "timeline": "3-4 sessions",
+          "success_metrics": "Target: Reduce lap time standard deviation by 30%"
+        },
+        {
+          "category": "Setup Optimization",
+          "priority": "LOW",
+          "explanation": "Once driving technique is optimized, setup adjustments can extract final performance gains.",
+          "implementation": "Work with engineer on aerodynamic balance and differential settings tailored to your driving style.",
+          "potential_gain": 0.08,
+          "difficulty": "Medium",
+          "timeline": "2-3 sessions",
+          "success_metrics": "Target: 0.05-0.10s improvement through setup changes"
+        }
+      ],
+      "improvement_plan": {
+        "timeline_description": "Solid foundation with room for consistency improvement. Dedicate 2-3 sessions to consistency work, then transition to advanced technique refinement. Expected timeline to optimal performance: 4-6 sessions.",
+        "phase_1": "Consistency & Fundamentals (Sessions 1-3)",
+        "phase_2": "Technique Refinement (Sessions 4-6)",
+        "phase_3": "Race Craft & Optimization (Sessions 7+)"
+      }
+    }
+  },
+  {
+    "driver_name": "Car #93",
+    "analysis": {
+      "driver_profile": {
+        "name": "Car #93",
+        "style": "smooth",
+        "experience": "novice",
+        "consistency": "0.0%",
+        "strengths": [
+          "Speed Consistency",
+          "Throttle Control",
+          "Braking Consistency"
+        ],
+        "weaknesses": []
+      },
+      "performance_insights": {
+        "ai_commentary": "Car #93 faces a 0.43s deficit to their optimal pace, likely influenced by mid-session conditions and their tendency to improves under competitive pressure. Moderate prediction confidence (68%) suggests some variability in performance, typical for drivers with smooth characteristics. Race conditions favor their smooth approach, with tire preservation likely playing to their strengths in the latter stages of the stint.",
+        "telemetry_analysis": {
+          "braking_technique": "Excellent braking consistency with only 2.1% variation. This precision is a key strength, particularly effective in the technical infield section. Consider exploring 5-10m later braking points in Turn 7 to capitalize on this control for potential 0.1s gains.",
+          "throttle_application": "Well-balanced throttle technique with 65.4% average application and 0.0% time at full throttle. Fine-tuning opportunity exists in the transition zones - focus on eliminating brief lifts in the sweeper sections for marginal gains.",
+          "speed_optimization": "Top speed of 137.5 km/h indicates potential aerodynamic or mechanical limitations. However, your strength in maintaining 127.6 km/h average suggests excellent technical driving. Consider setup adjustments to reduce drag for the main straight while preserving cornering performance.",
+          "sector_analysis": "Sector analysis indicates strongest performance in the technical infield (S1) where precision driving pays dividends. The high-speed sweeper section (S2) shows moderate efficiency with opportunities for improved line optimization. The oval section (S3) demonstrates good straight-line speed but could benefit from optimized corner exit technique in Turn 14 for maximum main straight advantage."
+        },
+        "comparative_analysis": "Performance gap of 14.642s to the fastest lap indicates significant improvement potential. Analysis suggests the largest gains available through technique refinement and setup optimization. Currently 10.409s faster than session average, demonstrating above-average pace and consistency. This performance level suggests strong race potential with proper strategic execution."
+      },
+      "recommendations": [
+        {
+          "category": "Consistency Development",
+          "priority": "HIGH",
+          "explanation": "Current consistency rating of 0.0% indicates significant lap time variation. Improving consistency is the fastest path to better overall performance.",
+          "implementation": "Focus on repeatable reference points, standardized braking markers, and consistent throttle application patterns.",
+          "potential_gain": 0.25,
+          "difficulty": "Medium",
+          "timeline": "3-4 sessions",
+          "success_metrics": "Target: Reduce lap time standard deviation by 30%"
+        },
+        {
+          "category": "Setup Optimization",
+          "priority": "LOW",
+          "explanation": "Once driving technique is optimized, setup adjustments can extract final performance gains.",
+          "implementation": "Work with engineer on aerodynamic balance and differential settings tailored to your driving style.",
+          "potential_gain": 0.08,
+          "difficulty": "Medium",
+          "timeline": "2-3 sessions",
+          "success_metrics": "Target: 0.05-0.10s improvement through setup changes"
+        }
+      ],
+      "improvement_plan": {
+        "timeline_description": "Solid foundation with room for consistency improvement. Dedicate 2-3 sessions to consistency work, then transition to advanced technique refinement. Expected timeline to optimal performance: 4-6 sessions.",
+        "phase_1": "Consistency & Fundamentals (Sessions 1-3)",
+        "phase_2": "Technique Refinement (Sessions 4-6)",
+        "phase_3": "Race Craft & Optimization (Sessions 7+)"
+      }
+    }
+  },
+  {
+    "driver_name": "Car #5",
+    "analysis": {
+      "driver_profile": {
+        "name": "Car #5",
+        "style": "smooth",
+        "experience": "novice",
+        "consistency": "0.0%",
+        "strengths": [
+          "Speed Consistency",
+          "Throttle Control",
+          "Braking Consistency"
+        ],
+        "weaknesses": []
+      },
+      "performance_insights": {
+        "ai_commentary": "Car #5 faces a 1.60s deficit to their optimal pace, likely influenced by mid-session conditions and their tendency to improves under competitive pressure. Our prediction engine shows exceptional confidence (95%) with 6/6 models in agreement, indicating highly predictable performance patterns. Race conditions favor their smooth approach, with tire preservation likely playing to their strengths in the latter stages of the stint.",
+        "telemetry_analysis": {
+          "braking_technique": "Excellent braking consistency with only 1.8% variation. This precision is a key strength, particularly effective in the technical infield section. Consider exploring 5-10m later braking points in Turn 7 to capitalize on this control for potential 0.1s gains.",
+          "throttle_application": "Well-balanced throttle technique with 67.1% average application and 0.0% time at full throttle. Fine-tuning opportunity exists in the transition zones - focus on eliminating brief lifts in the sweeper sections for marginal gains.",
+          "speed_optimization": "Top speed of 138.9 km/h indicates potential aerodynamic or mechanical limitations. However, your strength in maintaining 129.4 km/h average suggests excellent technical driving. Consider setup adjustments to reduce drag for the main straight while preserving cornering performance.",
+          "sector_analysis": "Sector analysis indicates strongest performance in the technical infield (S1) where precision driving pays dividends. The high-speed sweeper section (S2) shows moderate efficiency with opportunities for improved line optimization. The oval section (S3) demonstrates good straight-line speed but could benefit from optimized corner exit technique in Turn 14 for maximum main straight advantage."
+        },
+        "comparative_analysis": "Performance gap of 13.548s to the fastest lap indicates significant improvement potential. Analysis suggests the largest gains available through technique refinement and setup optimization. Currently 11.503s faster than session average, demonstrating above-average pace and consistency. This performance level suggests strong race potential with proper strategic execution."
+      },
+      "recommendations": [
+        {
+          "category": "Consistency Development",
+          "priority": "HIGH",
+          "explanation": "Current consistency rating of 0.0% indicates significant lap time variation. Improving consistency is the fastest path to better overall performance.",
+          "implementation": "Focus on repeatable reference points, standardized braking markers, and consistent throttle application patterns.",
+          "potential_gain": 0.25,
+          "difficulty": "Medium",
+          "timeline": "3-4 sessions",
+          "success_metrics": "Target: Reduce lap time standard deviation by 30%"
+        },
+        {
+          "category": "Setup Optimization",
+          "priority": "LOW",
+          "explanation": "Once driving technique is optimized, setup adjustments can extract final performance gains.",
+          "implementation": "Work with engineer on aerodynamic balance and differential settings tailored to your driving style.",
+          "potential_gain": 0.08,
+          "difficulty": "Medium",
+          "timeline": "2-3 sessions",
+          "success_metrics": "Target: 0.05-0.10s improvement through setup changes"
+        }
+      ],
+      "improvement_plan": {
+        "timeline_description": "Solid foundation with room for consistency improvement. Dedicate 2-3 sessions to consistency work, then transition to advanced technique refinement. Expected timeline to optimal performance: 4-6 sessions.",
+        "phase_1": "Consistency & Fundamentals (Sessions 1-3)",
+        "phase_2": "Technique Refinement (Sessions 4-6)",
+        "phase_3": "Race Craft & Optimization (Sessions 7+)"
+      }
+    }
+  },
+  {
+    "driver_name": "Car #3",
+    "analysis": {
+      "driver_profile": {
+        "name": "Car #3",
+        "style": "smooth",
+        "experience": "novice",
+        "consistency": "0.0%",
+        "strengths": [
+          "Speed Consistency",
+          "Throttle Control",
+          "Braking Consistency"
+        ],
+        "weaknesses": []
+      },
+      "performance_insights": {
+        "ai_commentary": "Car #3 faces a 0.78s deficit to their optimal pace, likely influenced by mid-session conditions and their tendency to improves under competitive pressure. Our prediction engine shows exceptional confidence (80%) with 6/6 models in agreement, indicating highly predictable performance patterns. Race conditions favor their smooth approach, with tire preservation likely playing to their strengths in the latter stages of the stint.",
+        "telemetry_analysis": {
+          "braking_technique": "Excellent braking consistency with only 2.0% variation. This precision is a key strength, particularly effective in the technical infield section. Consider exploring 5-10m later braking points in Turn 7 to capitalize on this control for potential 0.1s gains.",
+          "throttle_application": "Well-balanced throttle technique with 69.1% average application and 0.0% time at full throttle. Fine-tuning opportunity exists in the transition zones - focus on eliminating brief lifts in the sweeper sections for marginal gains.",
+          "speed_optimization": "Top speed of 137.3 km/h indicates potential aerodynamic or mechanical limitations. However, your strength in maintaining 129.8 km/h average suggests excellent technical driving. Consider setup adjustments to reduce drag for the main straight while preserving cornering performance.",
+          "sector_analysis": "Sector analysis indicates strongest performance in the technical infield (S1) where precision driving pays dividends. The high-speed sweeper section (S2) shows moderate efficiency with opportunities for improved line optimization. The oval section (S3) demonstrates good straight-line speed but could benefit from optimized corner exit technique in Turn 14 for maximum main straight advantage."
+        },
+        "comparative_analysis": "Performance gap of 14.971s to the fastest lap indicates significant improvement potential. Analysis suggests the largest gains available through technique refinement and setup optimization. Currently 10.080s faster than session average, demonstrating above-average pace and consistency. This performance level suggests strong race potential with proper strategic execution."
+      },
+      "recommendations": [
+        {
+          "category": "Consistency Development",
+          "priority": "HIGH",
+          "explanation": "Current consistency rating of 0.0% indicates significant lap time variation. Improving consistency is the fastest path to better overall performance.",
+          "implementation": "Focus on repeatable reference points, standardized braking markers, and consistent throttle application patterns.",
+          "potential_gain": 0.25,
+          "difficulty": "Medium",
+          "timeline": "3-4 sessions",
+          "success_metrics": "Target: Reduce lap time standard deviation by 30%"
+        },
+        {
+          "category": "Setup Optimization",
+          "priority": "LOW",
+          "explanation": "Once driving technique is optimized, setup adjustments can extract final performance gains.",
+          "implementation": "Work with engineer on aerodynamic balance and differential settings tailored to your driving style.",
+          "potential_gain": 0.08,
+          "difficulty": "Medium",
+          "timeline": "2-3 sessions",
+          "success_metrics": "Target: 0.05-0.10s improvement through setup changes"
+        }
+      ],
+      "improvement_plan": {
+        "timeline_description": "Solid foundation with room for consistency improvement. Dedicate 2-3 sessions to consistency work, then transition to advanced technique refinement. Expected timeline to optimal performance: 4-6 sessions.",
+        "phase_1": "Consistency & Fundamentals (Sessions 1-3)",
+        "phase_2": "Technique Refinement (Sessions 4-6)",
+        "phase_3": "Race Craft & Optimization (Sessions 7+)"
+      }
+    }
+  },
+  {
+    "driver_name": "Car #18",
+    "analysis": {
+      "driver_profile": {
+        "name": "Car #18",
+        "style": "smooth",
+        "experience": "novice",
+        "consistency": "0.0%",
+        "strengths": [
+          "Speed Consistency",
+          "Throttle Control",
+          "Braking Consistency"
+        ],
+        "weaknesses": []
+      },
+      "performance_insights": {
+        "ai_commentary": "Car #18 faces a 1.47s deficit to their optimal pace, likely influenced by mid-session conditions and their tendency to improves under competitive pressure. Our prediction engine shows exceptional confidence (78%) with 6/6 models in agreement, indicating highly predictable performance patterns. Race conditions favor their smooth approach, with tire preservation likely playing to their strengths in the latter stages of the stint.",
+        "telemetry_analysis": {
+          "braking_technique": "Excellent braking consistency with only 1.6% variation. This precision is a key strength, particularly effective in the technical infield section. Consider exploring 5-10m later braking points in Turn 7 to capitalize on this control for potential 0.1s gains.",
+          "throttle_application": "Conservative throttle usage at 64.9% average suggests untapped performance potential. Your smooth style supports more aggressive application - target 70-75% average with earlier initial application for 0.15s improvement potential.",
+          "speed_optimization": "Top speed of 137.6 km/h indicates potential aerodynamic or mechanical limitations. However, your strength in maintaining 128.2 km/h average suggests excellent technical driving. Consider setup adjustments to reduce drag for the main straight while preserving cornering performance.",
+          "sector_analysis": "Sector analysis indicates strongest performance in the technical infield (S1) where precision driving pays dividends. The high-speed sweeper section (S2) shows moderate efficiency with opportunities for improved line optimization. The oval section (S3) demonstrates good straight-line speed but could benefit from optimized corner exit technique in Turn 14 for maximum main straight advantage."
+        },
+        "comparative_analysis": "Performance gap of 14.473s to the fastest lap indicates significant improvement potential. Analysis suggests the largest gains available through technique refinement and setup optimization. Currently 10.578s faster than session average, demonstrating above-average pace and consistency. This performance level suggests strong race potential with proper strategic execution."
+      },
+      "recommendations": [
+        {
+          "category": "Consistency Development",
+          "priority": "HIGH",
+          "explanation": "Current consistency rating of 0.0% indicates significant lap time variation. Improving consistency is the fastest path to better overall performance.",
+          "implementation": "Focus on repeatable reference points, standardized braking markers, and consistent throttle application patterns.",
+          "potential_gain": 0.25,
+          "difficulty": "Medium",
+          "timeline": "3-4 sessions",
+          "success_metrics": "Target: Reduce lap time standard deviation by 30%"
+        },
+        {
+          "category": "Setup Optimization",
+          "priority": "LOW",
+          "explanation": "Once driving technique is optimized, setup adjustments can extract final performance gains.",
+          "implementation": "Work with engineer on aerodynamic balance and differential settings tailored to your driving style.",
+          "potential_gain": 0.08,
+          "difficulty": "Medium",
+          "timeline": "2-3 sessions",
+          "success_metrics": "Target: 0.05-0.10s improvement through setup changes"
+        }
+      ],
+      "improvement_plan": {
+        "timeline_description": "Solid foundation with room for consistency improvement. Dedicate 2-3 sessions to consistency work, then transition to advanced technique refinement. Expected timeline to optimal performance: 4-6 sessions.",
+        "phase_1": "Consistency & Fundamentals (Sessions 1-3)",
+        "phase_2": "Technique Refinement (Sessions 4-6)",
+        "phase_3": "Race Craft & Optimization (Sessions 7+)"
+      }
+    }
+  },
+  {
+    "driver_name": "Car #8",
+    "analysis": {
+      "driver_profile": {
+        "name": "Car #8",
+        "style": "smooth",
+        "experience": "novice",
+        "consistency": "0.0%",
+        "strengths": [
+          "Speed Consistency",
+          "Throttle Control",
+          "Braking Consistency"
+        ],
+        "weaknesses": []
+      },
+      "performance_insights": {
+        "ai_commentary": "Car #8 faces a 0.64s deficit to their optimal pace, likely influenced by mid-session conditions and their tendency to improves under competitive pressure. Our prediction engine shows exceptional confidence (76%) with 6/6 models in agreement, indicating highly predictable performance patterns. Race conditions favor their smooth approach, with tire preservation likely playing to their strengths in the latter stages of the stint.",
+        "telemetry_analysis": {
+          "braking_technique": "Excellent braking consistency with only 1.5% variation. This precision is a key strength, particularly effective in the technical infield section. Consider exploring 5-10m later braking points in Turn 7 to capitalize on this control for potential 0.1s gains.",
+          "throttle_application": "Well-balanced throttle technique with 66.9% average application and 0.0% time at full throttle. Fine-tuning opportunity exists in the transition zones - focus on eliminating brief lifts in the sweeper sections for marginal gains.",
+          "speed_optimization": "Top speed of 135.4 km/h indicates potential aerodynamic or mechanical limitations. However, your strength in maintaining 126.8 km/h average suggests excellent technical driving. Consider setup adjustments to reduce drag for the main straight while preserving cornering performance.",
+          "sector_analysis": "Sector analysis indicates strongest performance in the technical infield (S1) where precision driving pays dividends. The high-speed sweeper section (S2) shows moderate efficiency with opportunities for improved line optimization. The oval section (S3) demonstrates good straight-line speed but could benefit from optimized corner exit technique in Turn 14 for maximum main straight advantage."
+        },
+        "comparative_analysis": "Performance gap of 16.242s to the fastest lap indicates significant improvement potential. Analysis suggests the largest gains available through technique refinement and setup optimization. Currently 8.809s faster than session average, demonstrating above-average pace and consistency. This performance level suggests strong race potential with proper strategic execution."
+      },
+      "recommendations": [
+        {
+          "category": "Consistency Development",
+          "priority": "HIGH",
+          "explanation": "Current consistency rating of 0.0% indicates significant lap time variation. Improving consistency is the fastest path to better overall performance.",
+          "implementation": "Focus on repeatable reference points, standardized braking markers, and consistent throttle application patterns.",
+          "potential_gain": 0.25,
+          "difficulty": "Medium",
+          "timeline": "3-4 sessions",
+          "success_metrics": "Target: Reduce lap time standard deviation by 30%"
+        },
+        {
+          "category": "Setup Optimization",
+          "priority": "LOW",
+          "explanation": "Once driving technique is optimized, setup adjustments can extract final performance gains.",
+          "implementation": "Work with engineer on aerodynamic balance and differential settings tailored to your driving style.",
+          "potential_gain": 0.08,
+          "difficulty": "Medium",
+          "timeline": "2-3 sessions",
+          "success_metrics": "Target: 0.05-0.10s improvement through setup changes"
+        }
+      ],
+      "improvement_plan": {
+        "timeline_description": "Solid foundation with room for consistency improvement. Dedicate 2-3 sessions to consistency work, then transition to advanced technique refinement. Expected timeline to optimal performance: 4-6 sessions.",
+        "phase_1": "Consistency & Fundamentals (Sessions 1-3)",
+        "phase_2": "Technique Refinement (Sessions 4-6)",
+        "phase_3": "Race Craft & Optimization (Sessions 7+)"
+      }
+    }
+  },
+  {
+    "driver_name": "Car #57",
+    "analysis": {
+      "driver_profile": {
+        "name": "Car #57",
+        "style": "smooth",
+        "experience": "novice",
+        "consistency": "0.0%",
+        "strengths": [
+          "Speed Consistency",
+          "Throttle Control",
+          "Braking Consistency"
+        ],
+        "weaknesses": []
+      },
+      "performance_insights": {
+        "ai_commentary": "Car #57 faces a 2.81s deficit to their optimal pace, likely influenced by mid-session conditions and their tendency to improves under competitive pressure. Lower prediction confidence (33%) reflects the unpredictable nature of their recent performances, requiring careful session management. Race conditions favor their smooth approach, with tire preservation likely playing to their strengths in the latter stages of the stint.",
+        "telemetry_analysis": {
+          "braking_technique": "Excellent braking consistency with only 1.7% variation. This precision is a key strength, particularly effective in the technical infield section. Consider exploring 5-10m later braking points in Turn 7 to capitalize on this control for potential 0.1s gains.",
+          "throttle_application": "Conservative throttle usage at 58.8% average suggests untapped performance potential. Your smooth style supports more aggressive application - target 70-75% average with earlier initial application for 0.15s improvement potential.",
+          "speed_optimization": "Top speed of 136.0 km/h indicates potential aerodynamic or mechanical limitations. However, your strength in maintaining 121.9 km/h average suggests excellent technical driving. Consider setup adjustments to reduce drag for the main straight while preserving cornering performance.",
+          "sector_analysis": "Sector analysis indicates strongest performance in the technical infield (S1) where precision driving pays dividends. The high-speed sweeper section (S2) shows moderate efficiency with opportunities for improved line optimization. The oval section (S3) demonstrates good straight-line speed but could benefit from optimized corner exit technique in Turn 14 for maximum main straight advantage."
+        },
+        "comparative_analysis": "Performance gap of 16.071s to the fastest lap indicates significant improvement potential. Analysis suggests the largest gains available through technique refinement and setup optimization. Currently 8.980s faster than session average, demonstrating above-average pace and consistency. This performance level suggests strong race potential with proper strategic execution."
+      },
+      "recommendations": [
+        {
+          "category": "Consistency Development",
+          "priority": "HIGH",
+          "explanation": "Current consistency rating of 0.0% indicates significant lap time variation. Improving consistency is the fastest path to better overall performance.",
+          "implementation": "Focus on repeatable reference points, standardized braking markers, and consistent throttle application patterns.",
+          "potential_gain": 0.25,
+          "difficulty": "Medium",
+          "timeline": "3-4 sessions",
+          "success_metrics": "Target: Reduce lap time standard deviation by 30%"
+        },
+        {
+          "category": "Setup Optimization",
+          "priority": "LOW",
+          "explanation": "Once driving technique is optimized, setup adjustments can extract final performance gains.",
+          "implementation": "Work with engineer on aerodynamic balance and differential settings tailored to your driving style.",
+          "potential_gain": 0.08,
+          "difficulty": "Medium",
+          "timeline": "2-3 sessions",
+          "success_metrics": "Target: 0.05-0.10s improvement through setup changes"
+        }
+      ],
+      "improvement_plan": {
+        "timeline_description": "Focus on consistency development over the next 3-4 sessions. Once lap time variation reduces, shift focus to pace optimization. Expected timeline to competitive pace: 6-8 sessions with dedicated practice.",
+        "phase_1": "Consistency & Fundamentals (Sessions 1-3)",
+        "phase_2": "Technique Refinement (Sessions 4-6)",
+        "phase_3": "Race Craft & Optimization (Sessions 7+)"
+      }
+    }
+  },
+  {
+    "driver_name": "Car #0",
+    "analysis": {
+      "driver_profile": {
+        "name": "Car #0",
+        "style": "smooth",
+        "experience": "novice",
+        "consistency": "0.0%",
+        "strengths": [
+          "Speed Consistency",
+          "Braking Consistency"
+        ],
+        "weaknesses": []
+      },
+      "performance_insights": {
+        "ai_commentary": "Car #0 faces a 53.17s deficit to their optimal pace, likely influenced by mid-session conditions and their tendency to improves under competitive pressure. Our prediction engine shows exceptional confidence (76%) with 5/6 models in agreement, indicating highly predictable performance patterns. Race conditions favor their smooth approach, with tire preservation likely playing to their strengths in the latter stages of the stint.",
+        "telemetry_analysis": {
+          "braking_technique": "Excellent braking consistency with only 2.8% variation. This precision is a key strength, particularly effective in the technical infield section. Consider exploring 5-10m later braking points in Turn 7 to capitalize on this control for potential 0.1s gains.",
+          "throttle_application": "Throttle application shows 21.5% variation indicating aggressive on-off technique. While generating good rotation, this costs traction on corner exit. Smoother progressive application from 60% to 100% throttle could yield 0.12-0.18s per lap, especially beneficial in the high-speed sweeper complex.",
+          "speed_optimization": "Top speed of 139.3 km/h indicates potential aerodynamic or mechanical limitations. However, your strength in maintaining 126.8 km/h average suggests excellent technical driving. Consider setup adjustments to reduce drag for the main straight while preserving cornering performance.",
+          "sector_analysis": "Sector analysis indicates strongest performance in the technical infield (S1) where precision driving pays dividends. The high-speed sweeper section (S2) shows moderate efficiency with opportunities for improved line optimization. The oval section (S3) demonstrates good straight-line speed but could benefit from optimized corner exit technique in Turn 14 for maximum main straight advantage."
+        },
+        "comparative_analysis": "Performance gap of 12.958s to the fastest lap indicates significant improvement potential. Analysis suggests the largest gains available through technique refinement and setup optimization. Currently 12.093s faster than session average, demonstrating above-average pace and consistency. This performance level suggests strong race potential with proper strategic execution."
+      },
+      "recommendations": [
+        {
+          "category": "Consistency Development",
+          "priority": "HIGH",
+          "explanation": "Current consistency rating of 0.0% indicates significant lap time variation. Improving consistency is the fastest path to better overall performance.",
+          "implementation": "Focus on repeatable reference points, standardized braking markers, and consistent throttle application patterns.",
+          "potential_gain": 0.25,
+          "difficulty": "Medium",
+          "timeline": "3-4 sessions",
+          "success_metrics": "Target: Reduce lap time standard deviation by 30%"
+        },
+        {
+          "category": "Setup Optimization",
+          "priority": "LOW",
+          "explanation": "Once driving technique is optimized, setup adjustments can extract final performance gains.",
+          "implementation": "Work with engineer on aerodynamic balance and differential settings tailored to your driving style.",
+          "potential_gain": 0.08,
+          "difficulty": "Medium",
+          "timeline": "2-3 sessions",
+          "success_metrics": "Target: 0.05-0.10s improvement through setup changes"
+        }
+      ],
+      "improvement_plan": {
+        "timeline_description": "Solid foundation with room for consistency improvement. Dedicate 2-3 sessions to consistency work, then transition to advanced technique refinement. Expected timeline to optimal performance: 4-6 sessions.",
+        "phase_1": "Consistency & Fundamentals (Sessions 1-3)",
+        "phase_2": "Technique Refinement (Sessions 4-6)",
+        "phase_3": "Race Craft & Optimization (Sessions 7+)"
+      }
+    }
+  },
+  {
+    "driver_name": "Car #80",
+    "analysis": {
+      "driver_profile": {
+        "name": "Car #80",
+        "style": "smooth",
+        "experience": "novice",
+        "consistency": "0.0%",
+        "strengths": [
+          "Speed Consistency",
+          "Throttle Control",
+          "Braking Consistency"
+        ],
+        "weaknesses": []
+      },
+      "performance_insights": {
+        "ai_commentary": "Car #80 faces a 52.68s deficit to their optimal pace, likely influenced by mid-session conditions and their tendency to improves under competitive pressure. Moderate prediction confidence (67%) suggests some variability in performance, typical for drivers with smooth characteristics. Race conditions favor their smooth approach, with tire preservation likely playing to their strengths in the latter stages of the stint.",
+        "telemetry_analysis": {
+          "braking_technique": "Excellent braking consistency with only 1.8% variation. This precision is a key strength, particularly effective in the technical infield section. Consider exploring 5-10m later braking points in Turn 7 to capitalize on this control for potential 0.1s gains.",
+          "throttle_application": "Conservative throttle usage at 62.2% average suggests untapped performance potential. Your smooth style supports more aggressive application - target 70-75% average with earlier initial application for 0.15s improvement potential.",
+          "speed_optimization": "Top speed of 138.1 km/h indicates potential aerodynamic or mechanical limitations. However, your strength in maintaining 124.8 km/h average suggests excellent technical driving. Consider setup adjustments to reduce drag for the main straight while preserving cornering performance.",
+          "sector_analysis": "Sector analysis indicates strongest performance in the technical infield (S1) where precision driving pays dividends. The high-speed sweeper section (S2) shows moderate efficiency with opportunities for improved line optimization. The oval section (S3) demonstrates good straight-line speed but could benefit from optimized corner exit technique in Turn 14 for maximum main straight advantage."
+        },
+        "comparative_analysis": "Performance gap of 14.504s to the fastest lap indicates significant improvement potential. Analysis suggests the largest gains available through technique refinement and setup optimization. Currently 10.547s faster than session average, demonstrating above-average pace and consistency. This performance level suggests strong race potential with proper strategic execution."
+      },
+      "recommendations": [
+        {
+          "category": "Consistency Development",
+          "priority": "HIGH",
+          "explanation": "Current consistency rating of 0.0% indicates significant lap time variation. Improving consistency is the fastest path to better overall performance.",
+          "implementation": "Focus on repeatable reference points, standardized braking markers, and consistent throttle application patterns.",
+          "potential_gain": 0.25,
+          "difficulty": "Medium",
+          "timeline": "3-4 sessions",
+          "success_metrics": "Target: Reduce lap time standard deviation by 30%"
+        },
+        {
+          "category": "Setup Optimization",
+          "priority": "LOW",
+          "explanation": "Once driving technique is optimized, setup adjustments can extract final performance gains.",
+          "implementation": "Work with engineer on aerodynamic balance and differential settings tailored to your driving style.",
+          "potential_gain": 0.08,
+          "difficulty": "Medium",
+          "timeline": "2-3 sessions",
+          "success_metrics": "Target: 0.05-0.10s improvement through setup changes"
+        }
+      ],
+      "improvement_plan": {
+        "timeline_description": "Solid foundation with room for consistency improvement. Dedicate 2-3 sessions to consistency work, then transition to advanced technique refinement. Expected timeline to optimal performance: 4-6 sessions.",
+        "phase_1": "Consistency & Fundamentals (Sessions 1-3)",
+        "phase_2": "Technique Refinement (Sessions 4-6)",
+        "phase_3": "Race Craft & Optimization (Sessions 7+)"
+      }
+    }
+  }
+]

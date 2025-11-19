@@ -1,0 +1,796 @@
+/* Main container with darker, more dramatic background */
+    .main {
+        background: linear-gradient(135deg, #1A1D23 0%, #2C3E50 50%, #1A1D23 100%);
+        background-attachment: fixed;
+        padding: 1rem 2rem;
+        position: relative;
+        scroll-behavior: smooth;
+        font-family: Arial, sans-serif;
+    }
+    
+    /* Prevent scroll jump on rerun */
+    html {
+        scroll-behavior: smooth;
+    }
+    
+    body {
+        scroll-behavior: smooth;
+    }
+    
+    /* Subtle dot pattern overlay for texture */
+    .main::before {
+        content: '';
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-image: radial-gradient(circle, rgba(255, 255, 255, 0.02) 1px, transparent 1px);
+        background-size: 20px 20px;
+        pointer-events: none;
+        z-index: 0;
+    }
+    
+    /* Block container spacing with depth */
+    .block-container {
+        padding-top: 2.5rem;
+        padding-bottom: 1.5rem;
+        max-width: 1400px;
+        position: relative;
+        z-index: 1;
+    }
+    
+    /* Optimize chart spacing */
+    div[data-testid="stPlotlyChart"] {
+        margin-top: 0rem !important;
+        margin-bottom: 0.75rem !important;
+    }
+    
+    /* Minimal gap between heading and checkbox */
+    h3 + div[data-testid="stCheckbox"] {
+        margin-top: 0.25rem !important;
+    }
+    
+    /* Minimal gap between checkbox and chart */
+    div[data-testid="stCheckbox"] + div[data-testid="stPlotlyChart"] {
+        margin-top: 0.25rem !important;
+    }
+    
+    /* Header with enhanced depth and dramatic feel */
+    .main-header {
+        font-size: 3rem;
+        font-weight: 900;
+        color: #FFD700;
+        text-align: center;
+        padding: 2rem 1rem;
+        text-shadow: none;
+        background: linear-gradient(135deg, #1A1D23 0%, #2C3E50 50%, #1A1D23 100%);
+        border-radius: 20px;
+        margin-top: 1rem;
+        margin-bottom: 1.5rem;
+        border: 2px solid rgba(0, 191, 255, 0.3);
+        box-shadow: 
+            0 8px 32px rgba(0, 0, 0, 0.6),
+            0 4px 16px rgba(0, 191, 255, 0.2),
+            inset 0 2px 0 rgba(255, 255, 255, 0.1),
+            inset 0 -2px 0 rgba(0, 0, 0, 0.5);
+        position: relative;
+        overflow: hidden;
+    }
+    
+    /* Subtle shine effect on header */
+    .main-header::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: -100%;
+        width: 100%;
+        height: 100%;
+        background: linear-gradient(90deg, transparent, rgba(0, 191, 255, 0.2), transparent);
+        animation: shine 8s infinite;
+    }
+    
+    @keyframes shine {
+        0% { left: -100%; }
+        30% { left: 100%; }
+        100% { left: 100%; }
+    }
+    
+    /* Section headers - no hover */
+    h2, h3 {
+        color: #FFFFFF !important;
+        font-weight: 700;
+        margin-top: 0.25rem;
+        margin-bottom: 0.25rem;
+        padding-bottom: 0;
+        border-bottom: none;
+        text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+        font-family: Arial, sans-serif;
+    }
+    
+    /* Reduce spacing when h3 follows h2 */
+    h2 + div h3,
+    h2 + h3 {
+        margin-top: 0.1rem !important;
+    }
+    
+    /* Reduce spacing between headings and content */
+    h2 + div,
+    h3 + div {
+        margin-top: 0.25rem !important;
+    }
+    
+    /* Modern Divider Styles */
+    
+    /* COMPACT SPACING SYSTEM */
+    
+    /* Subtle Divider - For separating content sections (0.5rem = 8px) */
+    .divider-subtle {
+        height: 1px;
+        background: linear-gradient(90deg, 
+            transparent 0%, 
+            rgba(0, 191, 255, 0.3) 50%, 
+            transparent 100%);
+        margin: 0.5rem 0;
+        border: none;
+    }
+    
+    /* Glow Divider - For emphasis between major sections (0.75rem = 12px) */
+    .divider-glow {
+        height: 2px;
+        background: linear-gradient(90deg, 
+            transparent 0%, 
+            rgba(0, 191, 255, 0.6) 20%,
+            rgba(255, 215, 0, 0.6) 50%,
+            rgba(0, 191, 255, 0.6) 80%,
+            transparent 100%);
+        margin: 0.5rem 0;
+        border: none;
+        box-shadow: 0 0 10px rgba(0, 191, 255, 0.3);
+        border-radius: 2px;
+    }
+    
+    /* Section Headers - Compact spacing */
+    h2 {
+        margin-top: 0.25rem !important;
+        margin-bottom: 0.25rem !important;
+    }
+    
+    h3 {
+        margin-top: 0.25rem !important;
+        margin-bottom: 0.25rem !important;
+    }
+    
+    /* Ensure h4 (subheadings) also have uniform white color */
+    h4, h5, h6 {
+        color: #FFFFFF !important;
+        margin-top: 0.15rem !important;
+        margin-bottom: 0.15rem !important;
+    }
+    
+    /* Metric cards with enhanced depth and dark theme */
+    .stMetric {
+        background: linear-gradient(135deg, rgba(44, 62, 80, 0.9) 0%, rgba(26, 37, 47, 0.9) 100%);
+        padding: 1rem 1rem;
+        border-radius: 16px;
+        box-shadow: 
+            0 4px 16px rgba(0, 0, 0, 0.5),
+            0 2px 8px rgba(0, 191, 255, 0.1),
+            inset 0 1px 0 rgba(255, 255, 255, 0.1);
+        border: 1px solid rgba(0, 191, 255, 0.3);
+        backdrop-filter: blur(10px);
+        transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        position: relative;
+        text-align: center;
+    }
+    
+    /* Hide the question mark icon but keep tooltip functionality */
+    .stMetric [data-testid="stMetricLabel"] svg {
+        display: none !important;
+    }
+    
+    /* Show tooltip on hover - target the div with title attribute */
+    .stMetric [data-testid="stMetricLabel"] div[title] {
+        cursor: help !important;
+        position: relative;
+    }
+    
+    .stMetric [data-testid="stMetricLabel"] div[title]:hover::after {
+        content: attr(title);
+        position: absolute;
+        bottom: calc(100% + 10px);
+        left: 50%;
+        transform: translateX(-50%);
+        background: rgba(0, 0, 0, 0.95);
+        color: #FFFFFF;
+        padding: 0.75rem 1.25rem;
+        border-radius: 12px;
+        font-size: 0.9rem;
+        white-space: normal;
+        max-width: 300px;
+        z-index: 10000;
+        box-shadow: 0 8px 24px rgba(0, 0, 0, 0.6);
+        border: 1px solid rgba(0, 191, 255, 0.3);
+        text-align: center;
+        line-height: 1.4;
+        font-weight: 500;
+    }
+    
+    /* Tooltip arrow */
+    .stMetric [data-testid="stMetricLabel"] div[title]:hover::before {
+        content: '';
+        position: absolute;
+        bottom: calc(100% + 2px);
+        left: 50%;
+        transform: translateX(-50%);
+        border: 8px solid transparent;
+        border-top-color: rgba(0, 0, 0, 0.95);
+        z-index: 10001;
+    }
+    
+    .stMetric:hover {
+        transform: translateY(-5px) scale(1.02);
+        box-shadow: 
+            0 8px 24px rgba(0, 191, 255, 0.3),
+            0 4px 12px rgba(0, 0, 0, 0.6),
+            inset 0 1px 0 rgba(255, 255, 255, 0.2);
+        border-color: rgba(0, 191, 255, 0.6);
+    }
+    
+    .stMetric label {
+        font-size: 0.85rem !important;
+        font-weight: 700 !important;
+        color: #FFFFFF !important;
+        text-shadow: 0 1px 2px rgba(0, 0, 0, 0.5) !important;
+        margin-bottom: 0.6rem !important;
+        line-height: 1.2 !important;
+        white-space: pre-line !important;
+        word-wrap: break-word !important;
+        overflow: visible !important;
+        text-overflow: clip !important;
+        max-width: none !important;
+        width: auto !important;
+        text-align: center !important;
+        display: block !important;
+    }
+    
+    .stMetric [data-testid="stMetricValue"] {
+        font-size: 1.6rem !important;
+        font-weight: 900 !important;
+        color: #00BFFF !important;
+        text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5) !important;
+        line-height: 1.1 !important;
+        word-wrap: break-word !important;
+        overflow-wrap: break-word !important;
+    }
+    
+    .stMetric [data-testid="stMetricDelta"] {
+        font-size: 0.95rem !important;
+        font-weight: 600 !important;
+        margin-top: 0.4rem !important;
+        border-bottom: none !important;
+        border: none !important;
+    }
+    
+    /* Remove ALL red underlines, borders, and indicators from metrics */
+    .stMetric [data-testid="stMetricDelta"] svg {
+        display: none !important;
+    }
+    
+    .stMetric [data-testid="stMetricDelta"]::after,
+    .stMetric [data-testid="stMetricDelta"]::before {
+        display: none !important;
+        border: none !important;
+        border-bottom: none !important;
+        content: none !important;
+    }
+    
+    /* Remove any colored borders or underlines */
+    .stMetric * {
+        border-bottom: none !important;
+    }
+    
+    .stMetric:focus, .stMetric:active, .stMetric:focus-within {
+        outline: none !important;
+        border-bottom: none !important;
+    }
+    
+    /* Remove red/colored indicators */
+    .stMetric [style*="border-bottom"],
+    .stMetric [style*="border"],
+    .stMetric div[style*="color: rgb(255, 43, 43)"],
+    .stMetric div[style*="color: red"] {
+        border: none !important;
+        border-bottom: none !important;
+    }
+    
+    /* Insight boxes with smooth hover effect */
+    .insight-box {
+        background: linear-gradient(135deg, rgba(44, 62, 80, 0.95) 0%, rgba(26, 37, 47, 0.95) 100%);
+        border-left: 6px solid #00BFFF;
+        padding: 1rem !important;
+        margin: 0.5rem 0;
+        border-radius: 16px;
+        box-shadow: 
+            0 4px 16px rgba(0, 0, 0, 0.5),
+            0 2px 8px rgba(0, 191, 255, 0.2),
+            inset 0 1px 0 rgba(255, 255, 255, 0.1);
+        color: #E8E8E8;
+        font-size: 1.15rem;
+        line-height: 1.8;
+        border: 1px solid rgba(0, 191, 255, 0.2);
+        transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+    
+    .insight-box:hover {
+        transform: translateY(-5px) scale(1.02);
+        box-shadow: 
+            0 8px 24px rgba(0, 191, 255, 0.4),
+            0 4px 12px rgba(0, 0, 0, 0.6),
+            inset 0 1px 0 rgba(255, 255, 255, 0.2);
+        border-color: rgba(0, 191, 255, 0.6);
+        border-left-color: #00BFFF;
+    }
+    
+    .insight-box strong {
+        color: #00BFFF;
+        text-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
+        font-size: 1.15rem;
+        display: block;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    
+    .insight-box span {
+        display: inline-block;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    
+    /* Status boxes - no hover */
+    .success-box {
+        background: rgba(44, 62, 80, 0.3);
+        border-left: 6px solid #28A745;
+        padding: 1rem;
+        margin: 0.5rem 0;
+        border-radius: 16px;
+        color: #FFFFFF;
+        font-weight: 600;
+        font-size: 1.1rem;
+        box-shadow: 
+            0 4px 16px rgba(40, 167, 69, 0.12),
+            0 2px 4px rgba(0, 0, 0, 0.06);
+        border: 1px solid rgba(40, 167, 69, 0.3);
+    }
+    
+    .warning-box {
+        background: rgba(44, 62, 80, 0.3);
+        border-left: 6px solid #FFC107;
+        padding: 1rem;
+        margin: 0.5rem 0;
+        border-radius: 16px;
+        color: #FFFFFF;
+        font-weight: 600;
+        font-size: 1.1rem;
+        box-shadow: 
+            0 4px 16px rgba(255, 193, 7, 0.12),
+            0 2px 4px rgba(0, 0, 0, 0.06);
+        border: 1px solid rgba(255, 193, 7, 0.3);
+    }
+    
+    /* Dark sidebar with dramatic gradient and depth */
+    [data-testid="stSidebar"] {
+        background: linear-gradient(180deg, #2C3E50 0%, #1A252F 50%, #2C3E50 100%);
+        padding: 2rem 1rem;
+        border-right: 2px solid rgba(0, 191, 255, 0.3);
+        box-shadow: 
+            inset -2px 0 8px rgba(0, 0, 0, 0.3),
+            2px 0 16px rgba(0, 0, 0, 0.5);
+        position: relative;
+    }
+    
+    /* Make sidebar content scrollable if needed */
+    [data-testid="stSidebar"] > div {
+        overflow-y: auto;
+        overflow-x: hidden;
+    }
+    
+    /* Clean borders - target only the container, not nested elements */
+    [data-baseweb="input"],
+    [data-baseweb="select"] {
+        border: none !important;
+    }
+    
+    [data-baseweb="input"] > div,
+    [data-baseweb="select"] > div {
+        border: 2px solid rgba(0, 191, 255, 0.3) !important;
+        background-color: rgba(26, 37, 47, 0.9) !important;
+        box-shadow: none !important;
+        outline: none !important;
+        border-radius: 8px !important;
+    }
+    
+    /* Focus - cyan border matching selectbox */
+    [data-baseweb="input"]:focus-within > div,
+    [data-baseweb="select"]:focus-within > div {
+        border: 2px solid rgba(0, 191, 255, 0.6) !important;
+        box-shadow: 0 0 0 1px rgba(0, 191, 255, 0.2) !important;
+        outline: none !important;
+    }
+    
+    /* Kill all red/invalid styling */
+    input[aria-invalid="true"],
+    input[aria-invalid="true"] *,
+    [data-testid="stSidebar"] input[aria-invalid="true"],
+    [data-baseweb="input"][aria-invalid="true"],
+    [data-baseweb="input"][aria-invalid="true"] > div,
+    [data-baseweb="input"][aria-invalid="true"] > div *,
+    [data-baseweb="select"][aria-invalid="true"] > div {
+        border: 1px solid rgba(0, 191, 255, 0.4) !important;
+        box-shadow: none !important;
+    }
+    
+    input[aria-invalid="true"]:focus,
+    [data-testid="stSidebar"] input[aria-invalid="true"]:focus,
+    [data-baseweb="input"][aria-invalid="true"]:focus-within > div,
+    [data-baseweb="select"][aria-invalid="true"]:focus-within > div {
+        border-color: rgba(0, 191, 255, 0.6) !important;
+    }
+    
+    /* Sidebar section spacing - compact */
+    [data-testid="stSidebar"] > div > div {
+        margin-bottom: 1rem;
+    }
+    
+    [data-testid="stSidebar"] h3 {
+        margin-top: 1rem;
+        margin-bottom: 0.5rem;
+    }
+    
+    [data-testid="stSidebar"] .divider-subtle {
+        margin: 0.5rem 0;
+    }
+    
+    /* Subtle texture for sidebar */
+    [data-testid="stSidebar"]::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-image: radial-gradient(circle, rgba(255, 255, 255, 0.02) 1px, transparent 1px);
+        background-size: 20px 20px;
+        pointer-events: none;
+    }
+    
+    [data-testid="stSidebar"] h1,
+    [data-testid="stSidebar"] h2,
+    [data-testid="stSidebar"] h3 {
+        color: #FFFFFF !important;
+        border-bottom: 2px solid #00BFFF;
+        text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+    }
+    
+    [data-testid="stSidebar"] p,
+    [data-testid="stSidebar"] label {
+        color: #E8E8E8 !important;
+        font-weight: 500;
+        font-family: Arial, sans-serif;
+    }
+    
+    [data-testid="stSidebar"] .stMetric {
+        background: linear-gradient(135deg, rgba(0, 191, 255, 0.15) 0%, rgba(235, 10, 30, 0.15) 100%);
+        border: 2px solid rgba(0, 191, 255, 0.4);
+        border-radius: 16px;
+        padding: 1rem;
+        margin: 0.5rem 0;
+        box-shadow: 
+            0 4px 16px rgba(0, 0, 0, 0.3),
+            inset 0 1px 0 rgba(255, 255, 255, 0.1);
+        backdrop-filter: blur(10px);
+    }
+    
+    [data-testid="stSidebar"] .stMetric label {
+        color: #FFFFFF !important;
+        font-weight: 700;
+        font-size: 0.875rem;
+        text-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
+    }
+    
+    [data-testid="stSidebar"] .stMetric [data-testid="stMetricValue"] {
+        color: #FFD700 !important;
+        font-size: 1.8rem !important;
+        font-weight: 900;
+        text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+    }
+    
+    /* Tab styling with better spacing and centering - STICKY TABS */
+    .stTabs [data-baseweb="tab-list"] {
+        gap: 8px;
+        background: linear-gradient(135deg, rgba(0, 191, 255, 0.1) 0%, rgba(0, 153, 204, 0.1) 100%);
+        padding: 12px;
+        border-radius: 16px;
+        margin-bottom: 1.5rem;
+        justify-content: center;
+        border: 2px solid rgba(0, 191, 255, 0.2);
+        box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
+        position: sticky;
+        top: 0;
+        z-index: 999;
+        backdrop-filter: blur(10px);
+    }
+    
+    .stTabs [data-baseweb="tab"] {
+        height: 55px;
+        padding: 0 24px;
+        background: linear-gradient(135deg, rgba(44, 62, 80, 0.9) 0%, rgba(26, 37, 47, 0.9) 100%);
+        border-radius: 16px;
+        font-weight: 700;
+        font-size: 1rem;
+        color: #E8E8E8;
+        border: 2px solid rgba(0, 191, 255, 0.3);
+        transition: all 0.3s ease;
+        min-width: 140px;
+    }
+    
+    .stTabs [data-baseweb="tab"]:hover {
+        background: linear-gradient(135deg, rgba(0, 191, 255, 0.2) 0%, rgba(0, 153, 204, 0.2) 100%);
+        border-color: #00BFFF;
+        transform: translateY(-2px);
+        box-shadow: 0 4px 12px rgba(0, 191, 255, 0.3);
+    }
+    
+    .stTabs [aria-selected="true"] {
+        background: linear-gradient(135deg, #00BFFF 0%, #0099CC 100%);
+        color: white;
+        border: 2px solid transparent;
+        box-shadow: 
+            0 4px 12px rgba(0, 191, 255, 0.4),
+            0 0 20px rgba(0, 191, 255, 0.3);
+    }
+    
+    /* Hover effect for selected tab */
+    .stTabs [aria-selected="true"]:hover {
+        border: 2px solid #00BFFF;
+        transform: translateY(-2px);
+    }
+    
+    /* Remove red underline from selected tab */
+    .stTabs [aria-selected="true"]::after,
+    .stTabs [aria-selected="true"]::before {
+        display: none !important;
+        content: none !important;
+        border-bottom: none !important;
+        background: none !important;
+    }
+    
+    /* Remove any bottom border or underline from tabs */
+    .stTabs button::after,
+    .stTabs button::before {
+        display: none !important;
+        border-bottom: none !important;
+    }
+    
+    /* Override Streamlit's default tab indicator */
+    .stTabs [data-baseweb="tab-highlight"] {
+        display: none !important;
+        background-color: transparent !important;
+    }
+    
+    .stTabs [data-baseweb="tab-border"] {
+        display: none !important;
+        background-color: transparent !important;
+    }
+    
+    /* Data tables with better readability */
+    .dataframe {
+        font-size: 1.05rem;
+        border: 1px solid #DEE2E6;
+        border-radius: 16px;
+        overflow: hidden;
+        font-family: Arial, sans-serif;
+    }
+    
+    .dataframe th {
+        background-color: #EB0A1E !important;
+        color: white !important;
+        font-weight: 700;
+        padding: 12px !important;
+        border: none !important;
+    }
+    
+    .dataframe td {
+        background-color: #FFFFFF !important;
+        color: #2C3E50 !important;
+        padding: 10px !important;
+        border-bottom: 1px solid #E9ECEF !important;
+    }
+    
+    .dataframe tr:hover td {
+        background-color: #F8F9FA !important;
+    }
+    
+    /* Buttons with better styling */
+    .stButton>button {
+        background: linear-gradient(135deg, #EB0A1E 0%, #C00000 100%);
+        color: white;
+        font-weight: 700;
+        border: none;
+        padding: 0.75rem 2rem;
+        border-radius: 16px;
+        font-size: 1.1rem;
+        box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+        transition: all 0.3s ease;
+    }
+    
+    .stButton>button:hover {
+        background: linear-gradient(135deg, #C00000 0%, #A00000 100%);
+        box-shadow: 0 6px 16px rgba(235, 10, 30, 0.4);
+        transform: translateY(-2px);
+    }
+    
+    /* Chart containers with enhanced depth and dark theme */
+    .js-plotly-plot {
+        border-radius: 16px;
+        box-shadow: 
+            0 4px 16px rgba(0, 0, 0, 0.6),
+            0 2px 8px rgba(0, 191, 255, 0.1),
+            inset 0 1px 0 rgba(255, 255, 255, 0.05);
+        background: linear-gradient(135deg, rgba(44, 62, 80, 0.95) 0%, rgba(26, 37, 47, 0.95) 100%);
+        border: 1px solid rgba(0, 191, 255, 0.3);
+        padding: 1rem;
+        margin: 0.5rem 0;
+        transition: all 0.3s ease;
+    }
+    
+    .js-plotly-plot:hover {
+        box-shadow: 
+            0 6px 24px rgba(0, 0, 0, 0.7),
+            0 3px 12px rgba(0, 191, 255, 0.2),
+            inset 0 1px 0 rgba(255, 255, 255, 0.1);
+        transform: translateY(-2px);
+    }
+    
+    /* OLD modebar styles removed - using new centered version below */
+    
+    /* Style for chart tool toggle checkboxes - positioned as overlay */
+    .js-plotly-plot + div [data-testid="stCheckbox"],
+    div:has(+ .js-plotly-plot) [data-testid="stCheckbox"] {
+        position: absolute;
+        bottom: 15px;
+        right: 15px;
+        z-index: 1000;
+        background: rgba(255, 255, 255, 0.95);
+        padding: 0.6rem 1rem;
+        border-radius: 16px;
+        border: 2px solid #E0E0E0;
+        box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+        transition: all 0.3s ease;
+    }
+    
+    div:has(+ .js-plotly-plot) [data-testid="stCheckbox"]:hover {
+        border-color: #EB0A1E;
+        box-shadow: 0 4px 12px rgba(235, 10, 30, 0.3);
+        transform: translateY(-2px);
+    }
+    
+    /* Make chart container relative for absolute positioning */
+    .js-plotly-plot {
+        position: relative;
+    }
+    
+    /* Fix checkbox styling - remove white background */
+    [data-testid="stCheckbox"] {
+        background: transparent !important;
+        padding: 0.5rem 0 !important;
+        margin: 0.25rem 0 !important;
+    }
+    
+    /* Tight consistent spacing between expanders */
+    [data-testid="stExpander"] {
+        margin-bottom: 0.25rem !important;
+        margin-top: 0 !important;
+    }
+    
+    /* Add consistent spacing only between consecutive expanders */
+    [data-testid="stExpander"] + [data-testid="stExpander"] {
+        margin-top: 0.25rem !important;
+    }
+    
+    [data-testid="stCheckbox"] > label {
+        background: transparent !important;
+        color: #FFFFFF !important;
+        font-weight: 600 !important;
+        font-size: 0.95rem !important;
+    }
+    
+    [data-testid="stCheckbox"] > label > div {
+        background: transparent !important;
+    }
+    
+    /* Checkbox input styling */
+    [data-testid="stCheckbox"] input[type="checkbox"] {
+        accent-color: #00BFFF !important;
+        width: 18px !important;
+        height: 18px !important;
+        cursor: pointer !important;
+    }
+    
+    /* Plotly modebar - SMALLER, CENTERED AT TOP with tight spacing */
+    .modebar {
+        position: absolute !important;
+        top: 55px !important;
+        bottom: auto !important;
+        left: 50% !important;
+        right: auto !important;
+        transform: translateX(-50%) !important;
+        background: rgba(26, 37, 47, 0.9) !important;
+        border: 1px solid rgba(0, 191, 255, 0.25) !important;
+        border-radius: 6px !important;
+        padding: 4px 8px !important;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.4) !important;
+        z-index: 1000 !important;
+        display: flex !important;
+        opacity: 1 !important;
+        visibility: visible !important;
+        gap: 2px !important;
+    }
+    
+    /* Smaller buttons */
+    .modebar-btn {
+        color: #FFFFFF !important;
+        background: transparent !important;
+        padding: 3px !important;
+        margin: 0 1px !important;
+        width: 24px !important;
+        height: 24px !important;
+    }
+    
+    .modebar-btn:hover {
+        background: rgba(0, 191, 255, 0.2) !important;
+        border-radius: 3px !important;
+    }
+    
+    .modebar-btn svg {
+        fill: #FFFFFF !important;
+        width: 16px !important;
+        height: 16px !important;
+    }
+    
+    .modebar-btn:hover svg {
+        fill: #00BFFF !important;
+    }
+    
+    /* Remove any white backgrounds from plotly elements */
+    .modebar-group {
+        background: transparent !important;
+    }
+    
+    .modebar-btn path {
+        fill: #FFFFFF !important;
+    }
+    
+    /* Add spacing between chart title and plot area */
+    .js-plotly-plot {
+        margin-bottom: 0.25rem !important;
+    }
+    
+    /* Quick Stats boxes - JavaScript will equalize heights dynamically */
+    .insight-box {
+        min-height: 200px !important;
+        box-sizing: border-box !important;
+    }
+    
+    /* Weakest Segment cards - ensure equal heights */
+    .weakest-segment-card {
+        min-height: 140px !important;
+        box-sizing: border-box !important;
+    }
+    
+    /* Improvement Recommendation cards - ensure equal heights */
+    .improvement-rec-card {
+        min-height: 200px !important;
+        box-sizing: border-box !important;
+    }
+

@@ -1,0 +1,2 @@
+vehicle_number,driver_name,last_lap_time,predicted_next_lap,best_lap,avg_lap,improvement_vs_best,improvement_vs_avg,confidence
+55,GR86-016-55,102.503,102.28768000000002,98.078,108.35125000000001,4.20968000000002,-6.063569999999984,High

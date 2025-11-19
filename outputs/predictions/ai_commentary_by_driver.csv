@@ -1,0 +1,111 @@
+vehicle_number,driver_name,comment_number,commentary,category
+0,GR86-002-000,1,⚠️ GR86-002-000 may struggle next lap - predicted 51.50s slower than their best.,General
+0,GR86-002-000,2,🎯 Strongest in S3 with 136.1 km/h average speed.,Section Analysis
+0,GR86-002-000,3,📊 Room for improvement in S2 - currently 94.7 km/h.,Section Analysis
+0,GR86-002-000,4,✅ Efficient braking technique (13.8 bar avg) - maintaining momentum well!,Telemetry
+0,GR86-002-000,5,📈 Moderate G-forces (0.20g) - could carry more speed through corners.,Trend
+2,GR86-060-2,1,⚠️ GR86-060-2 may struggle next lap - predicted 0.83s slower than their best.,General
+2,GR86-060-2,2,🎯 Strongest in S3 with 133.8 km/h average speed.,Section Analysis
+2,GR86-060-2,3,📊 Room for improvement in S2 - currently 93.8 km/h.,Section Analysis
+2,GR86-060-2,4,✅ Efficient braking technique (12.7 bar avg) - maintaining momentum well!,Telemetry
+2,GR86-060-2,5,📈 Moderate G-forces (0.21g) - could carry more speed through corners.,Trend
+3,GR86-040-3,1,⚠️ GR86-040-3 may struggle next lap - predicted 0.71s slower than their best.,General
+3,GR86-040-3,2,🎯 Strongest in S3 with 133.9 km/h average speed.,Section Analysis
+3,GR86-040-3,3,📊 Room for improvement in S2 - currently 94.3 km/h.,Section Analysis
+3,GR86-040-3,4,✅ Efficient braking technique (13.6 bar avg) - maintaining momentum well!,Telemetry
+3,GR86-040-3,5,📈 Moderate G-forces (0.21g) - could carry more speed through corners.,Trend
+5,GR86-065-5,1,⚠️ GR86-065-5 may struggle next lap - predicted 1.72s slower than their best.,General
+5,GR86-065-5,2,🎯 Strongest in S3 with 135.5 km/h average speed.,Section Analysis
+5,GR86-065-5,3,📊 Room for improvement in S2 - currently 94.0 km/h.,Section Analysis
+5,GR86-065-5,4,✅ Efficient braking technique (13.5 bar avg) - maintaining momentum well!,Telemetry
+5,GR86-065-5,5,📈 Moderate G-forces (0.21g) - could carry more speed through corners.,Trend
+7,GR86-006-7,1,⚠️ GR86-006-7 may struggle next lap - predicted 0.59s slower than their best.,General
+7,GR86-006-7,2,🎯 Strongest in S3 with 138.8 km/h average speed.,Section Analysis
+7,GR86-006-7,3,📊 Room for improvement in S3 - currently 138.8 km/h.,Section Analysis
+7,GR86-006-7,4,🏎️ Aggressive throttle usage (77.3%) - great for straights!,Telemetry
+7,GR86-006-7,5,✅ Efficient braking technique (15.3 bar avg) - maintaining momentum well!,Telemetry
+8,GR86-012-8,1,⚠️ GR86-012-8 may struggle next lap - predicted 0.83s slower than their best.,General
+8,GR86-012-8,2,🎯 Strongest in S3 with 130.4 km/h average speed.,Section Analysis
+8,GR86-012-8,3,📊 Room for improvement in S2 - currently 97.5 km/h.,Section Analysis
+8,GR86-012-8,4,✅ Efficient braking technique (11.5 bar avg) - maintaining momentum well!,Telemetry
+8,GR86-012-8,5,📈 Moderate G-forces (0.21g) - could carry more speed through corners.,Trend
+11,GR86-035-11,1,⚠️ GR86-035-11 may struggle next lap - predicted 0.59s slower than their best.,General
+11,GR86-035-11,2,🎯 Strongest in S3 with 132.2 km/h average speed.,Section Analysis
+11,GR86-035-11,3,📊 Room for improvement in S2 - currently 94.3 km/h.,Section Analysis
+11,GR86-035-11,4,✅ Efficient braking technique (10.9 bar avg) - maintaining momentum well!,Telemetry
+11,GR86-035-11,5,📈 Moderate G-forces (0.21g) - could carry more speed through corners.,Trend
+13,GR86-022-13,1,⚠️ GR86-022-13 may struggle next lap - predicted 0.70s slower than their best.,General
+13,GR86-022-13,2,🎯 Strongest in S3 with 136.6 km/h average speed.,Section Analysis
+13,GR86-022-13,3,📊 Room for improvement in S2 - currently 95.2 km/h.,Section Analysis
+13,GR86-022-13,4,✅ Efficient braking technique (13.7 bar avg) - maintaining momentum well!,Telemetry
+13,GR86-022-13,5,📈 Moderate G-forces (0.21g) - could carry more speed through corners.,Trend
+16,GR86-010-16,1,⚠️ GR86-010-16 may struggle next lap - predicted 1.22s slower than their best.,General
+16,GR86-010-16,2,🎯 Strongest in S3 with 136.8 km/h average speed.,Section Analysis
+16,GR86-010-16,3,📊 Room for improvement in S2 - currently 95.6 km/h.,Section Analysis
+16,GR86-010-16,4,✅ Efficient braking technique (14.5 bar avg) - maintaining momentum well!,Telemetry
+16,GR86-010-16,5,📈 Moderate G-forces (0.21g) - could carry more speed through corners.,Trend
+18,GR86-030-18,1,⚠️ GR86-030-18 may struggle next lap - predicted 1.47s slower than their best.,General
+18,GR86-030-18,2,🎯 Strongest in S3 with 133.6 km/h average speed.,Section Analysis
+18,GR86-030-18,3,📊 Room for improvement in S2 - currently 94.2 km/h.,Section Analysis
+18,GR86-030-18,4,✅ Efficient braking technique (11.1 bar avg) - maintaining momentum well!,Telemetry
+18,GR86-030-18,5,📈 Moderate G-forces (0.20g) - could carry more speed through corners.,Trend
+21,GR86-047-21,1,⚠️ GR86-047-21 may struggle next lap - predicted 1.38s slower than their best.,General
+21,GR86-047-21,2,🎯 Strongest in S3 with 134.4 km/h average speed.,Section Analysis
+21,GR86-047-21,3,📊 Room for improvement in S2 - currently 93.5 km/h.,Section Analysis
+21,GR86-047-21,4,✅ Efficient braking technique (14.6 bar avg) - maintaining momentum well!,Telemetry
+21,GR86-047-21,5,📈 Moderate G-forces (0.23g) - could carry more speed through corners.,Trend
+46,GR86-033-46,1,⚠️ GR86-033-46 may struggle next lap - predicted 0.96s slower than their best.,General
+46,GR86-033-46,2,🎯 Strongest in S3 with 135.1 km/h average speed.,Section Analysis
+46,GR86-033-46,3,📊 Room for improvement in S2 - currently 93.9 km/h.,Section Analysis
+46,GR86-033-46,4,✅ Efficient braking technique (12.1 bar avg) - maintaining momentum well!,Telemetry
+46,GR86-033-46,5,📈 Moderate G-forces (0.18g) - could carry more speed through corners.,Trend
+47,GR86-025-47,1,"💪 GR86-025-47 maintaining consistent pace, predicted within 0.5s of their best!",General
+47,GR86-025-47,2,🎯 Strongest in S3 with 134.8 km/h average speed.,Section Analysis
+47,GR86-025-47,3,📊 Room for improvement in S2 - currently 93.6 km/h.,Section Analysis
+47,GR86-025-47,4,✅ Efficient braking technique (13.8 bar avg) - maintaining momentum well!,Telemetry
+47,GR86-025-47,5,📈 Moderate G-forces (0.33g) - could carry more speed through corners.,Trend
+55,GR86-016-55,1,⚠️ GR86-016-55 may struggle next lap - predicted 4.21s slower than their best.,General
+55,GR86-016-55,2,🎯 Strongest in S3 with 136.6 km/h average speed.,Section Analysis
+55,GR86-016-55,3,📊 Room for improvement in S2 - currently 95.5 km/h.,Section Analysis
+55,GR86-016-55,4,✅ Efficient braking technique (11.4 bar avg) - maintaining momentum well!,Telemetry
+55,GR86-016-55,5,📈 Moderate G-forces (0.18g) - could carry more speed through corners.,Trend
+57,GR86-057-57,1,⚠️ GR86-057-57 may struggle next lap - predicted 2.59s slower than their best.,General
+57,GR86-057-57,2,🎯 Strongest in S3 with 128.4 km/h average speed.,Section Analysis
+57,GR86-057-57,3,📊 Room for improvement in S2 - currently 93.8 km/h.,Section Analysis
+57,GR86-057-57,4,✅ Efficient braking technique (9.2 bar avg) - maintaining momentum well!,Telemetry
+57,GR86-057-57,5,📈 Moderate G-forces (0.19g) - could carry more speed through corners.,Trend
+72,GR86-026-72,1,⚠️ GR86-026-72 may struggle next lap - predicted 33.87s slower than their best.,General
+72,GR86-026-72,2,🎯 Strongest in S3 with 133.7 km/h average speed.,Section Analysis
+72,GR86-026-72,3,📊 Room for improvement in S2 - currently 95.7 km/h.,Section Analysis
+72,GR86-026-72,4,✅ Efficient braking technique (12.2 bar avg) - maintaining momentum well!,Telemetry
+72,GR86-026-72,5,📈 Moderate G-forces (0.20g) - could carry more speed through corners.,Trend
+80,GR86-013-80,1,⚠️ GR86-013-80 may struggle next lap - predicted 52.64s slower than their best.,General
+80,GR86-013-80,2,🎯 Strongest in S3 with 134.1 km/h average speed.,Section Analysis
+80,GR86-013-80,3,📊 Room for improvement in S2 - currently 90.7 km/h.,Section Analysis
+80,GR86-013-80,4,✅ Efficient braking technique (13.4 bar avg) - maintaining momentum well!,Telemetry
+80,GR86-013-80,5,📈 Moderate G-forces (0.21g) - could carry more speed through corners.,Trend
+88,GR86-049-88,1,⚠️ GR86-049-88 may struggle next lap - predicted 1.82s slower than their best.,General
+88,GR86-049-88,2,🎯 Strongest in S3 with 135.3 km/h average speed.,Section Analysis
+88,GR86-049-88,3,📊 Room for improvement in S2 - currently 93.6 km/h.,Section Analysis
+88,GR86-049-88,4,✅ Efficient braking technique (13.0 bar avg) - maintaining momentum well!,Telemetry
+88,GR86-049-88,5,📈 Moderate G-forces (0.21g) - could carry more speed through corners.,Trend
+89,GR86-028-89,1,⚠️ GR86-028-89 may struggle next lap - predicted 1.14s slower than their best.,General
+89,GR86-028-89,2,🎯 Strongest in S3 with 134.6 km/h average speed.,Section Analysis
+89,GR86-028-89,3,📊 Room for improvement in S2 - currently 93.9 km/h.,Section Analysis
+89,GR86-028-89,4,✅ Efficient braking technique (12.9 bar avg) - maintaining momentum well!,Telemetry
+89,GR86-028-89,5,📈 Moderate G-forces (0.21g) - could carry more speed through corners.,Trend
+93,GR86-038-93,1,"💪 GR86-038-93 maintaining consistent pace, predicted within 0.5s of their best!",General
+93,GR86-038-93,2,🎯 Strongest in S3 with 133.8 km/h average speed.,Section Analysis
+93,GR86-038-93,3,📊 Room for improvement in S2 - currently 94.5 km/h.,Section Analysis
+93,GR86-038-93,4,✅ Efficient braking technique (14.0 bar avg) - maintaining momentum well!,Telemetry
+93,GR86-038-93,5,📈 Moderate G-forces (0.36g) - could carry more speed through corners.,Trend
+98,GR86-036-98,1,⚠️ GR86-036-98 may struggle next lap - predicted 0.92s slower than their best.,General
+98,GR86-036-98,2,🎯 Strongest in S3 with 134.8 km/h average speed.,Section Analysis
+98,GR86-036-98,3,📊 Room for improvement in S2 - currently 93.9 km/h.,Section Analysis
+98,GR86-036-98,4,✅ Efficient braking technique (13.8 bar avg) - maintaining momentum well!,Telemetry
+98,GR86-036-98,5,📈 Moderate G-forces (0.20g) - could carry more speed through corners.,Trend
+113,GR86-063-113,1,⚠️ GR86-063-113 may struggle next lap - predicted 4.57s slower than their best.,General
+113,GR86-063-113,2,🎯 Strongest in S3 with 134.8 km/h average speed.,Section Analysis
+113,GR86-063-113,3,📊 Room for improvement in S2 - currently 93.7 km/h.,Section Analysis
+113,GR86-063-113,4,✅ Efficient braking technique (11.9 bar avg) - maintaining momentum well!,Telemetry
+113,GR86-063-113,5,📈 Moderate G-forces (0.21g) - could carry more speed through corners.,Trend

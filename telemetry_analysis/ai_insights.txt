@@ -1,0 +1,14 @@
+TOYOTA GR CUP INDIANAPOLIS RACE 1 - AI INSIGHTS
+================================================================================
+
+1. 💡 Drivers could improve lap times by increasing average throttle from 65.1% to 75.7%
+2. 💡 Optimal average speed for fast laps: 138.5 km/h
+3. 💡 Optimal corner entry speed estimated at 137.1 km/h under current conditions
+4. 💡 High humidity (75%) detected - reduce throttle aggression in low-grip sections
+5. 💡 Cool conditions (17.5°C) - tires may need extra warm-up laps for optimal grip
+6. 💡 Optimal average RPM for fast laps: 6358 RPM
+7. 💡 Fastest drivers maintain higher cornering forces (0.24g vs 0.21g avg)
+8.    → Recommendation: Increase corner speed and maintain smoother racing line
+
+================================================================================
+Analysis completed: 2025-11-15 19:19:10

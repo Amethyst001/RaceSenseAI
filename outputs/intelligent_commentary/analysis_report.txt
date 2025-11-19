@@ -1,0 +1,37 @@
+================================================================================
+INTELLIGENT COMMENTARY ENGINE - ANALYSIS REPORT
+================================================================================
+
+Generated: 2025-11-18 08:23:13
+Drivers Analyzed: 19
+Commentary Entries: 191
+Actionable Insights: 29
+
+================================================================================
+SYSTEM CAPABILITIES
+================================================================================
+
+✓ MODULE 1: Driver Style Detection
+  - Classifies driving style from telemetry patterns
+  - 7 distinct style categories
+
+✓ MODULE 2: Consistency Pattern Recognition
+  - Detects lap-to-lap variance, trends, cold/hot lap gaps
+  - Identifies improvement/degradation patterns
+
+✓ MODULE 3: Comparative Insights
+  - Compares vs fastest, top 10, field average
+  - Percentile ranking and gap analysis
+
+✓ MODULE 4: Prediction Stability Analysis
+  - Model agreement and confidence analysis
+  - Prediction variance and reliability rating
+
+✓ MODULE 5: Dynamic Natural Language Generation
+  - Intelligent sentence construction (not templates)
+  - Severity scales and comparative adjectives
+
+✓ MODULE 6: Track-Specific Context Layer
+  - Indianapolis Road Course characteristics
+  - Sector-specific insights and recommendations
+

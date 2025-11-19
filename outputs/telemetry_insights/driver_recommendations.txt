@@ -1,0 +1,770 @@
+================================================================================
+TOYOTA GR CUP - ACTIONABLE TELEMETRY INSIGHTS
+================================================================================
+
+Benchmark: Car #31 - 87.40s
+  Speed: 115.8 km/h
+  Throttle: 59.2%
+  Brake: 5.9%
+  RPM: 5738
+
+================================================================================
+DRIVER-BY-DRIVER RECOMMENDATIONS
+================================================================================
+
+
+Car #0
+--------------------------------------------------------------------------------
+Best Lap: 100.36s (FASTEST DRIVER)
+
+Telemetry Averages:
+  Speed: 126.8 km/h
+  Throttle: 64.5%
+  Brake: 6.7%
+  RPM: 6178
+
+HIGH PRIORITY ACTIONS (3):
+
+  [Speed Management]
+  Issue: Average speed (126.8 km/h) is 11.7 km/h below best lap speed
+  Action: Focus on maintaining higher minimum speeds through corners. Target: 138.5 km/h average
+  Potential Gain: 9.270s per lap
+  Estimated New Best Lap: 91.091s
+
+  [Throttle Control]
+  Issue: Average throttle (64.5%) is 14.0% below best lap
+  Action: Apply throttle earlier and more aggressively out of corners. Target: 78.5% average
+  Potential Gain: 0.419s per lap
+  Estimated New Best Lap: 99.942s
+
+  [Cornering Speed]
+  Issue: Low lateral G-force (0.19g) indicates slow corner speeds
+  Action: Carry more speed through corners. Build confidence in grip levels
+  Potential Gain: 1.000s per lap
+  Estimated New Best Lap: 99.361s
+
+  TOTAL POTENTIAL IMPROVEMENT: 10.689s
+  PROJECTED BEST LAP: 89.672s
+
+MEDIUM PRIORITY ACTIONS (1):
+  - Throttle Consistency: Work on smooth, progressive throttle inputs. Avoid sudden on/off movements
+
+
+Car #2
+--------------------------------------------------------------------------------
+Best Lap: 101.39s (FASTEST DRIVER)
+
+Telemetry Averages:
+  Speed: 126.1 km/h
+  Throttle: 63.2%
+  Brake: 5.9%
+  RPM: 6133
+
+HIGH PRIORITY ACTIONS (3):
+
+  [Speed Management]
+  Issue: Average speed (126.1 km/h) is 11.5 km/h below best lap speed
+  Action: Focus on maintaining higher minimum speeds through corners. Target: 137.6 km/h average
+  Potential Gain: 9.212s per lap
+  Estimated New Best Lap: 92.175s
+
+  [Throttle Control]
+  Issue: Average throttle (63.2%) is 11.3% below best lap
+  Action: Apply throttle earlier and more aggressively out of corners. Target: 74.4% average
+  Potential Gain: 0.338s per lap
+  Estimated New Best Lap: 101.049s
+
+  [Cornering Speed]
+  Issue: Low lateral G-force (0.20g) indicates slow corner speeds
+  Action: Carry more speed through corners. Build confidence in grip levels
+  Potential Gain: 1.000s per lap
+  Estimated New Best Lap: 100.387s
+
+  TOTAL POTENTIAL IMPROVEMENT: 10.550s
+  PROJECTED BEST LAP: 90.837s
+
+MEDIUM PRIORITY ACTIONS (1):
+  - Throttle Consistency: Work on smooth, progressive throttle inputs. Avoid sudden on/off movements
+
+
+Car #3
+--------------------------------------------------------------------------------
+Best Lap: 102.37s (FASTEST DRIVER)
+
+Telemetry Averages:
+  Speed: 129.8 km/h
+  Throttle: 69.1%
+  Brake: 6.7%
+  RPM: 5990
+
+HIGH PRIORITY ACTIONS (2):
+
+  [Throttle Control]
+  Issue: Average throttle (69.1%) is 7.0% below best lap
+  Action: Apply throttle earlier and more aggressively out of corners. Target: 76.2% average
+  Potential Gain: 0.211s per lap
+  Estimated New Best Lap: 102.163s
+
+  [Cornering Speed]
+  Issue: Low lateral G-force (0.21g) indicates slow corner speeds
+  Action: Carry more speed through corners. Build confidence in grip levels
+  Potential Gain: 1.000s per lap
+  Estimated New Best Lap: 101.374s
+
+  TOTAL POTENTIAL IMPROVEMENT: 1.211s
+  PROJECTED BEST LAP: 101.163s
+
+MEDIUM PRIORITY ACTIONS (2):
+  - Speed Management: Focus on maintaining higher minimum speeds through corners. Target: 137.1 km/h average
+  - Throttle Consistency: Work on smooth, progressive throttle inputs. Avoid sudden on/off movements
+
+
+Car #5
+--------------------------------------------------------------------------------
+Best Lap: 100.95s (FASTEST DRIVER)
+
+Telemetry Averages:
+  Speed: 129.4 km/h
+  Throttle: 67.1%
+  Brake: 6.6%
+  RPM: 5971
+
+HIGH PRIORITY ACTIONS (2):
+
+  [Throttle Control]
+  Issue: Average throttle (67.1%) is 6.3% below best lap
+  Action: Apply throttle earlier and more aggressively out of corners. Target: 73.5% average
+  Potential Gain: 0.190s per lap
+  Estimated New Best Lap: 100.761s
+
+  [Cornering Speed]
+  Issue: Low lateral G-force (0.20g) indicates slow corner speeds
+  Action: Carry more speed through corners. Build confidence in grip levels
+  Potential Gain: 1.000s per lap
+  Estimated New Best Lap: 99.951s
+
+  TOTAL POTENTIAL IMPROVEMENT: 1.190s
+  PROJECTED BEST LAP: 99.761s
+
+MEDIUM PRIORITY ACTIONS (2):
+  - Speed Management: Focus on maintaining higher minimum speeds through corners. Target: 138.7 km/h average
+  - Throttle Consistency: Work on smooth, progressive throttle inputs. Avoid sudden on/off movements
+
+
+Car #7
+--------------------------------------------------------------------------------
+Best Lap: 100.28s (FASTEST DRIVER)
+
+Telemetry Averages:
+  Speed: 130.0 km/h
+  Throttle: 73.2%
+  Brake: 7.3%
+  RPM: 6117
+
+HIGH PRIORITY ACTIONS (1):
+
+  [Cornering Speed]
+  Issue: Low lateral G-force (0.21g) indicates slow corner speeds
+  Action: Carry more speed through corners. Build confidence in grip levels
+  Potential Gain: 1.000s per lap
+  Estimated New Best Lap: 99.278s
+
+  TOTAL POTENTIAL IMPROVEMENT: 1.000s
+  PROJECTED BEST LAP: 99.278s
+
+MEDIUM PRIORITY ACTIONS (1):
+  - Speed Management: Focus on maintaining higher minimum speeds through corners. Target: 139.7 km/h average
+
+
+Car #8
+--------------------------------------------------------------------------------
+Best Lap: 103.64s (FASTEST DRIVER)
+
+Telemetry Averages:
+  Speed: 126.8 km/h
+  Throttle: 66.9%
+  Brake: 5.5%
+  RPM: 5883
+
+HIGH PRIORITY ACTIONS (2):
+
+  [Throttle Control]
+  Issue: Average throttle (66.9%) is 8.0% below best lap
+  Action: Apply throttle earlier and more aggressively out of corners. Target: 75.0% average
+  Potential Gain: 0.241s per lap
+  Estimated New Best Lap: 103.404s
+
+  [Cornering Speed]
+  Issue: Low lateral G-force (0.20g) indicates slow corner speeds
+  Action: Carry more speed through corners. Build confidence in grip levels
+  Potential Gain: 1.000s per lap
+  Estimated New Best Lap: 102.645s
+
+  TOTAL POTENTIAL IMPROVEMENT: 1.241s
+  PROJECTED BEST LAP: 102.404s
+
+MEDIUM PRIORITY ACTIONS (1):
+  - Speed Management: Focus on maintaining higher minimum speeds through corners. Target: 135.4 km/h average
+
+
+Car #11
+--------------------------------------------------------------------------------
+Best Lap: 102.20s (FASTEST DRIVER)
+
+Telemetry Averages:
+  Speed: 124.5 km/h
+  Throttle: 59.1%
+  Brake: 5.1%
+  RPM: 5923
+
+HIGH PRIORITY ACTIONS (3):
+
+  [Speed Management]
+  Issue: Average speed (124.5 km/h) is 12.1 km/h below best lap speed
+  Action: Focus on maintaining higher minimum speeds through corners. Target: 136.6 km/h average
+  Potential Gain: 9.944s per lap
+  Estimated New Best Lap: 92.257s
+
+  [Throttle Control]
+  Issue: Average throttle (59.1%) is 13.6% below best lap
+  Action: Apply throttle earlier and more aggressively out of corners. Target: 72.7% average
+  Potential Gain: 0.407s per lap
+  Estimated New Best Lap: 101.794s
+
+  [Cornering Speed]
+  Issue: Low lateral G-force (0.21g) indicates slow corner speeds
+  Action: Carry more speed through corners. Build confidence in grip levels
+  Potential Gain: 1.000s per lap
+  Estimated New Best Lap: 101.201s
+
+  TOTAL POTENTIAL IMPROVEMENT: 11.351s
+  PROJECTED BEST LAP: 90.850s
+
+MEDIUM PRIORITY ACTIONS (2):
+  - Throttle Consistency: Work on smooth, progressive throttle inputs. Avoid sudden on/off movements
+  - Engine Management: Shift later to keep engine in power band. Target: 6492 RPM average
+
+
+Car #13
+--------------------------------------------------------------------------------
+Best Lap: 100.10s (FASTEST DRIVER)
+
+Telemetry Averages:
+  Speed: 129.4 km/h
+  Throttle: 67.3%
+  Brake: 6.7%
+  RPM: 6097
+
+HIGH PRIORITY ACTIONS (3):
+
+  [Speed Management]
+  Issue: Average speed (129.4 km/h) is 10.3 km/h below best lap speed
+  Action: Focus on maintaining higher minimum speeds through corners. Target: 139.7 km/h average
+  Potential Gain: 7.947s per lap
+  Estimated New Best Lap: 92.154s
+
+  [Throttle Control]
+  Issue: Average throttle (67.3%) is 9.2% below best lap
+  Action: Apply throttle earlier and more aggressively out of corners. Target: 76.5% average
+  Potential Gain: 0.277s per lap
+  Estimated New Best Lap: 99.824s
+
+  [Cornering Speed]
+  Issue: Low lateral G-force (0.20g) indicates slow corner speeds
+  Action: Carry more speed through corners. Build confidence in grip levels
+  Potential Gain: 1.000s per lap
+  Estimated New Best Lap: 99.101s
+
+  TOTAL POTENTIAL IMPROVEMENT: 9.224s
+  PROJECTED BEST LAP: 90.877s
+
+MEDIUM PRIORITY ACTIONS (1):
+  - Throttle Consistency: Work on smooth, progressive throttle inputs. Avoid sudden on/off movements
+
+
+Car #16
+--------------------------------------------------------------------------------
+Best Lap: 100.11s (FASTEST DRIVER)
+
+Telemetry Averages:
+  Speed: 127.0 km/h
+  Throttle: 64.6%
+  Brake: 6.8%
+  RPM: 5984
+
+HIGH PRIORITY ACTIONS (3):
+
+  [Speed Management]
+  Issue: Average speed (127.0 km/h) is 12.7 km/h below best lap speed
+  Action: Focus on maintaining higher minimum speeds through corners. Target: 139.7 km/h average
+  Potential Gain: 10.019s per lap
+  Estimated New Best Lap: 90.091s
+
+  [Throttle Control]
+  Issue: Average throttle (64.6%) is 10.1% below best lap
+  Action: Apply throttle earlier and more aggressively out of corners. Target: 74.7% average
+  Potential Gain: 0.304s per lap
+  Estimated New Best Lap: 99.806s
+
+  [Cornering Speed]
+  Issue: Low lateral G-force (0.20g) indicates slow corner speeds
+  Action: Carry more speed through corners. Build confidence in grip levels
+  Potential Gain: 1.000s per lap
+  Estimated New Best Lap: 99.110s
+
+  TOTAL POTENTIAL IMPROVEMENT: 11.323s
+  PROJECTED BEST LAP: 88.787s
+
+MEDIUM PRIORITY ACTIONS (1):
+  - Throttle Consistency: Work on smooth, progressive throttle inputs. Avoid sudden on/off movements
+
+
+Car #18
+--------------------------------------------------------------------------------
+Best Lap: 101.88s (FASTEST DRIVER)
+
+Telemetry Averages:
+  Speed: 128.2 km/h
+  Throttle: 64.9%
+  Brake: 5.3%
+  RPM: 5844
+
+HIGH PRIORITY ACTIONS (2):
+
+  [Throttle Control]
+  Issue: Average throttle (64.9%) is 7.7% below best lap
+  Action: Apply throttle earlier and more aggressively out of corners. Target: 72.5% average
+  Potential Gain: 0.230s per lap
+  Estimated New Best Lap: 101.646s
+
+  [Cornering Speed]
+  Issue: Low lateral G-force (0.19g) indicates slow corner speeds
+  Action: Carry more speed through corners. Build confidence in grip levels
+  Potential Gain: 1.000s per lap
+  Estimated New Best Lap: 100.876s
+
+  TOTAL POTENTIAL IMPROVEMENT: 1.230s
+  PROJECTED BEST LAP: 100.646s
+
+MEDIUM PRIORITY ACTIONS (2):
+  - Speed Management: Focus on maintaining higher minimum speeds through corners. Target: 137.6 km/h average
+  - Throttle Consistency: Work on smooth, progressive throttle inputs. Avoid sudden on/off movements
+
+
+Car #21
+--------------------------------------------------------------------------------
+Best Lap: 100.66s (FASTEST DRIVER)
+
+Telemetry Averages:
+  Speed: 128.6 km/h
+  Throttle: 66.1%
+  Brake: 7.1%
+  RPM: 6018
+
+HIGH PRIORITY ACTIONS (2):
+
+  [Throttle Control]
+  Issue: Average throttle (66.1%) is 9.3% below best lap
+  Action: Apply throttle earlier and more aggressively out of corners. Target: 75.4% average
+  Potential Gain: 0.280s per lap
+  Estimated New Best Lap: 100.384s
+
+  [Cornering Speed]
+  Issue: Low lateral G-force (0.22g) indicates slow corner speeds
+  Action: Carry more speed through corners. Build confidence in grip levels
+  Potential Gain: 1.000s per lap
+  Estimated New Best Lap: 99.664s
+
+  TOTAL POTENTIAL IMPROVEMENT: 1.280s
+  PROJECTED BEST LAP: 99.384s
+
+MEDIUM PRIORITY ACTIONS (2):
+  - Speed Management: Focus on maintaining higher minimum speeds through corners. Target: 137.1 km/h average
+  - Throttle Consistency: Work on smooth, progressive throttle inputs. Avoid sudden on/off movements
+
+
+Car #46
+--------------------------------------------------------------------------------
+Best Lap: 100.25s (FASTEST DRIVER)
+
+Telemetry Averages:
+  Speed: 130.7 km/h
+  Throttle: 66.5%
+  Brake: 5.9%
+  RPM: 6219
+
+HIGH PRIORITY ACTIONS (2):
+
+  [Throttle Control]
+  Issue: Average throttle (66.5%) is 9.6% below best lap
+  Action: Apply throttle earlier and more aggressively out of corners. Target: 76.1% average
+  Potential Gain: 0.289s per lap
+  Estimated New Best Lap: 99.958s
+
+  [Cornering Speed]
+  Issue: Low lateral G-force (0.18g) indicates slow corner speeds
+  Action: Carry more speed through corners. Build confidence in grip levels
+  Potential Gain: 1.000s per lap
+  Estimated New Best Lap: 99.247s
+
+  TOTAL POTENTIAL IMPROVEMENT: 1.289s
+  PROJECTED BEST LAP: 98.958s
+
+MEDIUM PRIORITY ACTIONS (2):
+  - Speed Management: Focus on maintaining higher minimum speeds through corners. Target: 138.8 km/h average
+  - Throttle Consistency: Work on smooth, progressive throttle inputs. Avoid sudden on/off movements
+
+
+Car #47
+--------------------------------------------------------------------------------
+Best Lap: 100.34s (FASTEST DRIVER)
+
+Telemetry Averages:
+  Speed: 129.9 km/h
+  Throttle: 67.1%
+  Brake: 6.7%
+  RPM: 6071
+
+HIGH PRIORITY ACTIONS (2):
+
+  [Throttle Control]
+  Issue: Average throttle (67.1%) is 10.5% below best lap
+  Action: Apply throttle earlier and more aggressively out of corners. Target: 77.6% average
+  Potential Gain: 0.316s per lap
+  Estimated New Best Lap: 100.027s
+
+  [Cornering Speed]
+  Issue: Low lateral G-force (0.20g) indicates slow corner speeds
+  Action: Carry more speed through corners. Build confidence in grip levels
+  Potential Gain: 1.000s per lap
+  Estimated New Best Lap: 99.343s
+
+  TOTAL POTENTIAL IMPROVEMENT: 1.316s
+  PROJECTED BEST LAP: 99.027s
+
+MEDIUM PRIORITY ACTIONS (2):
+  - Speed Management: Focus on maintaining higher minimum speeds through corners. Target: 139.5 km/h average
+  - Throttle Consistency: Work on smooth, progressive throttle inputs. Avoid sudden on/off movements
+
+
+Car #55
+--------------------------------------------------------------------------------
+Best Lap: 98.08s (FASTEST DRIVER)
+
+Telemetry Averages:
+  Speed: 126.3 km/h
+  Throttle: 64.7%
+  Brake: 5.5%
+  RPM: 6033
+
+HIGH PRIORITY ACTIONS (3):
+
+  [Speed Management]
+  Issue: Average speed (126.3 km/h) is 12.4 km/h below best lap speed
+  Action: Focus on maintaining higher minimum speeds through corners. Target: 138.7 km/h average
+  Potential Gain: 9.625s per lap
+  Estimated New Best Lap: 88.453s
+
+  [Throttle Control]
+  Issue: Average throttle (64.7%) is 10.9% below best lap
+  Action: Apply throttle earlier and more aggressively out of corners. Target: 75.6% average
+  Potential Gain: 0.328s per lap
+  Estimated New Best Lap: 97.750s
+
+  [Cornering Speed]
+  Issue: Low lateral G-force (0.17g) indicates slow corner speeds
+  Action: Carry more speed through corners. Build confidence in grip levels
+  Potential Gain: 1.000s per lap
+  Estimated New Best Lap: 97.078s
+
+  TOTAL POTENTIAL IMPROVEMENT: 10.953s
+  PROJECTED BEST LAP: 87.125s
+
+MEDIUM PRIORITY ACTIONS (2):
+  - Throttle Consistency: Work on smooth, progressive throttle inputs. Avoid sudden on/off movements
+  - Speed Consistency: Focus on repeatable corner entry/exit speeds. Use reference points
+
+
+Car #57
+--------------------------------------------------------------------------------
+Best Lap: 103.47s (FASTEST DRIVER)
+
+Telemetry Averages:
+  Speed: 121.9 km/h
+  Throttle: 58.8%
+  Brake: 4.4%
+  RPM: 5607
+
+HIGH PRIORITY ACTIONS (3):
+
+  [Speed Management]
+  Issue: Average speed (121.9 km/h) is 14.1 km/h below best lap speed
+  Action: Focus on maintaining higher minimum speeds through corners. Target: 136.0 km/h average
+  Potential Gain: 11.961s per lap
+  Estimated New Best Lap: 91.513s
+
+  [Throttle Control]
+  Issue: Average throttle (58.8%) is 14.0% below best lap
+  Action: Apply throttle earlier and more aggressively out of corners. Target: 72.8% average
+  Potential Gain: 0.420s per lap
+  Estimated New Best Lap: 103.054s
+
+  [Cornering Speed]
+  Issue: Low lateral G-force (0.19g) indicates slow corner speeds
+  Action: Carry more speed through corners. Build confidence in grip levels
+  Potential Gain: 1.000s per lap
+  Estimated New Best Lap: 102.474s
+
+  TOTAL POTENTIAL IMPROVEMENT: 13.381s
+  PROJECTED BEST LAP: 90.093s
+
+MEDIUM PRIORITY ACTIONS (2):
+  - Throttle Consistency: Work on smooth, progressive throttle inputs. Avoid sudden on/off movements
+  - Engine Management: Shift later to keep engine in power band. Target: 6168 RPM average
+
+
+Car #72
+--------------------------------------------------------------------------------
+Best Lap: 99.86s (FASTEST DRIVER)
+
+Telemetry Averages:
+  Speed: 125.6 km/h
+  Throttle: 62.0%
+  Brake: 5.9%
+  RPM: 6090
+
+HIGH PRIORITY ACTIONS (3):
+
+  [Speed Management]
+  Issue: Average speed (125.6 km/h) is 13.9 km/h below best lap speed
+  Action: Focus on maintaining higher minimum speeds through corners. Target: 139.5 km/h average
+  Potential Gain: 11.038s per lap
+  Estimated New Best Lap: 88.823s
+
+  [Throttle Control]
+  Issue: Average throttle (62.0%) is 12.3% below best lap
+  Action: Apply throttle earlier and more aggressively out of corners. Target: 74.3% average
+  Potential Gain: 0.370s per lap
+  Estimated New Best Lap: 99.491s
+
+  [Cornering Speed]
+  Issue: Low lateral G-force (0.19g) indicates slow corner speeds
+  Action: Carry more speed through corners. Build confidence in grip levels
+  Potential Gain: 1.000s per lap
+  Estimated New Best Lap: 98.861s
+
+  TOTAL POTENTIAL IMPROVEMENT: 12.408s
+  PROJECTED BEST LAP: 87.453s
+
+MEDIUM PRIORITY ACTIONS (1):
+  - Throttle Consistency: Work on smooth, progressive throttle inputs. Avoid sudden on/off movements
+
+
+Car #80
+--------------------------------------------------------------------------------
+Best Lap: 101.91s (FASTEST DRIVER)
+
+Telemetry Averages:
+  Speed: 124.8 km/h
+  Throttle: 62.2%
+  Brake: 6.2%
+  RPM: 5943
+
+HIGH PRIORITY ACTIONS (3):
+
+  [Speed Management]
+  Issue: Average speed (124.8 km/h) is 13.3 km/h below best lap speed
+  Action: Focus on maintaining higher minimum speeds through corners. Target: 138.1 km/h average
+  Potential Gain: 10.846s per lap
+  Estimated New Best Lap: 91.061s
+
+  [Throttle Control]
+  Issue: Average throttle (62.2%) is 12.5% below best lap
+  Action: Apply throttle earlier and more aggressively out of corners. Target: 74.7% average
+  Potential Gain: 0.374s per lap
+  Estimated New Best Lap: 101.533s
+
+  [Cornering Speed]
+  Issue: Low lateral G-force (0.19g) indicates slow corner speeds
+  Action: Carry more speed through corners. Build confidence in grip levels
+  Potential Gain: 1.000s per lap
+  Estimated New Best Lap: 100.907s
+
+  TOTAL POTENTIAL IMPROVEMENT: 12.220s
+  PROJECTED BEST LAP: 89.687s
+
+MEDIUM PRIORITY ACTIONS (1):
+  - Throttle Consistency: Work on smooth, progressive throttle inputs. Avoid sudden on/off movements
+
+
+Car #88
+--------------------------------------------------------------------------------
+Best Lap: 100.41s (FASTEST DRIVER)
+
+Telemetry Averages:
+  Speed: 128.4 km/h
+  Throttle: 67.5%
+  Brake: 6.4%
+  RPM: 6037
+
+HIGH PRIORITY ACTIONS (3):
+
+  [Speed Management]
+  Issue: Average speed (128.4 km/h) is 10.5 km/h below best lap speed
+  Action: Focus on maintaining higher minimum speeds through corners. Target: 138.9 km/h average
+  Potential Gain: 8.216s per lap
+  Estimated New Best Lap: 92.198s
+
+  [Throttle Control]
+  Issue: Average throttle (67.5%) is 8.3% below best lap
+  Action: Apply throttle earlier and more aggressively out of corners. Target: 75.8% average
+  Potential Gain: 0.249s per lap
+  Estimated New Best Lap: 100.165s
+
+  [Cornering Speed]
+  Issue: Low lateral G-force (0.20g) indicates slow corner speeds
+  Action: Carry more speed through corners. Build confidence in grip levels
+  Potential Gain: 1.000s per lap
+  Estimated New Best Lap: 99.414s
+
+  TOTAL POTENTIAL IMPROVEMENT: 9.465s
+  PROJECTED BEST LAP: 90.949s
+
+
+Car #89
+--------------------------------------------------------------------------------
+Best Lap: 101.16s (FASTEST DRIVER)
+
+Telemetry Averages:
+  Speed: 127.9 km/h
+  Throttle: 65.1%
+  Brake: 6.1%
+  RPM: 5961
+
+HIGH PRIORITY ACTIONS (3):
+
+  [Speed Management]
+  Issue: Average speed (127.9 km/h) is 10.6 km/h below best lap speed
+  Action: Focus on maintaining higher minimum speeds through corners. Target: 138.4 km/h average
+  Potential Gain: 8.361s per lap
+  Estimated New Best Lap: 92.798s
+
+  [Throttle Control]
+  Issue: Average throttle (65.1%) is 10.6% below best lap
+  Action: Apply throttle earlier and more aggressively out of corners. Target: 75.7% average
+  Potential Gain: 0.319s per lap
+  Estimated New Best Lap: 100.840s
+
+  [Cornering Speed]
+  Issue: Low lateral G-force (0.20g) indicates slow corner speeds
+  Action: Carry more speed through corners. Build confidence in grip levels
+  Potential Gain: 1.000s per lap
+  Estimated New Best Lap: 100.159s
+
+  TOTAL POTENTIAL IMPROVEMENT: 9.680s
+  PROJECTED BEST LAP: 91.479s
+
+MEDIUM PRIORITY ACTIONS (1):
+  - Throttle Consistency: Work on smooth, progressive throttle inputs. Avoid sudden on/off movements
+
+
+Car #93
+--------------------------------------------------------------------------------
+Best Lap: 102.05s (FASTEST DRIVER)
+
+Telemetry Averages:
+  Speed: 127.6 km/h
+  Throttle: 65.4%
+  Brake: 6.8%
+  RPM: 6083
+
+HIGH PRIORITY ACTIONS (2):
+
+  [Throttle Control]
+  Issue: Average throttle (65.4%) is 10.1% below best lap
+  Action: Apply throttle earlier and more aggressively out of corners. Target: 75.5% average
+  Potential Gain: 0.304s per lap
+  Estimated New Best Lap: 101.741s
+
+  [Cornering Speed]
+  Issue: Low lateral G-force (0.22g) indicates slow corner speeds
+  Action: Carry more speed through corners. Build confidence in grip levels
+  Potential Gain: 1.000s per lap
+  Estimated New Best Lap: 101.045s
+
+  TOTAL POTENTIAL IMPROVEMENT: 1.304s
+  PROJECTED BEST LAP: 100.741s
+
+MEDIUM PRIORITY ACTIONS (2):
+  - Speed Management: Focus on maintaining higher minimum speeds through corners. Target: 137.3 km/h average
+  - Throttle Consistency: Work on smooth, progressive throttle inputs. Avoid sudden on/off movements
+
+
+Car #98
+--------------------------------------------------------------------------------
+Best Lap: 100.10s (FASTEST DRIVER)
+
+Telemetry Averages:
+  Speed: 128.5 km/h
+  Throttle: 65.5%
+  Brake: 6.5%
+  RPM: 5937
+
+HIGH PRIORITY ACTIONS (3):
+
+  [Speed Management]
+  Issue: Average speed (128.5 km/h) is 10.9 km/h below best lap speed
+  Action: Focus on maintaining higher minimum speeds through corners. Target: 139.4 km/h average
+  Potential Gain: 8.501s per lap
+  Estimated New Best Lap: 91.597s
+
+  [Throttle Control]
+  Issue: Average throttle (65.5%) is 10.7% below best lap
+  Action: Apply throttle earlier and more aggressively out of corners. Target: 76.1% average
+  Potential Gain: 0.320s per lap
+  Estimated New Best Lap: 99.778s
+
+  [Cornering Speed]
+  Issue: Low lateral G-force (0.19g) indicates slow corner speeds
+  Action: Carry more speed through corners. Build confidence in grip levels
+  Potential Gain: 1.000s per lap
+  Estimated New Best Lap: 99.098s
+
+  TOTAL POTENTIAL IMPROVEMENT: 9.821s
+  PROJECTED BEST LAP: 90.277s
+
+MEDIUM PRIORITY ACTIONS (1):
+  - Throttle Consistency: Work on smooth, progressive throttle inputs. Avoid sudden on/off movements
+
+
+Car #113
+--------------------------------------------------------------------------------
+Best Lap: 96.86s (FASTEST DRIVER)
+
+Telemetry Averages:
+  Speed: 128.6 km/h
+  Throttle: 64.9%
+  Brake: 5.7%
+  RPM: 6097
+
+HIGH PRIORITY ACTIONS (2):
+
+  [Throttle Control]
+  Issue: Average throttle (64.9%) is 11.1% below best lap
+  Action: Apply throttle earlier and more aggressively out of corners. Target: 76.0% average
+  Potential Gain: 0.332s per lap
+  Estimated New Best Lap: 96.531s
+
+  [Cornering Speed]
+  Issue: Low lateral G-force (0.20g) indicates slow corner speeds
+  Action: Carry more speed through corners. Build confidence in grip levels
+  Potential Gain: 1.000s per lap
+  Estimated New Best Lap: 95.863s
+
+  TOTAL POTENTIAL IMPROVEMENT: 1.332s
+  PROJECTED BEST LAP: 95.531s
+
+MEDIUM PRIORITY ACTIONS (2):
+  - Speed Management: Focus on maintaining higher minimum speeds through corners. Target: 137.4 km/h average
+  - Throttle Consistency: Work on smooth, progressive throttle inputs. Avoid sudden on/off movements
+

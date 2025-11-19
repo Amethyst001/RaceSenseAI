@@ -1,0 +1,3560 @@
+[
+  {
+    "driver_number": 21,
+    "driver_name": "Michael Edwards",
+    "total_laps": 52,
+    "timing_analysis": {
+      "timing_points": {
+        "Start_to_IM1a": {
+          "start": "Start",
+          "end": "IM1a",
+          "avg_time": 26.618884615384616,
+          "best_time": 23.974,
+          "worst_time": 45.09,
+          "std_dev": 5.7171272460222236,
+          "potential_gain": 2.6448846153846155,
+          "location": "Turn 1 Entry",
+          "type": "braking"
+        },
+        "IM1_to_IM2a": {
+          "start": "IM1",
+          "end": "IM2a",
+          "avg_time": 10.17701923076923,
+          "best_time": 8.355999999999998,
+          "worst_time": 21.529999999999998,
+          "std_dev": 3.4137582216233993,
+          "potential_gain": 1.8210192307692328,
+          "location": "Turn 7 Complex Entry",
+          "type": "technical"
+        },
+        "IM2_to_IM3a": {
+          "start": "IM2",
+          "end": "IM3a",
+          "avg_time": 2.7672500000000007,
+          "best_time": 0.8840000000000003,
+          "worst_time": 4.266000000000002,
+          "std_dev": 1.14866366456231,
+          "potential_gain": 1.8832500000000003,
+          "location": "Oval Entry",
+          "type": "speed"
+        },
+        "IM3a_to_FL": {
+          "start": "IM3a",
+          "end": "FL",
+          "avg_time": 7.129038461538462,
+          "best_time": 4.207000000000001,
+          "worst_time": 10.669,
+          "std_dev": 1.0787533647785839,
+          "potential_gain": 2.9220384615384614,
+          "location": "Finish Line",
+          "type": "straight"
+        }
+      },
+      "weakest_segments": [
+        {
+          "segment": "IM3a_to_FL",
+          "location": "Finish Line",
+          "type": "straight",
+          "potential_gain": 2.9220384615384614,
+          "avg_time": 7.129038461538462,
+          "best_time": 4.207000000000001
+        },
+        {
+          "segment": "Start_to_IM1a",
+          "location": "Turn 1 Entry",
+          "type": "braking",
+          "potential_gain": 2.6448846153846155,
+          "avg_time": 26.618884615384616,
+          "best_time": 23.974
+        },
+        {
+          "segment": "IM2_to_IM3a",
+          "location": "Oval Entry",
+          "type": "speed",
+          "potential_gain": 1.8832500000000003,
+          "avg_time": 2.7672500000000007,
+          "best_time": 0.8840000000000003
+        }
+      ],
+      "strongest_segments": [
+        {
+          "segment": "IM3a_to_FL",
+          "location": "Finish Line",
+          "consistency": 1.0787533647785839,
+          "avg_time": 7.129038461538462
+        },
+        {
+          "segment": "IM2_to_IM3a",
+          "location": "Oval Entry",
+          "consistency": 1.14866366456231,
+          "avg_time": 2.7672500000000007
+        },
+        {
+          "segment": "IM1_to_IM2a",
+          "location": "Turn 7 Complex Entry",
+          "consistency": 3.4137582216233993,
+          "avg_time": 10.17701923076923
+        }
+      ],
+      "improvement_opportunities": []
+    },
+    "wind_analysis": {
+      "avg_wind_speed": 6.399999999999998,
+      "max_wind_speed": 6.4,
+      "wind_direction": 177.17777777777772,
+      "wind_impact_estimate": 0.08,
+      "affected_sectors": [
+        {
+          "sector": "S1",
+          "effect": "Crosswind",
+          "impact": "neutral",
+          "exposure": "high"
+        },
+        {
+          "sector": "S2",
+          "effect": "Headwind",
+          "impact": "negative",
+          "exposure": "medium"
+        },
+        {
+          "sector": "S3",
+          "effect": "Crosswind",
+          "impact": "neutral",
+          "exposure": "very_high"
+        }
+      ],
+      "severity": "Moderate"
+    },
+    "top_speed_stats": {
+      "avg_top_speed": 204.07884615384611,
+      "max_top_speed": 220.4,
+      "min_top_speed": 130.1,
+      "top_speed_variance": 22.92875869106573
+    }
+  },
+  {
+    "driver_number": 3,
+    "driver_name": "Karl Forman",
+    "total_laps": 52,
+    "timing_analysis": {
+      "timing_points": {
+        "Start_to_IM1a": {
+          "start": "Start",
+          "end": "IM1a",
+          "avg_time": 26.86057692307692,
+          "best_time": 23.961,
+          "worst_time": 45.331,
+          "std_dev": 5.841310517563184,
+          "potential_gain": 2.8995769230769213,
+          "location": "Turn 1 Entry",
+          "type": "braking"
+        },
+        "IM1_to_IM2a": {
+          "start": "IM1",
+          "end": "IM2a",
+          "avg_time": 10.064192307692307,
+          "best_time": 8.407,
+          "worst_time": 21.534000000000002,
+          "std_dev": 3.0246674880510422,
+          "potential_gain": 1.6571923076923074,
+          "location": "Turn 7 Complex Entry",
+          "type": "technical"
+        },
+        "IM2_to_IM3a": {
+          "start": "IM2",
+          "end": "IM3a",
+          "avg_time": 2.861,
+          "best_time": 2.2520000000000007,
+          "worst_time": 3.695999999999998,
+          "std_dev": 0.6105109881621017,
+          "potential_gain": 0.6089999999999995,
+          "location": "Oval Entry",
+          "type": "speed"
+        },
+        "IM3a_to_FL": {
+          "start": "IM3a",
+          "end": "FL",
+          "avg_time": 7.203942307692308,
+          "best_time": 4.832999999999998,
+          "worst_time": 11.968,
+          "std_dev": 1.0984305990457752,
+          "potential_gain": 2.3709423076923093,
+          "location": "Finish Line",
+          "type": "straight"
+        }
+      },
+      "weakest_segments": [
+        {
+          "segment": "Start_to_IM1a",
+          "location": "Turn 1 Entry",
+          "type": "braking",
+          "potential_gain": 2.8995769230769213,
+          "avg_time": 26.86057692307692,
+          "best_time": 23.961
+        },
+        {
+          "segment": "IM3a_to_FL",
+          "location": "Finish Line",
+          "type": "straight",
+          "potential_gain": 2.3709423076923093,
+          "avg_time": 7.203942307692308,
+          "best_time": 4.832999999999998
+        },
+        {
+          "segment": "IM1_to_IM2a",
+          "location": "Turn 7 Complex Entry",
+          "type": "technical",
+          "potential_gain": 1.6571923076923074,
+          "avg_time": 10.064192307692307,
+          "best_time": 8.407
+        }
+      ],
+      "strongest_segments": [
+        {
+          "segment": "IM2_to_IM3a",
+          "location": "Oval Entry",
+          "consistency": 0.6105109881621017,
+          "avg_time": 2.861
+        },
+        {
+          "segment": "IM3a_to_FL",
+          "location": "Finish Line",
+          "consistency": 1.0984305990457752,
+          "avg_time": 7.203942307692308
+        },
+        {
+          "segment": "IM1_to_IM2a",
+          "location": "Turn 7 Complex Entry",
+          "consistency": 3.0246674880510422,
+          "avg_time": 10.064192307692307
+        }
+      ],
+      "improvement_opportunities": []
+    },
+    "wind_analysis": {
+      "avg_wind_speed": 6.399999999999998,
+      "max_wind_speed": 6.4,
+      "wind_direction": 177.17777777777772,
+      "wind_impact_estimate": 0.08,
+      "affected_sectors": [
+        {
+          "sector": "S1",
+          "effect": "Crosswind",
+          "impact": "neutral",
+          "exposure": "high"
+        },
+        {
+          "sector": "S2",
+          "effect": "Headwind",
+          "impact": "negative",
+          "exposure": "medium"
+        },
+        {
+          "sector": "S3",
+          "effect": "Crosswind",
+          "impact": "neutral",
+          "exposure": "very_high"
+        }
+      ],
+      "severity": "Moderate"
+    },
+    "top_speed_stats": {
+      "avg_top_speed": 203.8807692307692,
+      "max_top_speed": 217.3,
+      "min_top_speed": 138.1,
+      "top_speed_variance": 19.87388707907882
+    }
+  },
+  {
+    "driver_number": 11,
+    "driver_name": "Farran Davis",
+    "total_laps": 26,
+    "timing_analysis": {
+      "timing_points": {
+        "Start_to_IM1a": {
+          "start": "Start",
+          "end": "IM1a",
+          "avg_time": 26.770500000000002,
+          "best_time": 24.243,
+          "worst_time": 45.018,
+          "std_dev": 5.769748030893551,
+          "potential_gain": 2.5275000000000034,
+          "location": "Turn 1 Entry",
+          "type": "braking"
+        },
+        "IM1_to_IM2a": {
+          "start": "IM1",
+          "end": "IM2a",
+          "avg_time": 10.14126923076923,
+          "best_time": 7.873000000000001,
+          "worst_time": 20.711,
+          "std_dev": 3.2539801788909815,
+          "potential_gain": 2.2682692307692296,
+          "location": "Turn 7 Complex Entry",
+          "type": "technical"
+        },
+        "IM2_to_IM3a": {
+          "start": "IM2",
+          "end": "IM3a",
+          "avg_time": 3.1523333333333317,
+          "best_time": 2.638,
+          "worst_time": 4.137999999999998,
+          "std_dev": 0.85388309113914,
+          "potential_gain": 0.5143333333333318,
+          "location": "Oval Entry",
+          "type": "speed"
+        },
+        "IM3a_to_FL": {
+          "start": "IM3a",
+          "end": "FL",
+          "avg_time": 7.057730769230769,
+          "best_time": 6.026,
+          "worst_time": 13.477,
+          "std_dev": 1.3772520047599806,
+          "potential_gain": 1.0317307692307693,
+          "location": "Finish Line",
+          "type": "straight"
+        }
+      },
+      "weakest_segments": [
+        {
+          "segment": "Start_to_IM1a",
+          "location": "Turn 1 Entry",
+          "type": "braking",
+          "potential_gain": 2.5275000000000034,
+          "avg_time": 26.770500000000002,
+          "best_time": 24.243
+        },
+        {
+          "segment": "IM1_to_IM2a",
+          "location": "Turn 7 Complex Entry",
+          "type": "technical",
+          "potential_gain": 2.2682692307692296,
+          "avg_time": 10.14126923076923,
+          "best_time": 7.873000000000001
+        },
+        {
+          "segment": "IM3a_to_FL",
+          "location": "Finish Line",
+          "type": "straight",
+          "potential_gain": 1.0317307692307693,
+          "avg_time": 7.057730769230769,
+          "best_time": 6.026
+        }
+      ],
+      "strongest_segments": [
+        {
+          "segment": "IM2_to_IM3a",
+          "location": "Oval Entry",
+          "consistency": 0.85388309113914,
+          "avg_time": 3.1523333333333317
+        },
+        {
+          "segment": "IM3a_to_FL",
+          "location": "Finish Line",
+          "consistency": 1.3772520047599806,
+          "avg_time": 7.057730769230769
+        },
+        {
+          "segment": "IM1_to_IM2a",
+          "location": "Turn 7 Complex Entry",
+          "consistency": 3.2539801788909815,
+          "avg_time": 10.14126923076923
+        }
+      ],
+      "improvement_opportunities": []
+    },
+    "wind_analysis": {
+      "avg_wind_speed": 6.400000000000001,
+      "max_wind_speed": 6.4,
+      "wind_direction": 177.17777777777778,
+      "wind_impact_estimate": 0.08,
+      "affected_sectors": [
+        {
+          "sector": "S1",
+          "effect": "Crosswind",
+          "impact": "neutral",
+          "exposure": "high"
+        },
+        {
+          "sector": "S2",
+          "effect": "Headwind",
+          "impact": "negative",
+          "exposure": "medium"
+        },
+        {
+          "sector": "S3",
+          "effect": "Crosswind",
+          "impact": "neutral",
+          "exposure": "very_high"
+        }
+      ],
+      "severity": "Moderate"
+    },
+    "top_speed_stats": {
+      "avg_top_speed": 205.01923076923077,
+      "max_top_speed": 217.3,
+      "min_top_speed": 135.0,
+      "top_speed_variance": 22.57860968670603
+    }
+  },
+  {
+    "driver_number": 111,
+    "driver_name": "Isabella Robusto",
+    "total_laps": 26,
+    "timing_analysis": {
+      "timing_points": {
+        "Start_to_IM1a": {
+          "start": "Start",
+          "end": "IM1a",
+          "avg_time": 26.74692307692308,
+          "best_time": 24.08,
+          "worst_time": 45.007,
+          "std_dev": 5.801985900865854,
+          "potential_gain": 2.66692307692308,
+          "location": "Turn 1 Entry",
+          "type": "braking"
+        },
+        "IM1_to_IM2a": {
+          "start": "IM1",
+          "end": "IM2a",
+          "avg_time": 10.091153846153846,
+          "best_time": 8.476999999999999,
+          "worst_time": 20.371,
+          "std_dev": 3.111145585694217,
+          "potential_gain": 1.6141538461538474,
+          "location": "Turn 7 Complex Entry",
+          "type": "technical"
+        },
+        "IM2_to_IM3a": {
+          "start": "IM2",
+          "end": "IM3a",
+          "avg_time": 3.054750000000001,
+          "best_time": 2.5489999999999995,
+          "worst_time": 3.7890000000000015,
+          "std_dev": 0.5233535293342992,
+          "potential_gain": 0.5057500000000017,
+          "location": "Oval Entry",
+          "type": "speed"
+        },
+        "IM3a_to_FL": {
+          "start": "IM3a",
+          "end": "FL",
+          "avg_time": 6.977307692307692,
+          "best_time": 5.332999999999998,
+          "worst_time": 10.514,
+          "std_dev": 0.968664142795872,
+          "potential_gain": 1.6443076923076934,
+          "location": "Finish Line",
+          "type": "straight"
+        }
+      },
+      "weakest_segments": [
+        {
+          "segment": "Start_to_IM1a",
+          "location": "Turn 1 Entry",
+          "type": "braking",
+          "potential_gain": 2.66692307692308,
+          "avg_time": 26.74692307692308,
+          "best_time": 24.08
+        },
+        {
+          "segment": "IM3a_to_FL",
+          "location": "Finish Line",
+          "type": "straight",
+          "potential_gain": 1.6443076923076934,
+          "avg_time": 6.977307692307692,
+          "best_time": 5.332999999999998
+        },
+        {
+          "segment": "IM1_to_IM2a",
+          "location": "Turn 7 Complex Entry",
+          "type": "technical",
+          "potential_gain": 1.6141538461538474,
+          "avg_time": 10.091153846153846,
+          "best_time": 8.476999999999999
+        }
+      ],
+      "strongest_segments": [
+        {
+          "segment": "IM2_to_IM3a",
+          "location": "Oval Entry",
+          "consistency": 0.5233535293342992,
+          "avg_time": 3.054750000000001
+        },
+        {
+          "segment": "IM3a_to_FL",
+          "location": "Finish Line",
+          "consistency": 0.968664142795872,
+          "avg_time": 6.977307692307692
+        },
+        {
+          "segment": "IM1_to_IM2a",
+          "location": "Turn 7 Complex Entry",
+          "consistency": 3.111145585694217,
+          "avg_time": 10.091153846153846
+        }
+      ],
+      "improvement_opportunities": []
+    },
+    "wind_analysis": {
+      "avg_wind_speed": 6.400000000000001,
+      "max_wind_speed": 6.4,
+      "wind_direction": 177.17777777777778,
+      "wind_impact_estimate": 0.08,
+      "affected_sectors": [
+        {
+          "sector": "S1",
+          "effect": "Crosswind",
+          "impact": "neutral",
+          "exposure": "high"
+        },
+        {
+          "sector": "S2",
+          "effect": "Headwind",
+          "impact": "negative",
+          "exposure": "medium"
+        },
+        {
+          "sector": "S3",
+          "effect": "Crosswind",
+          "impact": "neutral",
+          "exposure": "very_high"
+        }
+      ],
+      "severity": "Moderate"
+    },
+    "top_speed_stats": {
+      "avg_top_speed": 203.31923076923078,
+      "max_top_speed": 214.3,
+      "min_top_speed": 134.2,
+      "top_speed_variance": 23.31960581537809
+    }
+  },
+  {
+    "driver_number": 113,
+    "driver_name": "Ethan Tovo",
+    "total_laps": 26,
+    "timing_analysis": {
+      "timing_points": {
+        "Start_to_IM1a": {
+          "start": "Start",
+          "end": "IM1a",
+          "avg_time": 26.301423076923076,
+          "best_time": 23.938,
+          "worst_time": 43.574,
+          "std_dev": 5.528358911453394,
+          "potential_gain": 2.363423076923077,
+          "location": "Turn 1 Entry",
+          "type": "braking"
+        },
+        "IM1_to_IM2a": {
+          "start": "IM1",
+          "end": "IM2a",
+          "avg_time": 10.093423076923077,
+          "best_time": 8.777000000000001,
+          "worst_time": 19.393,
+          "std_dev": 2.971156450583872,
+          "potential_gain": 1.3164230769230763,
+          "location": "Turn 7 Complex Entry",
+          "type": "technical"
+        },
+        "IM2_to_IM3a": {
+          "start": "IM2",
+          "end": "IM3a",
+          "avg_time": 2.21725,
+          "best_time": 0.022999999999999687,
+          "worst_time": 3.5779999999999994,
+          "std_dev": 1.5556495695796444,
+          "potential_gain": 2.1942500000000003,
+          "location": "Oval Entry",
+          "type": "speed"
+        },
+        "IM3a_to_FL": {
+          "start": "IM3a",
+          "end": "FL",
+          "avg_time": 7.0445,
+          "best_time": 4.202999999999999,
+          "worst_time": 9.916,
+          "std_dev": 1.010634424507695,
+          "potential_gain": 2.841500000000001,
+          "location": "Finish Line",
+          "type": "straight"
+        }
+      },
+      "weakest_segments": [
+        {
+          "segment": "IM3a_to_FL",
+          "location": "Finish Line",
+          "type": "straight",
+          "potential_gain": 2.841500000000001,
+          "avg_time": 7.0445,
+          "best_time": 4.202999999999999
+        },
+        {
+          "segment": "Start_to_IM1a",
+          "location": "Turn 1 Entry",
+          "type": "braking",
+          "potential_gain": 2.363423076923077,
+          "avg_time": 26.301423076923076,
+          "best_time": 23.938
+        },
+        {
+          "segment": "IM2_to_IM3a",
+          "location": "Oval Entry",
+          "type": "speed",
+          "potential_gain": 2.1942500000000003,
+          "avg_time": 2.21725,
+          "best_time": 0.022999999999999687
+        }
+      ],
+      "strongest_segments": [
+        {
+          "segment": "IM3a_to_FL",
+          "location": "Finish Line",
+          "consistency": 1.010634424507695,
+          "avg_time": 7.0445
+        },
+        {
+          "segment": "IM2_to_IM3a",
+          "location": "Oval Entry",
+          "consistency": 1.5556495695796444,
+          "avg_time": 2.21725
+        },
+        {
+          "segment": "IM1_to_IM2a",
+          "location": "Turn 7 Complex Entry",
+          "consistency": 2.971156450583872,
+          "avg_time": 10.093423076923077
+        }
+      ],
+      "improvement_opportunities": []
+    },
+    "wind_analysis": {
+      "avg_wind_speed": 6.400000000000001,
+      "max_wind_speed": 6.4,
+      "wind_direction": 177.17777777777778,
+      "wind_impact_estimate": 0.08,
+      "affected_sectors": [
+        {
+          "sector": "S1",
+          "effect": "Crosswind",
+          "impact": "neutral",
+          "exposure": "high"
+        },
+        {
+          "sector": "S2",
+          "effect": "Headwind",
+          "impact": "negative",
+          "exposure": "medium"
+        },
+        {
+          "sector": "S3",
+          "effect": "Crosswind",
+          "impact": "neutral",
+          "exposure": "very_high"
+        }
+      ],
+      "severity": "Moderate"
+    },
+    "top_speed_stats": {
+      "avg_top_speed": 205.37692307692308,
+      "max_top_speed": 218.2,
+      "min_top_speed": 133.0,
+      "top_speed_variance": 24.541577906765617
+    }
+  },
+  {
+    "driver_number": 13,
+    "driver_name": "Westin Workman",
+    "total_laps": 26,
+    "timing_analysis": {
+      "timing_points": {
+        "Start_to_IM1a": {
+          "start": "Start",
+          "end": "IM1a",
+          "avg_time": 26.07442307692308,
+          "best_time": 23.885,
+          "worst_time": 41.868,
+          "std_dev": 5.130091532696679,
+          "potential_gain": 2.1894230769230774,
+          "location": "Turn 1 Entry",
+          "type": "braking"
+        },
+        "IM1_to_IM2a": {
+          "start": "IM1",
+          "end": "IM2a",
+          "avg_time": 9.822076923076924,
+          "best_time": 8.763,
+          "worst_time": 17.708,
+          "std_dev": 2.3194637125521393,
+          "potential_gain": 1.0590769230769244,
+          "location": "Turn 7 Complex Entry",
+          "type": "technical"
+        },
+        "IM2_to_IM3a": {
+          "start": "IM2",
+          "end": "IM3a",
+          "avg_time": 1.7879999999999994,
+          "best_time": 0.6549999999999976,
+          "worst_time": 2.780999999999999,
+          "std_dev": 0.872685510364416,
+          "potential_gain": 1.1330000000000018,
+          "location": "Oval Entry",
+          "type": "speed"
+        },
+        "IM3a_to_FL": {
+          "start": "IM3a",
+          "end": "FL",
+          "avg_time": 6.965,
+          "best_time": 4.148999999999997,
+          "worst_time": 9.238,
+          "std_dev": 0.9395924222768087,
+          "potential_gain": 2.8160000000000025,
+          "location": "Finish Line",
+          "type": "straight"
+        }
+      },
+      "weakest_segments": [
+        {
+          "segment": "IM3a_to_FL",
+          "location": "Finish Line",
+          "type": "straight",
+          "potential_gain": 2.8160000000000025,
+          "avg_time": 6.965,
+          "best_time": 4.148999999999997
+        },
+        {
+          "segment": "Start_to_IM1a",
+          "location": "Turn 1 Entry",
+          "type": "braking",
+          "potential_gain": 2.1894230769230774,
+          "avg_time": 26.07442307692308,
+          "best_time": 23.885
+        },
+        {
+          "segment": "IM2_to_IM3a",
+          "location": "Oval Entry",
+          "type": "speed",
+          "potential_gain": 1.1330000000000018,
+          "avg_time": 1.7879999999999994,
+          "best_time": 0.6549999999999976
+        }
+      ],
+      "strongest_segments": [
+        {
+          "segment": "IM2_to_IM3a",
+          "location": "Oval Entry",
+          "consistency": 0.872685510364416,
+          "avg_time": 1.7879999999999994
+        },
+        {
+          "segment": "IM3a_to_FL",
+          "location": "Finish Line",
+          "consistency": 0.9395924222768087,
+          "avg_time": 6.965
+        },
+        {
+          "segment": "IM1_to_IM2a",
+          "location": "Turn 7 Complex Entry",
+          "consistency": 2.3194637125521393,
+          "avg_time": 9.822076923076924
+        }
+      ],
+      "improvement_opportunities": []
+    },
+    "wind_analysis": {
+      "avg_wind_speed": 6.400000000000001,
+      "max_wind_speed": 6.4,
+      "wind_direction": 177.17777777777778,
+      "wind_impact_estimate": 0.08,
+      "affected_sectors": [
+        {
+          "sector": "S1",
+          "effect": "Crosswind",
+          "impact": "neutral",
+          "exposure": "high"
+        },
+        {
+          "sector": "S2",
+          "effect": "Headwind",
+          "impact": "negative",
+          "exposure": "medium"
+        },
+        {
+          "sector": "S3",
+          "effect": "Crosswind",
+          "impact": "neutral",
+          "exposure": "very_high"
+        }
+      ],
+      "severity": "Moderate"
+    },
+    "top_speed_stats": {
+      "avg_top_speed": 203.6115384615385,
+      "max_top_speed": 217.3,
+      "min_top_speed": 115.0,
+      "top_speed_variance": 26.829645199638055
+    }
+  },
+  {
+    "driver_number": 18,
+    "driver_name": "Rutledge Wood",
+    "total_laps": 26,
+    "timing_analysis": {
+      "timing_points": {
+        "Start_to_IM1a": {
+          "start": "Start",
+          "end": "IM1a",
+          "avg_time": 27.082461538461533,
+          "best_time": 24.29,
+          "worst_time": 45.55,
+          "std_dev": 6.113770307957401,
+          "potential_gain": 2.7924615384615343,
+          "location": "Turn 1 Entry",
+          "type": "braking"
+        },
+        "IM1_to_IM2a": {
+          "start": "IM1",
+          "end": "IM2a",
+          "avg_time": 9.929576923076922,
+          "best_time": 8.551,
+          "worst_time": 20.585,
+          "std_dev": 2.8146596692755157,
+          "potential_gain": 1.3785769230769223,
+          "location": "Turn 7 Complex Entry",
+          "type": "technical"
+        },
+        "IM2_to_IM3a": {
+          "start": "IM2",
+          "end": "IM3a",
+          "avg_time": 1.777000000000001,
+          "best_time": 0.9740000000000002,
+          "worst_time": 2.2840000000000025,
+          "std_dev": 0.5996649064269148,
+          "potential_gain": 0.8030000000000008,
+          "location": "Oval Entry",
+          "type": "speed"
+        },
+        "IM3a_to_FL": {
+          "start": "IM3a",
+          "end": "FL",
+          "avg_time": 7.16276923076923,
+          "best_time": 5.766000000000002,
+          "worst_time": 10.799,
+          "std_dev": 0.9511441660523314,
+          "potential_gain": 1.3967692307692285,
+          "location": "Finish Line",
+          "type": "straight"
+        }
+      },
+      "weakest_segments": [
+        {
+          "segment": "Start_to_IM1a",
+          "location": "Turn 1 Entry",
+          "type": "braking",
+          "potential_gain": 2.7924615384615343,
+          "avg_time": 27.082461538461533,
+          "best_time": 24.29
+        },
+        {
+          "segment": "IM3a_to_FL",
+          "location": "Finish Line",
+          "type": "straight",
+          "potential_gain": 1.3967692307692285,
+          "avg_time": 7.16276923076923,
+          "best_time": 5.766000000000002
+        },
+        {
+          "segment": "IM1_to_IM2a",
+          "location": "Turn 7 Complex Entry",
+          "type": "technical",
+          "potential_gain": 1.3785769230769223,
+          "avg_time": 9.929576923076922,
+          "best_time": 8.551
+        }
+      ],
+      "strongest_segments": [
+        {
+          "segment": "IM2_to_IM3a",
+          "location": "Oval Entry",
+          "consistency": 0.5996649064269148,
+          "avg_time": 1.777000000000001
+        },
+        {
+          "segment": "IM3a_to_FL",
+          "location": "Finish Line",
+          "consistency": 0.9511441660523314,
+          "avg_time": 7.16276923076923
+        },
+        {
+          "segment": "IM1_to_IM2a",
+          "location": "Turn 7 Complex Entry",
+          "consistency": 2.8146596692755157,
+          "avg_time": 9.929576923076922
+        }
+      ],
+      "improvement_opportunities": []
+    },
+    "wind_analysis": {
+      "avg_wind_speed": 6.400000000000001,
+      "max_wind_speed": 6.4,
+      "wind_direction": 177.17777777777778,
+      "wind_impact_estimate": 0.08,
+      "affected_sectors": [
+        {
+          "sector": "S1",
+          "effect": "Crosswind",
+          "impact": "neutral",
+          "exposure": "high"
+        },
+        {
+          "sector": "S2",
+          "effect": "Headwind",
+          "impact": "negative",
+          "exposure": "medium"
+        },
+        {
+          "sector": "S3",
+          "effect": "Crosswind",
+          "impact": "neutral",
+          "exposure": "very_high"
+        }
+      ],
+      "severity": "Moderate"
+    },
+    "top_speed_stats": {
+      "avg_top_speed": 205.7423076923077,
+      "max_top_speed": 214.3,
+      "min_top_speed": 152.1,
+      "top_speed_variance": 16.33311172010828
+    }
+  },
+  {
+    "driver_number": 2,
+    "driver_name": "Will Robusto",
+    "total_laps": 26,
+    "timing_analysis": {
+      "timing_points": {
+        "Start_to_IM1a": {
+          "start": "Start",
+          "end": "IM1a",
+          "avg_time": 26.0945,
+          "best_time": 23.825,
+          "worst_time": 42.456,
+          "std_dev": 5.23344821890883,
+          "potential_gain": 2.2695000000000007,
+          "location": "Turn 1 Entry",
+          "type": "braking"
+        },
+        "IM1_to_IM2a": {
+          "start": "IM1",
+          "end": "IM2a",
+          "avg_time": 9.884384615384617,
+          "best_time": 8.644,
+          "worst_time": 18.134,
+          "std_dev": 2.5553686556256117,
+          "potential_gain": 1.2403846153846168,
+          "location": "Turn 7 Complex Entry",
+          "type": "technical"
+        },
+        "IM2_to_IM3a": {
+          "start": "IM2",
+          "end": "IM3a",
+          "avg_time": 1.8012499999999996,
+          "best_time": 0.34699999999999775,
+          "worst_time": 2.780000000000001,
+          "std_dev": 1.0845331945127372,
+          "potential_gain": 1.4542500000000018,
+          "location": "Oval Entry",
+          "type": "speed"
+        },
+        "IM3a_to_FL": {
+          "start": "IM3a",
+          "end": "FL",
+          "avg_time": 6.99408,
+          "best_time": 4.551000000000002,
+          "worst_time": 10.667000000000002,
+          "std_dev": 1.0366199850154025,
+          "potential_gain": 2.4430799999999984,
+          "location": "Finish Line",
+          "type": "straight"
+        }
+      },
+      "weakest_segments": [
+        {
+          "segment": "IM3a_to_FL",
+          "location": "Finish Line",
+          "type": "straight",
+          "potential_gain": 2.4430799999999984,
+          "avg_time": 6.99408,
+          "best_time": 4.551000000000002
+        },
+        {
+          "segment": "Start_to_IM1a",
+          "location": "Turn 1 Entry",
+          "type": "braking",
+          "potential_gain": 2.2695000000000007,
+          "avg_time": 26.0945,
+          "best_time": 23.825
+        },
+        {
+          "segment": "IM2_to_IM3a",
+          "location": "Oval Entry",
+          "type": "speed",
+          "potential_gain": 1.4542500000000018,
+          "avg_time": 1.8012499999999996,
+          "best_time": 0.34699999999999775
+        }
+      ],
+      "strongest_segments": [
+        {
+          "segment": "IM3a_to_FL",
+          "location": "Finish Line",
+          "consistency": 1.0366199850154025,
+          "avg_time": 6.99408
+        },
+        {
+          "segment": "IM2_to_IM3a",
+          "location": "Oval Entry",
+          "consistency": 1.0845331945127372,
+          "avg_time": 1.8012499999999996
+        },
+        {
+          "segment": "IM1_to_IM2a",
+          "location": "Turn 7 Complex Entry",
+          "consistency": 2.5553686556256117,
+          "avg_time": 9.884384615384617
+        }
+      ],
+      "improvement_opportunities": []
+    },
+    "wind_analysis": {
+      "avg_wind_speed": 6.400000000000001,
+      "max_wind_speed": 6.4,
+      "wind_direction": 177.17777777777778,
+      "wind_impact_estimate": 0.08,
+      "affected_sectors": [
+        {
+          "sector": "S1",
+          "effect": "Crosswind",
+          "impact": "neutral",
+          "exposure": "high"
+        },
+        {
+          "sector": "S2",
+          "effect": "Headwind",
+          "impact": "negative",
+          "exposure": "medium"
+        },
+        {
+          "sector": "S3",
+          "effect": "Crosswind",
+          "impact": "neutral",
+          "exposure": "very_high"
+        }
+      ],
+      "severity": "Moderate"
+    },
+    "top_speed_stats": {
+      "avg_top_speed": 202.96923076923076,
+      "max_top_speed": 214.3,
+      "min_top_speed": 118.0,
+      "top_speed_variance": 25.915196610958127
+    }
+  },
+  {
+    "driver_number": 20,
+    "driver_name": "Ramon Llano",
+    "total_laps": 26,
+    "timing_analysis": {
+      "timing_points": {
+        "Start_to_IM1a": {
+          "start": "Start",
+          "end": "IM1a",
+          "avg_time": 26.963153846153844,
+          "best_time": 24.781,
+          "worst_time": 41.651,
+          "std_dev": 4.229371581616425,
+          "potential_gain": 2.1821538461538452,
+          "location": "Turn 1 Entry",
+          "type": "braking"
+        },
+        "IM1_to_IM2a": {
+          "start": "IM1",
+          "end": "IM2a",
+          "avg_time": 9.739653846153844,
+          "best_time": 8.886,
+          "worst_time": 16.804000000000002,
+          "std_dev": 1.5054361478935654,
+          "potential_gain": 0.8536538461538452,
+          "location": "Turn 7 Complex Entry",
+          "type": "technical"
+        },
+        "IM2_to_IM3a": {
+          "start": "IM2",
+          "end": "IM3a",
+          "avg_time": 1.1354999999999986,
+          "best_time": 0.18999999999999773,
+          "worst_time": 2.0809999999999995,
+          "std_dev": 1.3371389232237627,
+          "potential_gain": 0.9455000000000009,
+          "location": "Oval Entry",
+          "type": "speed"
+        },
+        "IM3a_to_FL": {
+          "start": "IM3a",
+          "end": "FL",
+          "avg_time": 7.196730769230769,
+          "best_time": 5.516,
+          "worst_time": 11.847000000000001,
+          "std_dev": 1.0973853491893288,
+          "potential_gain": 1.6807307692307694,
+          "location": "Finish Line",
+          "type": "straight"
+        }
+      },
+      "weakest_segments": [
+        {
+          "segment": "Start_to_IM1a",
+          "location": "Turn 1 Entry",
+          "type": "braking",
+          "potential_gain": 2.1821538461538452,
+          "avg_time": 26.963153846153844,
+          "best_time": 24.781
+        },
+        {
+          "segment": "IM3a_to_FL",
+          "location": "Finish Line",
+          "type": "straight",
+          "potential_gain": 1.6807307692307694,
+          "avg_time": 7.196730769230769,
+          "best_time": 5.516
+        },
+        {
+          "segment": "IM2_to_IM3a",
+          "location": "Oval Entry",
+          "type": "speed",
+          "potential_gain": 0.9455000000000009,
+          "avg_time": 1.1354999999999986,
+          "best_time": 0.18999999999999773
+        }
+      ],
+      "strongest_segments": [
+        {
+          "segment": "IM3a_to_FL",
+          "location": "Finish Line",
+          "consistency": 1.0973853491893288,
+          "avg_time": 7.196730769230769
+        },
+        {
+          "segment": "IM2_to_IM3a",
+          "location": "Oval Entry",
+          "consistency": 1.3371389232237627,
+          "avg_time": 1.1354999999999986
+        },
+        {
+          "segment": "IM1_to_IM2a",
+          "location": "Turn 7 Complex Entry",
+          "consistency": 1.5054361478935654,
+          "avg_time": 9.739653846153844
+        }
+      ],
+      "improvement_opportunities": []
+    },
+    "wind_analysis": {
+      "avg_wind_speed": 6.400000000000001,
+      "max_wind_speed": 6.4,
+      "wind_direction": 177.17777777777778,
+      "wind_impact_estimate": 0.08,
+      "affected_sectors": [
+        {
+          "sector": "S1",
+          "effect": "Crosswind",
+          "impact": "neutral",
+          "exposure": "high"
+        },
+        {
+          "sector": "S2",
+          "effect": "Headwind",
+          "impact": "negative",
+          "exposure": "medium"
+        },
+        {
+          "sector": "S3",
+          "effect": "Crosswind",
+          "impact": "neutral",
+          "exposure": "very_high"
+        }
+      ],
+      "severity": "Moderate"
+    },
+    "top_speed_stats": {
+      "avg_top_speed": 201.31153846153848,
+      "max_top_speed": 207.3,
+      "min_top_speed": 162.2,
+      "top_speed_variance": 10.290824142820712
+    }
+  },
+  {
+    "driver_number": 22,
+    "driver_name": "Jeremy Fletcher",
+    "total_laps": 26,
+    "timing_analysis": {
+      "timing_points": {
+        "Start_to_IM1a": {
+          "start": "Start",
+          "end": "IM1a",
+          "avg_time": 26.08923076923077,
+          "best_time": 23.736,
+          "worst_time": 41.726,
+          "std_dev": 5.115057499639216,
+          "potential_gain": 2.3532307692307697,
+          "location": "Turn 1 Entry",
+          "type": "braking"
+        },
+        "IM1_to_IM2a": {
+          "start": "IM1",
+          "end": "IM2a",
+          "avg_time": 9.679884615384616,
+          "best_time": 8.651000000000002,
+          "worst_time": 17.117,
+          "std_dev": 2.2412592054811165,
+          "potential_gain": 1.028884615384614,
+          "location": "Turn 7 Complex Entry",
+          "type": "technical"
+        },
+        "IM2_to_IM3a": {
+          "start": "IM2",
+          "end": "IM3a",
+          "avg_time": 1.5023333333333315,
+          "best_time": 0.9599999999999973,
+          "worst_time": 2.187999999999999,
+          "std_dev": 0.6264218493422258,
+          "potential_gain": 0.5423333333333342,
+          "location": "Oval Entry",
+          "type": "speed"
+        },
+        "IM3a_to_FL": {
+          "start": "IM3a",
+          "end": "FL",
+          "avg_time": 7.080384615384617,
+          "best_time": 4.300000000000001,
+          "worst_time": 9.351000000000003,
+          "std_dev": 0.9684071076535152,
+          "potential_gain": 2.780384615384616,
+          "location": "Finish Line",
+          "type": "straight"
+        }
+      },
+      "weakest_segments": [
+        {
+          "segment": "IM3a_to_FL",
+          "location": "Finish Line",
+          "type": "straight",
+          "potential_gain": 2.780384615384616,
+          "avg_time": 7.080384615384617,
+          "best_time": 4.300000000000001
+        },
+        {
+          "segment": "Start_to_IM1a",
+          "location": "Turn 1 Entry",
+          "type": "braking",
+          "potential_gain": 2.3532307692307697,
+          "avg_time": 26.08923076923077,
+          "best_time": 23.736
+        },
+        {
+          "segment": "IM1_to_IM2a",
+          "location": "Turn 7 Complex Entry",
+          "type": "technical",
+          "potential_gain": 1.028884615384614,
+          "avg_time": 9.679884615384616,
+          "best_time": 8.651000000000002
+        }
+      ],
+      "strongest_segments": [
+        {
+          "segment": "IM2_to_IM3a",
+          "location": "Oval Entry",
+          "consistency": 0.6264218493422258,
+          "avg_time": 1.5023333333333315
+        },
+        {
+          "segment": "IM3a_to_FL",
+          "location": "Finish Line",
+          "consistency": 0.9684071076535152,
+          "avg_time": 7.080384615384617
+        },
+        {
+          "segment": "IM1_to_IM2a",
+          "location": "Turn 7 Complex Entry",
+          "consistency": 2.2412592054811165,
+          "avg_time": 9.679884615384616
+        }
+      ],
+      "improvement_opportunities": []
+    },
+    "wind_analysis": {
+      "avg_wind_speed": 6.400000000000001,
+      "max_wind_speed": 6.4,
+      "wind_direction": 177.17777777777778,
+      "wind_impact_estimate": 0.08,
+      "affected_sectors": [
+        {
+          "sector": "S1",
+          "effect": "Crosswind",
+          "impact": "neutral",
+          "exposure": "high"
+        },
+        {
+          "sector": "S2",
+          "effect": "Headwind",
+          "impact": "negative",
+          "exposure": "medium"
+        },
+        {
+          "sector": "S3",
+          "effect": "Crosswind",
+          "impact": "neutral",
+          "exposure": "very_high"
+        }
+      ],
+      "severity": "Moderate"
+    },
+    "top_speed_stats": {
+      "avg_top_speed": 204.05384615384617,
+      "max_top_speed": 214.3,
+      "min_top_speed": 120.0,
+      "top_speed_variance": 25.74507690055294
+    }
+  },
+  {
+    "driver_number": 31,
+    "driver_name": "Jackson Tovo",
+    "total_laps": 2,
+    "timing_analysis": {
+      "timing_points": {
+        "Start_to_IM1a": {
+          "start": "Start",
+          "end": "IM1a",
+          "avg_time": 27.666,
+          "best_time": 27.12,
+          "worst_time": 28.212,
+          "std_dev": 0.772160605055709,
+          "potential_gain": 0.5459999999999994,
+          "location": "Turn 1 Entry",
+          "type": "braking"
+        },
+        "IM1_to_IM2a": {
+          "start": "IM1",
+          "end": "IM2a",
+          "avg_time": 9.126,
+          "best_time": 8.741,
+          "worst_time": 9.511,
+          "std_dev": 0.5444722215136413,
+          "potential_gain": 0.3849999999999998,
+          "location": "Turn 7 Complex Entry",
+          "type": "technical"
+        },
+        "IM3a_to_FL": {
+          "start": "IM3a",
+          "end": "FL",
+          "avg_time": 7.593,
+          "best_time": 7.199,
+          "worst_time": 7.987,
+          "std_dev": 0.5572001435749996,
+          "potential_gain": 0.39400000000000013,
+          "location": "Finish Line",
+          "type": "straight"
+        }
+      },
+      "weakest_segments": [
+        {
+          "segment": "Start_to_IM1a",
+          "location": "Turn 1 Entry",
+          "type": "braking",
+          "potential_gain": 0.5459999999999994,
+          "avg_time": 27.666,
+          "best_time": 27.12
+        },
+        {
+          "segment": "IM3a_to_FL",
+          "location": "Finish Line",
+          "type": "straight",
+          "potential_gain": 0.39400000000000013,
+          "avg_time": 7.593,
+          "best_time": 7.199
+        },
+        {
+          "segment": "IM1_to_IM2a",
+          "location": "Turn 7 Complex Entry",
+          "type": "technical",
+          "potential_gain": 0.3849999999999998,
+          "avg_time": 9.126,
+          "best_time": 8.741
+        }
+      ],
+      "strongest_segments": [
+        {
+          "segment": "IM1_to_IM2a",
+          "location": "Turn 7 Complex Entry",
+          "consistency": 0.5444722215136413,
+          "avg_time": 9.126
+        },
+        {
+          "segment": "IM3a_to_FL",
+          "location": "Finish Line",
+          "consistency": 0.5572001435749996,
+          "avg_time": 7.593
+        },
+        {
+          "segment": "Start_to_IM1a",
+          "location": "Turn 1 Entry",
+          "consistency": 0.772160605055709,
+          "avg_time": 27.666
+        }
+      ],
+      "improvement_opportunities": []
+    },
+    "wind_analysis": {
+      "avg_wind_speed": 6.4,
+      "max_wind_speed": 6.4,
+      "wind_direction": 177.17777777777778,
+      "wind_impact_estimate": 0.08,
+      "affected_sectors": [
+        {
+          "sector": "S1",
+          "effect": "Crosswind",
+          "impact": "neutral",
+          "exposure": "high"
+        },
+        {
+          "sector": "S2",
+          "effect": "Headwind",
+          "impact": "negative",
+          "exposure": "medium"
+        },
+        {
+          "sector": "S3",
+          "effect": "Crosswind",
+          "impact": "neutral",
+          "exposure": "very_high"
+        }
+      ],
+      "severity": "Moderate"
+    },
+    "top_speed_stats": {
+      "avg_top_speed": 206.64999999999998,
+      "max_top_speed": 212.2,
+      "min_top_speed": 201.1,
+      "top_speed_variance": 7.848885271170674
+    }
+  },
+  {
+    "driver_number": 46,
+    "driver_name": "Lucas Weisenberg",
+    "total_laps": 26,
+    "timing_analysis": {
+      "timing_points": {
+        "Start_to_IM1a": {
+          "start": "Start",
+          "end": "IM1a",
+          "avg_time": 26.194230769230767,
+          "best_time": 23.888,
+          "worst_time": 42.775,
+          "std_dev": 5.329573876457233,
+          "potential_gain": 2.3062307692307655,
+          "location": "Turn 1 Entry",
+          "type": "braking"
+        },
+        "IM1_to_IM2a": {
+          "start": "IM1",
+          "end": "IM2a",
+          "avg_time": 10.035807692307692,
+          "best_time": 8.695,
+          "worst_time": 18.747,
+          "std_dev": 2.806362528530208,
+          "potential_gain": 1.340807692307692,
+          "location": "Turn 7 Complex Entry",
+          "type": "technical"
+        },
+        "IM2_to_IM3a": {
+          "start": "IM2",
+          "end": "IM3a",
+          "avg_time": 2.0870000000000006,
+          "best_time": 0.11100000000000065,
+          "worst_time": 3.3629999999999995,
+          "std_dev": 1.438128413366947,
+          "potential_gain": 1.976,
+          "location": "Oval Entry",
+          "type": "speed"
+        },
+        "IM3a_to_FL": {
+          "start": "IM3a",
+          "end": "FL",
+          "avg_time": 7.078653846153846,
+          "best_time": 4.507999999999999,
+          "worst_time": 10.404999999999998,
+          "std_dev": 1.0271197765521871,
+          "potential_gain": 2.5706538461538466,
+          "location": "Finish Line",
+          "type": "straight"
+        }
+      },
+      "weakest_segments": [
+        {
+          "segment": "IM3a_to_FL",
+          "location": "Finish Line",
+          "type": "straight",
+          "potential_gain": 2.5706538461538466,
+          "avg_time": 7.078653846153846,
+          "best_time": 4.507999999999999
+        },
+        {
+          "segment": "Start_to_IM1a",
+          "location": "Turn 1 Entry",
+          "type": "braking",
+          "potential_gain": 2.3062307692307655,
+          "avg_time": 26.194230769230767,
+          "best_time": 23.888
+        },
+        {
+          "segment": "IM2_to_IM3a",
+          "location": "Oval Entry",
+          "type": "speed",
+          "potential_gain": 1.976,
+          "avg_time": 2.0870000000000006,
+          "best_time": 0.11100000000000065
+        }
+      ],
+      "strongest_segments": [
+        {
+          "segment": "IM3a_to_FL",
+          "location": "Finish Line",
+          "consistency": 1.0271197765521871,
+          "avg_time": 7.078653846153846
+        },
+        {
+          "segment": "IM2_to_IM3a",
+          "location": "Oval Entry",
+          "consistency": 1.438128413366947,
+          "avg_time": 2.0870000000000006
+        },
+        {
+          "segment": "IM1_to_IM2a",
+          "location": "Turn 7 Complex Entry",
+          "consistency": 2.806362528530208,
+          "avg_time": 10.035807692307692
+        }
+      ],
+      "improvement_opportunities": []
+    },
+    "wind_analysis": {
+      "avg_wind_speed": 6.400000000000001,
+      "max_wind_speed": 6.4,
+      "wind_direction": 177.17777777777778,
+      "wind_impact_estimate": 0.08,
+      "affected_sectors": [
+        {
+          "sector": "S1",
+          "effect": "Crosswind",
+          "impact": "neutral",
+          "exposure": "high"
+        },
+        {
+          "sector": "S2",
+          "effect": "Headwind",
+          "impact": "negative",
+          "exposure": "medium"
+        },
+        {
+          "sector": "S3",
+          "effect": "Crosswind",
+          "impact": "neutral",
+          "exposure": "very_high"
+        }
+      ],
+      "severity": "Moderate"
+    },
+    "top_speed_stats": {
+      "avg_top_speed": 204.56923076923078,
+      "max_top_speed": 217.3,
+      "min_top_speed": 126.0,
+      "top_speed_variance": 25.137760747222803
+    }
+  },
+  {
+    "driver_number": 47,
+    "driver_name": "Parker DeLong",
+    "total_laps": 26,
+    "timing_analysis": {
+      "timing_points": {
+        "Start_to_IM1a": {
+          "start": "Start",
+          "end": "IM1a",
+          "avg_time": 26.15396153846154,
+          "best_time": 23.869,
+          "worst_time": 43.411,
+          "std_dev": 5.4099618740303095,
+          "potential_gain": 2.284961538461541,
+          "location": "Turn 1 Entry",
+          "type": "braking"
+        },
+        "IM1_to_IM2a": {
+          "start": "IM1",
+          "end": "IM2a",
+          "avg_time": 9.919192307692306,
+          "best_time": 8.414,
+          "worst_time": 19.091,
+          "std_dev": 2.9971409579027917,
+          "potential_gain": 1.5051923076923064,
+          "location": "Turn 7 Complex Entry",
+          "type": "technical"
+        },
+        "IM2_to_IM3a": {
+          "start": "IM2",
+          "end": "IM3a",
+          "avg_time": 2.0707499999999994,
+          "best_time": 0.10699999999999932,
+          "worst_time": 3.306000000000001,
+          "std_dev": 1.4446850579509247,
+          "potential_gain": 1.96375,
+          "location": "Oval Entry",
+          "type": "speed"
+        },
+        "IM3a_to_FL": {
+          "start": "IM3a",
+          "end": "FL",
+          "avg_time": 7.1278461538461535,
+          "best_time": 4.5760000000000005,
+          "worst_time": 10.235,
+          "std_dev": 0.994081272021868,
+          "potential_gain": 2.551846153846153,
+          "location": "Finish Line",
+          "type": "straight"
+        }
+      },
+      "weakest_segments": [
+        {
+          "segment": "IM3a_to_FL",
+          "location": "Finish Line",
+          "type": "straight",
+          "potential_gain": 2.551846153846153,
+          "avg_time": 7.1278461538461535,
+          "best_time": 4.5760000000000005
+        },
+        {
+          "segment": "Start_to_IM1a",
+          "location": "Turn 1 Entry",
+          "type": "braking",
+          "potential_gain": 2.284961538461541,
+          "avg_time": 26.15396153846154,
+          "best_time": 23.869
+        },
+        {
+          "segment": "IM2_to_IM3a",
+          "location": "Oval Entry",
+          "type": "speed",
+          "potential_gain": 1.96375,
+          "avg_time": 2.0707499999999994,
+          "best_time": 0.10699999999999932
+        }
+      ],
+      "strongest_segments": [
+        {
+          "segment": "IM3a_to_FL",
+          "location": "Finish Line",
+          "consistency": 0.994081272021868,
+          "avg_time": 7.1278461538461535
+        },
+        {
+          "segment": "IM2_to_IM3a",
+          "location": "Oval Entry",
+          "consistency": 1.4446850579509247,
+          "avg_time": 2.0707499999999994
+        },
+        {
+          "segment": "IM1_to_IM2a",
+          "location": "Turn 7 Complex Entry",
+          "consistency": 2.9971409579027917,
+          "avg_time": 9.919192307692306
+        }
+      ],
+      "improvement_opportunities": []
+    },
+    "wind_analysis": {
+      "avg_wind_speed": 6.400000000000001,
+      "max_wind_speed": 6.4,
+      "wind_direction": 177.17777777777778,
+      "wind_impact_estimate": 0.08,
+      "affected_sectors": [
+        {
+          "sector": "S1",
+          "effect": "Crosswind",
+          "impact": "neutral",
+          "exposure": "high"
+        },
+        {
+          "sector": "S2",
+          "effect": "Headwind",
+          "impact": "negative",
+          "exposure": "medium"
+        },
+        {
+          "sector": "S3",
+          "effect": "Crosswind",
+          "impact": "neutral",
+          "exposure": "very_high"
+        }
+      ],
+      "severity": "Moderate"
+    },
+    "top_speed_stats": {
+      "avg_top_speed": 205.36153846153846,
+      "max_top_speed": 217.3,
+      "min_top_speed": 126.0,
+      "top_speed_variance": 24.970351650276406
+    }
+  },
+  {
+    "driver_number": 5,
+    "driver_name": "Beltre Curtis",
+    "total_laps": 26,
+    "timing_analysis": {
+      "timing_points": {
+        "Start_to_IM1a": {
+          "start": "Start",
+          "end": "IM1a",
+          "avg_time": 26.592499999999998,
+          "best_time": 23.897,
+          "worst_time": 44.575,
+          "std_dev": 5.743654545670378,
+          "potential_gain": 2.695499999999999,
+          "location": "Turn 1 Entry",
+          "type": "braking"
+        },
+        "IM1_to_IM2a": {
+          "start": "IM1",
+          "end": "IM2a",
+          "avg_time": 9.959615384615384,
+          "best_time": 8.388000000000002,
+          "worst_time": 20.564999999999998,
+          "std_dev": 2.9821979689741998,
+          "potential_gain": 1.5716153846153826,
+          "location": "Turn 7 Complex Entry",
+          "type": "technical"
+        },
+        "IM2_to_IM3a": {
+          "start": "IM2",
+          "end": "IM3a",
+          "avg_time": 2.294000000000001,
+          "best_time": 1.564,
+          "worst_time": 3.3180000000000014,
+          "std_dev": 0.8034807610225234,
+          "potential_gain": 0.7300000000000009,
+          "location": "Oval Entry",
+          "type": "speed"
+        },
+        "IM3a_to_FL": {
+          "start": "IM3a",
+          "end": "FL",
+          "avg_time": 7.34176923076923,
+          "best_time": 4.843999999999998,
+          "worst_time": 12.391000000000002,
+          "std_dev": 1.3403821934863895,
+          "potential_gain": 2.497769230769232,
+          "location": "Finish Line",
+          "type": "straight"
+        }
+      },
+      "weakest_segments": [
+        {
+          "segment": "Start_to_IM1a",
+          "location": "Turn 1 Entry",
+          "type": "braking",
+          "potential_gain": 2.695499999999999,
+          "avg_time": 26.592499999999998,
+          "best_time": 23.897
+        },
+        {
+          "segment": "IM3a_to_FL",
+          "location": "Finish Line",
+          "type": "straight",
+          "potential_gain": 2.497769230769232,
+          "avg_time": 7.34176923076923,
+          "best_time": 4.843999999999998
+        },
+        {
+          "segment": "IM1_to_IM2a",
+          "location": "Turn 7 Complex Entry",
+          "type": "technical",
+          "potential_gain": 1.5716153846153826,
+          "avg_time": 9.959615384615384,
+          "best_time": 8.388000000000002
+        }
+      ],
+      "strongest_segments": [
+        {
+          "segment": "IM2_to_IM3a",
+          "location": "Oval Entry",
+          "consistency": 0.8034807610225234,
+          "avg_time": 2.294000000000001
+        },
+        {
+          "segment": "IM3a_to_FL",
+          "location": "Finish Line",
+          "consistency": 1.3403821934863895,
+          "avg_time": 7.34176923076923
+        },
+        {
+          "segment": "IM1_to_IM2a",
+          "location": "Turn 7 Complex Entry",
+          "consistency": 2.9821979689741998,
+          "avg_time": 9.959615384615384
+        }
+      ],
+      "improvement_opportunities": []
+    },
+    "wind_analysis": {
+      "avg_wind_speed": 6.400000000000001,
+      "max_wind_speed": 6.4,
+      "wind_direction": 177.17777777777778,
+      "wind_impact_estimate": 0.08,
+      "affected_sectors": [
+        {
+          "sector": "S1",
+          "effect": "Crosswind",
+          "impact": "neutral",
+          "exposure": "high"
+        },
+        {
+          "sector": "S2",
+          "effect": "Headwind",
+          "impact": "negative",
+          "exposure": "medium"
+        },
+        {
+          "sector": "S3",
+          "effect": "Crosswind",
+          "impact": "neutral",
+          "exposure": "very_high"
+        }
+      ],
+      "severity": "Moderate"
+    },
+    "top_speed_stats": {
+      "avg_top_speed": 206.40769230769232,
+      "max_top_speed": 220.4,
+      "min_top_speed": 141.2,
+      "top_speed_variance": 21.026115629415212
+    }
+  },
+  {
+    "driver_number": 51,
+    "driver_name": "Massimo Sunseri",
+    "total_laps": 26,
+    "timing_analysis": {
+      "timing_points": {
+        "Start_to_IM1a": {
+          "start": "Start",
+          "end": "IM1a",
+          "avg_time": 26.70996153846153,
+          "best_time": 24.026,
+          "worst_time": 44.949,
+          "std_dev": 5.856707289805556,
+          "potential_gain": 2.6839615384615314,
+          "location": "Turn 1 Entry",
+          "type": "braking"
+        },
+        "IM1_to_IM2a": {
+          "start": "IM1",
+          "end": "IM2a",
+          "avg_time": 10.116653846153847,
+          "best_time": 7.755000000000001,
+          "worst_time": 20.544000000000004,
+          "std_dev": 3.262090310733996,
+          "potential_gain": 2.361653846153846,
+          "location": "Turn 7 Complex Entry",
+          "type": "technical"
+        },
+        "IM2_to_IM3a": {
+          "start": "IM2",
+          "end": "IM3a",
+          "avg_time": 3.3510000000000004,
+          "best_time": 2.9830000000000005,
+          "worst_time": 3.8810000000000002,
+          "std_dev": 0.4704083332595203,
+          "potential_gain": 0.3679999999999999,
+          "location": "Oval Entry",
+          "type": "speed"
+        },
+        "IM3a_to_FL": {
+          "start": "IM3a",
+          "end": "FL",
+          "avg_time": 7.205153846153847,
+          "best_time": 5.776,
+          "worst_time": 13.141000000000002,
+          "std_dev": 1.3261052957380934,
+          "potential_gain": 1.4291538461538469,
+          "location": "Finish Line",
+          "type": "straight"
+        }
+      },
+      "weakest_segments": [
+        {
+          "segment": "Start_to_IM1a",
+          "location": "Turn 1 Entry",
+          "type": "braking",
+          "potential_gain": 2.6839615384615314,
+          "avg_time": 26.70996153846153,
+          "best_time": 24.026
+        },
+        {
+          "segment": "IM1_to_IM2a",
+          "location": "Turn 7 Complex Entry",
+          "type": "technical",
+          "potential_gain": 2.361653846153846,
+          "avg_time": 10.116653846153847,
+          "best_time": 7.755000000000001
+        },
+        {
+          "segment": "IM3a_to_FL",
+          "location": "Finish Line",
+          "type": "straight",
+          "potential_gain": 1.4291538461538469,
+          "avg_time": 7.205153846153847,
+          "best_time": 5.776
+        }
+      ],
+      "strongest_segments": [
+        {
+          "segment": "IM2_to_IM3a",
+          "location": "Oval Entry",
+          "consistency": 0.4704083332595203,
+          "avg_time": 3.3510000000000004
+        },
+        {
+          "segment": "IM3a_to_FL",
+          "location": "Finish Line",
+          "consistency": 1.3261052957380934,
+          "avg_time": 7.205153846153847
+        },
+        {
+          "segment": "IM1_to_IM2a",
+          "location": "Turn 7 Complex Entry",
+          "consistency": 3.262090310733996,
+          "avg_time": 10.116653846153847
+        }
+      ],
+      "improvement_opportunities": []
+    },
+    "wind_analysis": {
+      "avg_wind_speed": 6.400000000000001,
+      "max_wind_speed": 6.4,
+      "wind_direction": 177.17777777777778,
+      "wind_impact_estimate": 0.08,
+      "affected_sectors": [
+        {
+          "sector": "S1",
+          "effect": "Crosswind",
+          "impact": "neutral",
+          "exposure": "high"
+        },
+        {
+          "sector": "S2",
+          "effect": "Headwind",
+          "impact": "negative",
+          "exposure": "medium"
+        },
+        {
+          "sector": "S3",
+          "effect": "Crosswind",
+          "impact": "neutral",
+          "exposure": "very_high"
+        }
+      ],
+      "severity": "Moderate"
+    },
+    "top_speed_stats": {
+      "avg_top_speed": 203.3384615384616,
+      "max_top_speed": 215.1,
+      "min_top_speed": 135.0,
+      "top_speed_variance": 23.331765075503
+    }
+  },
+  {
+    "driver_number": 55,
+    "driver_name": "Spike Kohlbecker",
+    "total_laps": 26,
+    "timing_analysis": {
+      "timing_points": {
+        "Start_to_IM1a": {
+          "start": "Start",
+          "end": "IM1a",
+          "avg_time": 26.10142307692308,
+          "best_time": 23.745,
+          "worst_time": 42.329,
+          "std_dev": 5.196708043929941,
+          "potential_gain": 2.356423076923079,
+          "location": "Turn 1 Entry",
+          "type": "braking"
+        },
+        "IM1_to_IM2a": {
+          "start": "IM1",
+          "end": "IM2a",
+          "avg_time": 9.789153846153846,
+          "best_time": 8.657,
+          "worst_time": 17.905,
+          "std_dev": 2.3895792214079483,
+          "potential_gain": 1.1321538461538463,
+          "location": "Turn 7 Complex Entry",
+          "type": "technical"
+        },
+        "IM2_to_IM3a": {
+          "start": "IM2",
+          "end": "IM3a",
+          "avg_time": 1.7032500000000015,
+          "best_time": 0.4960000000000022,
+          "worst_time": 2.516000000000002,
+          "std_dev": 0.8555650666859493,
+          "potential_gain": 1.2072499999999993,
+          "location": "Oval Entry",
+          "type": "speed"
+        },
+        "IM3a_to_FL": {
+          "start": "IM3a",
+          "end": "FL",
+          "avg_time": 6.967,
+          "best_time": 4.183,
+          "worst_time": 10.18,
+          "std_dev": 0.9938937166518358,
+          "potential_gain": 2.784,
+          "location": "Finish Line",
+          "type": "straight"
+        }
+      },
+      "weakest_segments": [
+        {
+          "segment": "IM3a_to_FL",
+          "location": "Finish Line",
+          "type": "straight",
+          "potential_gain": 2.784,
+          "avg_time": 6.967,
+          "best_time": 4.183
+        },
+        {
+          "segment": "Start_to_IM1a",
+          "location": "Turn 1 Entry",
+          "type": "braking",
+          "potential_gain": 2.356423076923079,
+          "avg_time": 26.10142307692308,
+          "best_time": 23.745
+        },
+        {
+          "segment": "IM2_to_IM3a",
+          "location": "Oval Entry",
+          "type": "speed",
+          "potential_gain": 1.2072499999999993,
+          "avg_time": 1.7032500000000015,
+          "best_time": 0.4960000000000022
+        }
+      ],
+      "strongest_segments": [
+        {
+          "segment": "IM2_to_IM3a",
+          "location": "Oval Entry",
+          "consistency": 0.8555650666859493,
+          "avg_time": 1.7032500000000015
+        },
+        {
+          "segment": "IM3a_to_FL",
+          "location": "Finish Line",
+          "consistency": 0.9938937166518358,
+          "avg_time": 6.967
+        },
+        {
+          "segment": "IM1_to_IM2a",
+          "location": "Turn 7 Complex Entry",
+          "consistency": 2.3895792214079483,
+          "avg_time": 9.789153846153846
+        }
+      ],
+      "improvement_opportunities": []
+    },
+    "wind_analysis": {
+      "avg_wind_speed": 6.400000000000001,
+      "max_wind_speed": 6.4,
+      "wind_direction": 177.17777777777778,
+      "wind_impact_estimate": 0.08,
+      "affected_sectors": [
+        {
+          "sector": "S1",
+          "effect": "Crosswind",
+          "impact": "neutral",
+          "exposure": "high"
+        },
+        {
+          "sector": "S2",
+          "effect": "Headwind",
+          "impact": "negative",
+          "exposure": "medium"
+        },
+        {
+          "sector": "S3",
+          "effect": "Crosswind",
+          "impact": "neutral",
+          "exposure": "very_high"
+        }
+      ],
+      "severity": "Moderate"
+    },
+    "top_speed_stats": {
+      "avg_top_speed": 203.91923076923084,
+      "max_top_speed": 218.2,
+      "min_top_speed": 111.1,
+      "top_speed_variance": 27.693089668446447
+    }
+  },
+  {
+    "driver_number": 57,
+    "driver_name": "Jeff Curry",
+    "total_laps": 25,
+    "timing_analysis": {
+      "timing_points": {
+        "Start_to_IM1a": {
+          "start": "Start",
+          "end": "IM1a",
+          "avg_time": 28.699679999999997,
+          "best_time": 24.525,
+          "worst_time": 50.77,
+          "std_dev": 7.415092760264927,
+          "potential_gain": 4.174679999999999,
+          "location": "Turn 1 Entry",
+          "type": "braking"
+        },
+        "IM1_to_IM2a": {
+          "start": "IM1",
+          "end": "IM2a",
+          "avg_time": 10.8542,
+          "best_time": 9.018,
+          "worst_time": 21.543999999999997,
+          "std_dev": 3.534602452893394,
+          "potential_gain": 1.8361999999999998,
+          "location": "Turn 7 Complex Entry",
+          "type": "technical"
+        },
+        "IM2_to_IM3a": {
+          "start": "IM2",
+          "end": "IM3a",
+          "avg_time": 1.7242500000000014,
+          "best_time": 0.12900000000000134,
+          "worst_time": 3.684000000000001,
+          "std_dev": 1.4775604612558724,
+          "potential_gain": 1.59525,
+          "location": "Oval Entry",
+          "type": "speed"
+        },
+        "IM3a_to_FL": {
+          "start": "IM3a",
+          "end": "FL",
+          "avg_time": 8.20756,
+          "best_time": 5.904,
+          "worst_time": 36.078,
+          "std_dev": 5.910040828116165,
+          "potential_gain": 2.303560000000001,
+          "location": "Finish Line",
+          "type": "straight"
+        }
+      },
+      "weakest_segments": [
+        {
+          "segment": "Start_to_IM1a",
+          "location": "Turn 1 Entry",
+          "type": "braking",
+          "potential_gain": 4.174679999999999,
+          "avg_time": 28.699679999999997,
+          "best_time": 24.525
+        },
+        {
+          "segment": "IM3a_to_FL",
+          "location": "Finish Line",
+          "type": "straight",
+          "potential_gain": 2.303560000000001,
+          "avg_time": 8.20756,
+          "best_time": 5.904
+        },
+        {
+          "segment": "IM1_to_IM2a",
+          "location": "Turn 7 Complex Entry",
+          "type": "technical",
+          "potential_gain": 1.8361999999999998,
+          "avg_time": 10.8542,
+          "best_time": 9.018
+        }
+      ],
+      "strongest_segments": [
+        {
+          "segment": "IM2_to_IM3a",
+          "location": "Oval Entry",
+          "consistency": 1.4775604612558724,
+          "avg_time": 1.7242500000000014
+        },
+        {
+          "segment": "IM1_to_IM2a",
+          "location": "Turn 7 Complex Entry",
+          "consistency": 3.534602452893394,
+          "avg_time": 10.8542
+        },
+        {
+          "segment": "IM3a_to_FL",
+          "location": "Finish Line",
+          "consistency": 5.910040828116165,
+          "avg_time": 8.20756
+        }
+      ],
+      "improvement_opportunities": []
+    },
+    "wind_analysis": {
+      "avg_wind_speed": 6.400000000000001,
+      "max_wind_speed": 6.4,
+      "wind_direction": 177.17777777777778,
+      "wind_impact_estimate": 0.08,
+      "affected_sectors": [
+        {
+          "sector": "S1",
+          "effect": "Crosswind",
+          "impact": "neutral",
+          "exposure": "high"
+        },
+        {
+          "sector": "S2",
+          "effect": "Headwind",
+          "impact": "negative",
+          "exposure": "medium"
+        },
+        {
+          "sector": "S3",
+          "effect": "Crosswind",
+          "impact": "neutral",
+          "exposure": "very_high"
+        }
+      ],
+      "severity": "Moderate"
+    },
+    "top_speed_stats": {
+      "avg_top_speed": 199.18000000000004,
+      "max_top_speed": 212.2,
+      "min_top_speed": 150.0,
+      "top_speed_variance": 16.171734600839827
+    }
+  },
+  {
+    "driver_number": 61,
+    "driver_name": "James Klimas",
+    "total_laps": 26,
+    "timing_analysis": {
+      "timing_points": {
+        "Start_to_IM1a": {
+          "start": "Start",
+          "end": "IM1a",
+          "avg_time": 26.982692307692307,
+          "best_time": 24.162,
+          "worst_time": 45.763,
+          "std_dev": 6.174885118084259,
+          "potential_gain": 2.8206923076923083,
+          "location": "Turn 1 Entry",
+          "type": "braking"
+        },
+        "IM1_to_IM2a": {
+          "start": "IM1",
+          "end": "IM2a",
+          "avg_time": 10.001000000000001,
+          "best_time": 8.746,
+          "worst_time": 20.700999999999997,
+          "std_dev": 2.9057580766471247,
+          "potential_gain": 1.2550000000000008,
+          "location": "Turn 7 Complex Entry",
+          "type": "technical"
+        },
+        "IM2_to_IM3a": {
+          "start": "IM2",
+          "end": "IM3a",
+          "avg_time": 1.3480000000000003,
+          "best_time": 0.03500000000000014,
+          "worst_time": 1.9139999999999997,
+          "std_dev": 0.8918785418056282,
+          "potential_gain": 1.3130000000000002,
+          "location": "Oval Entry",
+          "type": "speed"
+        },
+        "IM3a_to_FL": {
+          "start": "IM3a",
+          "end": "FL",
+          "avg_time": 7.315576923076922,
+          "best_time": 6.248999999999999,
+          "worst_time": 11.405000000000001,
+          "std_dev": 1.025639748569718,
+          "potential_gain": 1.0665769230769229,
+          "location": "Finish Line",
+          "type": "straight"
+        }
+      },
+      "weakest_segments": [
+        {
+          "segment": "Start_to_IM1a",
+          "location": "Turn 1 Entry",
+          "type": "braking",
+          "potential_gain": 2.8206923076923083,
+          "avg_time": 26.982692307692307,
+          "best_time": 24.162
+        },
+        {
+          "segment": "IM2_to_IM3a",
+          "location": "Oval Entry",
+          "type": "speed",
+          "potential_gain": 1.3130000000000002,
+          "avg_time": 1.3480000000000003,
+          "best_time": 0.03500000000000014
+        },
+        {
+          "segment": "IM1_to_IM2a",
+          "location": "Turn 7 Complex Entry",
+          "type": "technical",
+          "potential_gain": 1.2550000000000008,
+          "avg_time": 10.001000000000001,
+          "best_time": 8.746
+        }
+      ],
+      "strongest_segments": [
+        {
+          "segment": "IM2_to_IM3a",
+          "location": "Oval Entry",
+          "consistency": 0.8918785418056282,
+          "avg_time": 1.3480000000000003
+        },
+        {
+          "segment": "IM3a_to_FL",
+          "location": "Finish Line",
+          "consistency": 1.025639748569718,
+          "avg_time": 7.315576923076922
+        },
+        {
+          "segment": "IM1_to_IM2a",
+          "location": "Turn 7 Complex Entry",
+          "consistency": 2.9057580766471247,
+          "avg_time": 10.001000000000001
+        }
+      ],
+      "improvement_opportunities": []
+    },
+    "wind_analysis": {
+      "avg_wind_speed": 6.400000000000001,
+      "max_wind_speed": 6.4,
+      "wind_direction": 177.17777777777778,
+      "wind_impact_estimate": 0.08,
+      "affected_sectors": [
+        {
+          "sector": "S1",
+          "effect": "Crosswind",
+          "impact": "neutral",
+          "exposure": "high"
+        },
+        {
+          "sector": "S2",
+          "effect": "Headwind",
+          "impact": "negative",
+          "exposure": "medium"
+        },
+        {
+          "sector": "S3",
+          "effect": "Crosswind",
+          "impact": "neutral",
+          "exposure": "very_high"
+        }
+      ],
+      "severity": "Moderate"
+    },
+    "top_speed_stats": {
+      "avg_top_speed": 205.58076923076925,
+      "max_top_speed": 216.0,
+      "min_top_speed": 152.1,
+      "top_speed_variance": 17.70464389318846
+    }
+  },
+  {
+    "driver_number": 7,
+    "driver_name": "Jaxon Bell",
+    "total_laps": 11,
+    "timing_analysis": {
+      "timing_points": {
+        "Start_to_IM1a": {
+          "start": "Start",
+          "end": "IM1a",
+          "avg_time": 24.280363636363635,
+          "best_time": 23.771,
+          "worst_time": 26.549,
+          "std_dev": 0.7787426112300869,
+          "potential_gain": 0.5093636363636342,
+          "location": "Turn 1 Entry",
+          "type": "braking"
+        },
+        "IM1_to_IM2a": {
+          "start": "IM1",
+          "end": "IM2a",
+          "avg_time": 8.965636363636364,
+          "best_time": 8.857000000000001,
+          "worst_time": 9.249,
+          "std_dev": 0.12297257639593685,
+          "potential_gain": 0.10863636363636253,
+          "location": "Turn 7 Complex Entry",
+          "type": "technical"
+        },
+        "IM3a_to_FL": {
+          "start": "IM3a",
+          "end": "FL",
+          "avg_time": 6.916,
+          "best_time": 6.777999999999999,
+          "worst_time": 7.012000000000002,
+          "std_dev": 0.08189627586160492,
+          "potential_gain": 0.13800000000000168,
+          "location": "Finish Line",
+          "type": "straight"
+        }
+      },
+      "weakest_segments": [
+        {
+          "segment": "Start_to_IM1a",
+          "location": "Turn 1 Entry",
+          "type": "braking",
+          "potential_gain": 0.5093636363636342,
+          "avg_time": 24.280363636363635,
+          "best_time": 23.771
+        },
+        {
+          "segment": "IM3a_to_FL",
+          "location": "Finish Line",
+          "type": "straight",
+          "potential_gain": 0.13800000000000168,
+          "avg_time": 6.916,
+          "best_time": 6.777999999999999
+        },
+        {
+          "segment": "IM1_to_IM2a",
+          "location": "Turn 7 Complex Entry",
+          "type": "technical",
+          "potential_gain": 0.10863636363636253,
+          "avg_time": 8.965636363636364,
+          "best_time": 8.857000000000001
+        }
+      ],
+      "strongest_segments": [
+        {
+          "segment": "IM3a_to_FL",
+          "location": "Finish Line",
+          "consistency": 0.08189627586160492,
+          "avg_time": 6.916
+        },
+        {
+          "segment": "IM1_to_IM2a",
+          "location": "Turn 7 Complex Entry",
+          "consistency": 0.12297257639593685,
+          "avg_time": 8.965636363636364
+        },
+        {
+          "segment": "Start_to_IM1a",
+          "location": "Turn 1 Entry",
+          "consistency": 0.7787426112300869,
+          "avg_time": 24.280363636363635
+        }
+      ],
+      "improvement_opportunities": []
+    },
+    "wind_analysis": {
+      "avg_wind_speed": 6.4,
+      "max_wind_speed": 6.4,
+      "wind_direction": 177.17777777777775,
+      "wind_impact_estimate": 0.08,
+      "affected_sectors": [
+        {
+          "sector": "S1",
+          "effect": "Crosswind",
+          "impact": "neutral",
+          "exposure": "high"
+        },
+        {
+          "sector": "S2",
+          "effect": "Headwind",
+          "impact": "negative",
+          "exposure": "medium"
+        },
+        {
+          "sector": "S3",
+          "effect": "Crosswind",
+          "impact": "neutral",
+          "exposure": "very_high"
+        }
+      ],
+      "severity": "Moderate"
+    },
+    "top_speed_stats": {
+      "avg_top_speed": 211.79999999999998,
+      "max_top_speed": 217.3,
+      "min_top_speed": 197.1,
+      "top_speed_variance": 5.311120409103904
+    }
+  },
+  {
+    "driver_number": 72,
+    "driver_name": "Ethan Goulart",
+    "total_laps": 19,
+    "timing_analysis": {
+      "timing_points": {
+        "Start_to_IM1a": {
+          "start": "Start",
+          "end": "IM1a",
+          "avg_time": 26.79226315789474,
+          "best_time": 23.694,
+          "worst_time": 41.647,
+          "std_dev": 5.810507798062491,
+          "potential_gain": 3.098263157894742,
+          "location": "Turn 1 Entry",
+          "type": "braking"
+        },
+        "IM1_to_IM2a": {
+          "start": "IM1",
+          "end": "IM2a",
+          "avg_time": 10.066315789473684,
+          "best_time": 8.339,
+          "worst_time": 17.072,
+          "std_dev": 2.564247324105318,
+          "potential_gain": 1.7273157894736837,
+          "location": "Turn 7 Complex Entry",
+          "type": "technical"
+        },
+        "IM2_to_IM3a": {
+          "start": "IM2",
+          "end": "IM3a",
+          "avg_time": 1.4696666666666676,
+          "best_time": 0.9310000000000009,
+          "worst_time": 2.298000000000002,
+          "std_dev": 0.7280812683576844,
+          "potential_gain": 0.5386666666666666,
+          "location": "Oval Entry",
+          "type": "speed"
+        },
+        "IM3a_to_FL": {
+          "start": "IM3a",
+          "end": "FL",
+          "avg_time": 8.634052631578946,
+          "best_time": 4.4410000000000025,
+          "worst_time": 34.337999999999994,
+          "std_dev": 6.34910896175102,
+          "potential_gain": 4.193052631578944,
+          "location": "Finish Line",
+          "type": "straight"
+        }
+      },
+      "weakest_segments": [
+        {
+          "segment": "IM3a_to_FL",
+          "location": "Finish Line",
+          "type": "straight",
+          "potential_gain": 4.193052631578944,
+          "avg_time": 8.634052631578946,
+          "best_time": 4.4410000000000025
+        },
+        {
+          "segment": "Start_to_IM1a",
+          "location": "Turn 1 Entry",
+          "type": "braking",
+          "potential_gain": 3.098263157894742,
+          "avg_time": 26.79226315789474,
+          "best_time": 23.694
+        },
+        {
+          "segment": "IM1_to_IM2a",
+          "location": "Turn 7 Complex Entry",
+          "type": "technical",
+          "potential_gain": 1.7273157894736837,
+          "avg_time": 10.066315789473684,
+          "best_time": 8.339
+        }
+      ],
+      "strongest_segments": [
+        {
+          "segment": "IM2_to_IM3a",
+          "location": "Oval Entry",
+          "consistency": 0.7280812683576844,
+          "avg_time": 1.4696666666666676
+        },
+        {
+          "segment": "IM1_to_IM2a",
+          "location": "Turn 7 Complex Entry",
+          "consistency": 2.564247324105318,
+          "avg_time": 10.066315789473684
+        },
+        {
+          "segment": "Start_to_IM1a",
+          "location": "Turn 1 Entry",
+          "consistency": 5.810507798062491,
+          "avg_time": 26.79226315789474
+        }
+      ],
+      "improvement_opportunities": []
+    },
+    "wind_analysis": {
+      "avg_wind_speed": 6.400000000000001,
+      "max_wind_speed": 6.4,
+      "wind_direction": 177.1777777777778,
+      "wind_impact_estimate": 0.08,
+      "affected_sectors": [
+        {
+          "sector": "S1",
+          "effect": "Crosswind",
+          "impact": "neutral",
+          "exposure": "high"
+        },
+        {
+          "sector": "S2",
+          "effect": "Headwind",
+          "impact": "negative",
+          "exposure": "medium"
+        },
+        {
+          "sector": "S3",
+          "effect": "Crosswind",
+          "impact": "neutral",
+          "exposure": "very_high"
+        }
+      ],
+      "severity": "Moderate"
+    },
+    "top_speed_stats": {
+      "avg_top_speed": 201.6421052631579,
+      "max_top_speed": 217.3,
+      "min_top_speed": 119.1,
+      "top_speed_variance": 30.332991129745068
+    }
+  },
+  {
+    "driver_number": 8,
+    "driver_name": "Tom Rudnai",
+    "total_laps": 26,
+    "timing_analysis": {
+      "timing_points": {
+        "Start_to_IM1a": {
+          "start": "Start",
+          "end": "IM1a",
+          "avg_time": 27.34430769230769,
+          "best_time": 24.54,
+          "worst_time": 47.855,
+          "std_dev": 6.303032462357976,
+          "potential_gain": 2.8043076923076917,
+          "location": "Turn 1 Entry",
+          "type": "braking"
+        },
+        "IM1_to_IM2a": {
+          "start": "IM1",
+          "end": "IM2a",
+          "avg_time": 9.703346153846155,
+          "best_time": 8.376,
+          "worst_time": 17.274,
+          "std_dev": 2.007156215989333,
+          "potential_gain": 1.3273461538461557,
+          "location": "Turn 7 Complex Entry",
+          "type": "technical"
+        },
+        "IM2_to_IM3a": {
+          "start": "IM2",
+          "end": "IM3a",
+          "avg_time": 1.9389999999999994,
+          "best_time": 0.9389999999999983,
+          "worst_time": 3.6179999999999986,
+          "std_dev": 1.4628878972771626,
+          "potential_gain": 1.000000000000001,
+          "location": "Oval Entry",
+          "type": "speed"
+        },
+        "IM3a_to_FL": {
+          "start": "IM3a",
+          "end": "FL",
+          "avg_time": 7.078384615384616,
+          "best_time": 4.1080000000000005,
+          "worst_time": 10.908999999999999,
+          "std_dev": 0.9956525127542469,
+          "potential_gain": 2.9703846153846154,
+          "location": "Finish Line",
+          "type": "straight"
+        }
+      },
+      "weakest_segments": [
+        {
+          "segment": "IM3a_to_FL",
+          "location": "Finish Line",
+          "type": "straight",
+          "potential_gain": 2.9703846153846154,
+          "avg_time": 7.078384615384616,
+          "best_time": 4.1080000000000005
+        },
+        {
+          "segment": "Start_to_IM1a",
+          "location": "Turn 1 Entry",
+          "type": "braking",
+          "potential_gain": 2.8043076923076917,
+          "avg_time": 27.34430769230769,
+          "best_time": 24.54
+        },
+        {
+          "segment": "IM1_to_IM2a",
+          "location": "Turn 7 Complex Entry",
+          "type": "technical",
+          "potential_gain": 1.3273461538461557,
+          "avg_time": 9.703346153846155,
+          "best_time": 8.376
+        }
+      ],
+      "strongest_segments": [
+        {
+          "segment": "IM3a_to_FL",
+          "location": "Finish Line",
+          "consistency": 0.9956525127542469,
+          "avg_time": 7.078384615384616
+        },
+        {
+          "segment": "IM2_to_IM3a",
+          "location": "Oval Entry",
+          "consistency": 1.4628878972771626,
+          "avg_time": 1.9389999999999994
+        },
+        {
+          "segment": "IM1_to_IM2a",
+          "location": "Turn 7 Complex Entry",
+          "consistency": 2.007156215989333,
+          "avg_time": 9.703346153846155
+        }
+      ],
+      "improvement_opportunities": []
+    },
+    "wind_analysis": {
+      "avg_wind_speed": 6.400000000000001,
+      "max_wind_speed": 6.4,
+      "wind_direction": 177.17777777777778,
+      "wind_impact_estimate": 0.08,
+      "affected_sectors": [
+        {
+          "sector": "S1",
+          "effect": "Crosswind",
+          "impact": "neutral",
+          "exposure": "high"
+        },
+        {
+          "sector": "S2",
+          "effect": "Headwind",
+          "impact": "negative",
+          "exposure": "medium"
+        },
+        {
+          "sector": "S3",
+          "effect": "Crosswind",
+          "impact": "neutral",
+          "exposure": "very_high"
+        }
+      ],
+      "severity": "Moderate"
+    },
+    "top_speed_stats": {
+      "avg_top_speed": 201.19999999999996,
+      "max_top_speed": 211.4,
+      "min_top_speed": 166.2,
+      "top_speed_variance": 9.784518383650779
+    }
+  },
+  {
+    "driver_number": 80,
+    "driver_name": "Paityn Feyen",
+    "total_laps": 13,
+    "timing_analysis": {
+      "timing_points": {
+        "Start_to_IM1a": {
+          "start": "Start",
+          "end": "IM1a",
+          "avg_time": 26.533461538461534,
+          "best_time": 24.303,
+          "worst_time": 45.709,
+          "std_dev": 5.915919914594639,
+          "potential_gain": 2.230461538461533,
+          "location": "Turn 1 Entry",
+          "type": "braking"
+        },
+        "IM1_to_IM2a": {
+          "start": "IM1",
+          "end": "IM2a",
+          "avg_time": 9.821,
+          "best_time": 8.607999999999999,
+          "worst_time": 20.872,
+          "std_dev": 3.485094520695503,
+          "potential_gain": 1.213000000000001,
+          "location": "Turn 7 Complex Entry",
+          "type": "technical"
+        },
+        "IM2_to_IM3a": {
+          "start": "IM2",
+          "end": "IM3a",
+          "avg_time": 2.2104999999999997,
+          "best_time": 2.1140000000000008,
+          "worst_time": 2.3069999999999986,
+          "std_dev": 0.13647160876900213,
+          "potential_gain": 0.09649999999999892,
+          "location": "Oval Entry",
+          "type": "speed"
+        },
+        "IM3a_to_FL": {
+          "start": "IM3a",
+          "end": "FL",
+          "avg_time": 7.338307692307692,
+          "best_time": 6.530000000000001,
+          "worst_time": 10.305,
+          "std_dev": 1.1544955886024697,
+          "potential_gain": 0.8083076923076913,
+          "location": "Finish Line",
+          "type": "straight"
+        }
+      },
+      "weakest_segments": [
+        {
+          "segment": "Start_to_IM1a",
+          "location": "Turn 1 Entry",
+          "type": "braking",
+          "potential_gain": 2.230461538461533,
+          "avg_time": 26.533461538461534,
+          "best_time": 24.303
+        },
+        {
+          "segment": "IM1_to_IM2a",
+          "location": "Turn 7 Complex Entry",
+          "type": "technical",
+          "potential_gain": 1.213000000000001,
+          "avg_time": 9.821,
+          "best_time": 8.607999999999999
+        },
+        {
+          "segment": "IM3a_to_FL",
+          "location": "Finish Line",
+          "type": "straight",
+          "potential_gain": 0.8083076923076913,
+          "avg_time": 7.338307692307692,
+          "best_time": 6.530000000000001
+        }
+      ],
+      "strongest_segments": [
+        {
+          "segment": "IM2_to_IM3a",
+          "location": "Oval Entry",
+          "consistency": 0.13647160876900213,
+          "avg_time": 2.2104999999999997
+        },
+        {
+          "segment": "IM3a_to_FL",
+          "location": "Finish Line",
+          "consistency": 1.1544955886024697,
+          "avg_time": 7.338307692307692
+        },
+        {
+          "segment": "IM1_to_IM2a",
+          "location": "Turn 7 Complex Entry",
+          "consistency": 3.485094520695503,
+          "avg_time": 9.821
+        }
+      ],
+      "improvement_opportunities": []
+    },
+    "wind_analysis": {
+      "avg_wind_speed": 6.400000000000001,
+      "max_wind_speed": 6.4,
+      "wind_direction": 177.17777777777778,
+      "wind_impact_estimate": 0.08,
+      "affected_sectors": [
+        {
+          "sector": "S1",
+          "effect": "Crosswind",
+          "impact": "neutral",
+          "exposure": "high"
+        },
+        {
+          "sector": "S2",
+          "effect": "Headwind",
+          "impact": "negative",
+          "exposure": "medium"
+        },
+        {
+          "sector": "S3",
+          "effect": "Crosswind",
+          "impact": "neutral",
+          "exposure": "very_high"
+        }
+      ],
+      "severity": "Moderate"
+    },
+    "top_speed_stats": {
+      "avg_top_speed": 207.25384615384613,
+      "max_top_speed": 214.3,
+      "min_top_speed": 154.1,
+      "top_speed_variance": 16.85396171946008
+    }
+  },
+  {
+    "driver_number": 86,
+    "driver_name": "Andrew Gilleland",
+    "total_laps": 1,
+    "timing_analysis": {
+      "timing_points": {
+        "Start_to_IM1a": {
+          "start": "Start",
+          "end": "IM1a",
+          "avg_time": 31.69,
+          "best_time": 31.69,
+          "worst_time": 31.69,
+          "std_dev": NaN,
+          "potential_gain": 0.0,
+          "location": "Turn 1 Entry",
+          "type": "braking"
+        },
+        "IM1_to_IM2a": {
+          "start": "IM1",
+          "end": "IM2a",
+          "avg_time": 9.078999999999999,
+          "best_time": 9.078999999999999,
+          "worst_time": 9.078999999999999,
+          "std_dev": NaN,
+          "potential_gain": 0.0,
+          "location": "Turn 7 Complex Entry",
+          "type": "technical"
+        },
+        "IM3a_to_FL": {
+          "start": "IM3a",
+          "end": "FL",
+          "avg_time": 6.065000000000001,
+          "best_time": 6.065000000000001,
+          "worst_time": 6.065000000000001,
+          "std_dev": NaN,
+          "potential_gain": 0.0,
+          "location": "Finish Line",
+          "type": "straight"
+        }
+      },
+      "weakest_segments": [
+        {
+          "segment": "Start_to_IM1a",
+          "location": "Turn 1 Entry",
+          "type": "braking",
+          "potential_gain": 0.0,
+          "avg_time": 31.69,
+          "best_time": 31.69
+        },
+        {
+          "segment": "IM1_to_IM2a",
+          "location": "Turn 7 Complex Entry",
+          "type": "technical",
+          "potential_gain": 0.0,
+          "avg_time": 9.078999999999999,
+          "best_time": 9.078999999999999
+        },
+        {
+          "segment": "IM3a_to_FL",
+          "location": "Finish Line",
+          "type": "straight",
+          "potential_gain": 0.0,
+          "avg_time": 6.065000000000001,
+          "best_time": 6.065000000000001
+        }
+      ],
+      "strongest_segments": [
+        {
+          "segment": "Start_to_IM1a",
+          "location": "Turn 1 Entry",
+          "consistency": NaN,
+          "avg_time": 31.69
+        },
+        {
+          "segment": "IM1_to_IM2a",
+          "location": "Turn 7 Complex Entry",
+          "consistency": NaN,
+          "avg_time": 9.078999999999999
+        },
+        {
+          "segment": "IM3a_to_FL",
+          "location": "Finish Line",
+          "consistency": NaN,
+          "avg_time": 6.065000000000001
+        }
+      ],
+      "improvement_opportunities": []
+    },
+    "wind_analysis": {
+      "avg_wind_speed": 6.4,
+      "max_wind_speed": 6.4,
+      "wind_direction": 177.17777777777778,
+      "wind_impact_estimate": 0.08,
+      "affected_sectors": [
+        {
+          "sector": "S1",
+          "effect": "Crosswind",
+          "impact": "neutral",
+          "exposure": "high"
+        },
+        {
+          "sector": "S2",
+          "effect": "Headwind",
+          "impact": "negative",
+          "exposure": "medium"
+        },
+        {
+          "sector": "S3",
+          "effect": "Crosswind",
+          "impact": "neutral",
+          "exposure": "very_high"
+        }
+      ],
+      "severity": "Moderate"
+    },
+    "top_speed_stats": {
+      "avg_top_speed": 193.2,
+      "max_top_speed": 193.2,
+      "min_top_speed": 193.2,
+      "top_speed_variance": NaN
+    }
+  },
+  {
+    "driver_number": 88,
+    "driver_name": "Henry Drury",
+    "total_laps": 26,
+    "timing_analysis": {
+      "timing_points": {
+        "Start_to_IM1a": {
+          "start": "Start",
+          "end": "IM1a",
+          "avg_time": 26.43707692307692,
+          "best_time": 23.943,
+          "worst_time": 44.113,
+          "std_dev": 5.569044786482342,
+          "potential_gain": 2.4940769230769178,
+          "location": "Turn 1 Entry",
+          "type": "braking"
+        },
+        "IM1_to_IM2a": {
+          "start": "IM1",
+          "end": "IM2a",
+          "avg_time": 10.316730769230768,
+          "best_time": 8.712000000000002,
+          "worst_time": 20.031000000000002,
+          "std_dev": 3.3751667402686025,
+          "potential_gain": 1.6047307692307662,
+          "location": "Turn 7 Complex Entry",
+          "type": "technical"
+        },
+        "IM2_to_IM3a": {
+          "start": "IM2",
+          "end": "IM3a",
+          "avg_time": 2.587499999999999,
+          "best_time": 1.0479999999999983,
+          "worst_time": 3.4869999999999983,
+          "std_dev": 1.1442442920985016,
+          "potential_gain": 1.5395000000000008,
+          "location": "Oval Entry",
+          "type": "speed"
+        },
+        "IM3a_to_FL": {
+          "start": "IM3a",
+          "end": "FL",
+          "avg_time": 7.096153846153846,
+          "best_time": 4.165000000000003,
+          "worst_time": 10.166999999999998,
+          "std_dev": 1.051861195873588,
+          "potential_gain": 2.931153846153843,
+          "location": "Finish Line",
+          "type": "straight"
+        }
+      },
+      "weakest_segments": [
+        {
+          "segment": "IM3a_to_FL",
+          "location": "Finish Line",
+          "type": "straight",
+          "potential_gain": 2.931153846153843,
+          "avg_time": 7.096153846153846,
+          "best_time": 4.165000000000003
+        },
+        {
+          "segment": "Start_to_IM1a",
+          "location": "Turn 1 Entry",
+          "type": "braking",
+          "potential_gain": 2.4940769230769178,
+          "avg_time": 26.43707692307692,
+          "best_time": 23.943
+        },
+        {
+          "segment": "IM1_to_IM2a",
+          "location": "Turn 7 Complex Entry",
+          "type": "technical",
+          "potential_gain": 1.6047307692307662,
+          "avg_time": 10.316730769230768,
+          "best_time": 8.712000000000002
+        }
+      ],
+      "strongest_segments": [
+        {
+          "segment": "IM3a_to_FL",
+          "location": "Finish Line",
+          "consistency": 1.051861195873588,
+          "avg_time": 7.096153846153846
+        },
+        {
+          "segment": "IM2_to_IM3a",
+          "location": "Oval Entry",
+          "consistency": 1.1442442920985016,
+          "avg_time": 2.587499999999999
+        },
+        {
+          "segment": "IM1_to_IM2a",
+          "location": "Turn 7 Complex Entry",
+          "consistency": 3.3751667402686025,
+          "avg_time": 10.316730769230768
+        }
+      ],
+      "improvement_opportunities": []
+    },
+    "wind_analysis": {
+      "avg_wind_speed": 6.400000000000001,
+      "max_wind_speed": 6.4,
+      "wind_direction": 177.17777777777778,
+      "wind_impact_estimate": 0.08,
+      "affected_sectors": [
+        {
+          "sector": "S1",
+          "effect": "Crosswind",
+          "impact": "neutral",
+          "exposure": "high"
+        },
+        {
+          "sector": "S2",
+          "effect": "Headwind",
+          "impact": "negative",
+          "exposure": "medium"
+        },
+        {
+          "sector": "S3",
+          "effect": "Crosswind",
+          "impact": "neutral",
+          "exposure": "very_high"
+        }
+      ],
+      "severity": "Moderate"
+    },
+    "top_speed_stats": {
+      "avg_top_speed": 206.90000000000003,
+      "max_top_speed": 220.4,
+      "min_top_speed": 130.1,
+      "top_speed_variance": 23.410476287337683
+    }
+  },
+  {
+    "driver_number": 89,
+    "driver_name": "Livio Galanti",
+    "total_laps": 26,
+    "timing_analysis": {
+      "timing_points": {
+        "Start_to_IM1a": {
+          "start": "Start",
+          "end": "IM1a",
+          "avg_time": 26.688192307692304,
+          "best_time": 24.05,
+          "worst_time": 44.701,
+          "std_dev": 5.766101074516337,
+          "potential_gain": 2.6381923076923037,
+          "location": "Turn 1 Entry",
+          "type": "braking"
+        },
+        "IM1_to_IM2a": {
+          "start": "IM1",
+          "end": "IM2a",
+          "avg_time": 10.010846153846153,
+          "best_time": 8.326,
+          "worst_time": 21.18,
+          "std_dev": 3.013555384489327,
+          "potential_gain": 1.684846153846152,
+          "location": "Turn 7 Complex Entry",
+          "type": "technical"
+        },
+        "IM2_to_IM3a": {
+          "start": "IM2",
+          "end": "IM3a",
+          "avg_time": 2.60525,
+          "best_time": 1.8150000000000013,
+          "worst_time": 3.2989999999999995,
+          "std_dev": 0.6291965114334306,
+          "potential_gain": 0.7902499999999986,
+          "location": "Oval Entry",
+          "type": "speed"
+        },
+        "IM3a_to_FL": {
+          "start": "IM3a",
+          "end": "FL",
+          "avg_time": 7.135499999999999,
+          "best_time": 4.437000000000001,
+          "worst_time": 11.356000000000002,
+          "std_dev": 1.2326827410165195,
+          "potential_gain": 2.6984999999999975,
+          "location": "Finish Line",
+          "type": "straight"
+        }
+      },
+      "weakest_segments": [
+        {
+          "segment": "IM3a_to_FL",
+          "location": "Finish Line",
+          "type": "straight",
+          "potential_gain": 2.6984999999999975,
+          "avg_time": 7.135499999999999,
+          "best_time": 4.437000000000001
+        },
+        {
+          "segment": "Start_to_IM1a",
+          "location": "Turn 1 Entry",
+          "type": "braking",
+          "potential_gain": 2.6381923076923037,
+          "avg_time": 26.688192307692304,
+          "best_time": 24.05
+        },
+        {
+          "segment": "IM1_to_IM2a",
+          "location": "Turn 7 Complex Entry",
+          "type": "technical",
+          "potential_gain": 1.684846153846152,
+          "avg_time": 10.010846153846153,
+          "best_time": 8.326
+        }
+      ],
+      "strongest_segments": [
+        {
+          "segment": "IM2_to_IM3a",
+          "location": "Oval Entry",
+          "consistency": 0.6291965114334306,
+          "avg_time": 2.60525
+        },
+        {
+          "segment": "IM3a_to_FL",
+          "location": "Finish Line",
+          "consistency": 1.2326827410165195,
+          "avg_time": 7.135499999999999
+        },
+        {
+          "segment": "IM1_to_IM2a",
+          "location": "Turn 7 Complex Entry",
+          "consistency": 3.013555384489327,
+          "avg_time": 10.010846153846153
+        }
+      ],
+      "improvement_opportunities": []
+    },
+    "wind_analysis": {
+      "avg_wind_speed": 6.400000000000001,
+      "max_wind_speed": 6.4,
+      "wind_direction": 177.17777777777778,
+      "wind_impact_estimate": 0.08,
+      "affected_sectors": [
+        {
+          "sector": "S1",
+          "effect": "Crosswind",
+          "impact": "neutral",
+          "exposure": "high"
+        },
+        {
+          "sector": "S2",
+          "effect": "Headwind",
+          "impact": "negative",
+          "exposure": "medium"
+        },
+        {
+          "sector": "S3",
+          "effect": "Crosswind",
+          "impact": "neutral",
+          "exposure": "very_high"
+        }
+      ],
+      "severity": "Moderate"
+    },
+    "top_speed_stats": {
+      "avg_top_speed": 204.6846153846154,
+      "max_top_speed": 215.1,
+      "min_top_speed": 139.2,
+      "top_speed_variance": 21.48807468914221
+    }
+  },
+  {
+    "driver_number": 93,
+    "driver_name": "Patrick Brunson",
+    "total_laps": 26,
+    "timing_analysis": {
+      "timing_points": {
+        "Start_to_IM1a": {
+          "start": "Start",
+          "end": "IM1a",
+          "avg_time": 26.843846153846155,
+          "best_time": 24.263,
+          "worst_time": 45.481,
+          "std_dev": 5.895955045230977,
+          "potential_gain": 2.580846153846153,
+          "location": "Turn 1 Entry",
+          "type": "braking"
+        },
+        "IM1_to_IM2a": {
+          "start": "IM1",
+          "end": "IM2a",
+          "avg_time": 10.225192307692309,
+          "best_time": 8.604000000000001,
+          "worst_time": 21.080000000000002,
+          "std_dev": 3.2929598360044516,
+          "potential_gain": 1.6211923076923078,
+          "location": "Turn 7 Complex Entry",
+          "type": "technical"
+        },
+        "IM2_to_IM3a": {
+          "start": "IM2",
+          "end": "IM3a",
+          "avg_time": 2.9066666666666667,
+          "best_time": 2.5349999999999984,
+          "worst_time": 3.2729999999999997,
+          "std_dev": 0.3690289058235599,
+          "potential_gain": 0.37166666666666837,
+          "location": "Oval Entry",
+          "type": "speed"
+        },
+        "IM3a_to_FL": {
+          "start": "IM3a",
+          "end": "FL",
+          "avg_time": 7.114653846153844,
+          "best_time": 6.184000000000001,
+          "worst_time": 12.686999999999998,
+          "std_dev": 1.2415190032313699,
+          "potential_gain": 0.9306538461538434,
+          "location": "Finish Line",
+          "type": "straight"
+        }
+      },
+      "weakest_segments": [
+        {
+          "segment": "Start_to_IM1a",
+          "location": "Turn 1 Entry",
+          "type": "braking",
+          "potential_gain": 2.580846153846153,
+          "avg_time": 26.843846153846155,
+          "best_time": 24.263
+        },
+        {
+          "segment": "IM1_to_IM2a",
+          "location": "Turn 7 Complex Entry",
+          "type": "technical",
+          "potential_gain": 1.6211923076923078,
+          "avg_time": 10.225192307692309,
+          "best_time": 8.604000000000001
+        },
+        {
+          "segment": "IM3a_to_FL",
+          "location": "Finish Line",
+          "type": "straight",
+          "potential_gain": 0.9306538461538434,
+          "avg_time": 7.114653846153844,
+          "best_time": 6.184000000000001
+        }
+      ],
+      "strongest_segments": [
+        {
+          "segment": "IM2_to_IM3a",
+          "location": "Oval Entry",
+          "consistency": 0.3690289058235599,
+          "avg_time": 2.9066666666666667
+        },
+        {
+          "segment": "IM3a_to_FL",
+          "location": "Finish Line",
+          "consistency": 1.2415190032313699,
+          "avg_time": 7.114653846153844
+        },
+        {
+          "segment": "IM1_to_IM2a",
+          "location": "Turn 7 Complex Entry",
+          "consistency": 3.2929598360044516,
+          "avg_time": 10.225192307692309
+        }
+      ],
+      "improvement_opportunities": []
+    },
+    "wind_analysis": {
+      "avg_wind_speed": 6.400000000000001,
+      "max_wind_speed": 6.4,
+      "wind_direction": 177.17777777777778,
+      "wind_impact_estimate": 0.08,
+      "affected_sectors": [
+        {
+          "sector": "S1",
+          "effect": "Crosswind",
+          "impact": "neutral",
+          "exposure": "high"
+        },
+        {
+          "sector": "S2",
+          "effect": "Headwind",
+          "impact": "negative",
+          "exposure": "medium"
+        },
+        {
+          "sector": "S3",
+          "effect": "Crosswind",
+          "impact": "neutral",
+          "exposure": "very_high"
+        }
+      ],
+      "severity": "Moderate"
+    },
+    "top_speed_stats": {
+      "avg_top_speed": 204.7653846153846,
+      "max_top_speed": 214.3,
+      "min_top_speed": 146.1,
+      "top_speed_variance": 20.495110486312438
+    }
+  },
+  {
+    "driver_number": 98,
+    "driver_name": "Max Schweid",
+    "total_laps": 26,
+    "timing_analysis": {
+      "timing_points": {
+        "Start_to_IM1a": {
+          "start": "Start",
+          "end": "IM1a",
+          "avg_time": 26.13073076923077,
+          "best_time": 23.777,
+          "worst_time": 42.816,
+          "std_dev": 5.326029925245951,
+          "potential_gain": 2.3537307692307685,
+          "location": "Turn 1 Entry",
+          "type": "braking"
+        },
+        "IM1_to_IM2a": {
+          "start": "IM1",
+          "end": "IM2a",
+          "avg_time": 9.863846153846156,
+          "best_time": 8.597,
+          "worst_time": 18.139,
+          "std_dev": 2.6711875365433664,
+          "potential_gain": 1.2668461538461564,
+          "location": "Turn 7 Complex Entry",
+          "type": "technical"
+        },
+        "IM2_to_IM3a": {
+          "start": "IM2",
+          "end": "IM3a",
+          "avg_time": 1.8332500000000014,
+          "best_time": 0.2150000000000034,
+          "worst_time": 2.710000000000001,
+          "std_dev": 1.138046096020132,
+          "potential_gain": 1.618249999999998,
+          "location": "Oval Entry",
+          "type": "speed"
+        },
+        "IM3a_to_FL": {
+          "start": "IM3a",
+          "end": "FL",
+          "avg_time": 7.079923076923077,
+          "best_time": 4.427,
+          "worst_time": 10.472000000000001,
+          "std_dev": 0.9938366031929765,
+          "potential_gain": 2.652923076923077,
+          "location": "Finish Line",
+          "type": "straight"
+        }
+      },
+      "weakest_segments": [
+        {
+          "segment": "IM3a_to_FL",
+          "location": "Finish Line",
+          "type": "straight",
+          "potential_gain": 2.652923076923077,
+          "avg_time": 7.079923076923077,
+          "best_time": 4.427
+        },
+        {
+          "segment": "Start_to_IM1a",
+          "location": "Turn 1 Entry",
+          "type": "braking",
+          "potential_gain": 2.3537307692307685,
+          "avg_time": 26.13073076923077,
+          "best_time": 23.777
+        },
+        {
+          "segment": "IM2_to_IM3a",
+          "location": "Oval Entry",
+          "type": "speed",
+          "potential_gain": 1.618249999999998,
+          "avg_time": 1.8332500000000014,
+          "best_time": 0.2150000000000034
+        }
+      ],
+      "strongest_segments": [
+        {
+          "segment": "IM3a_to_FL",
+          "location": "Finish Line",
+          "consistency": 0.9938366031929765,
+          "avg_time": 7.079923076923077
+        },
+        {
+          "segment": "IM2_to_IM3a",
+          "location": "Oval Entry",
+          "consistency": 1.138046096020132,
+          "avg_time": 1.8332500000000014
+        },
+        {
+          "segment": "IM1_to_IM2a",
+          "location": "Turn 7 Complex Entry",
+          "consistency": 2.6711875365433664,
+          "avg_time": 9.863846153846156
+        }
+      ],
+      "improvement_opportunities": []
+    },
+    "wind_analysis": {
+      "avg_wind_speed": 6.400000000000001,
+      "max_wind_speed": 6.4,
+      "wind_direction": 177.17777777777778,
+      "wind_impact_estimate": 0.08,
+      "affected_sectors": [
+        {
+          "sector": "S1",
+          "effect": "Crosswind",
+          "impact": "neutral",
+          "exposure": "high"
+        },
+        {
+          "sector": "S2",
+          "effect": "Headwind",
+          "impact": "negative",
+          "exposure": "medium"
+        },
+        {
+          "sector": "S3",
+          "effect": "Crosswind",
+          "impact": "neutral",
+          "exposure": "very_high"
+        }
+      ],
+      "severity": "Moderate"
+    },
+    "top_speed_stats": {
+      "avg_top_speed": 205.6769230769231,
+      "max_top_speed": 219.1,
+      "min_top_speed": 116.0,
+      "top_speed_variance": 27.67429576617707
+    }
+  }
+]
