@@ -342,7 +342,7 @@ def render(selected_driver, selected_driver_name, enhanced_mode, df, COLORS, app
                 mode="gauge+number",
                 value=mae_value,
                 domain={'x': [0, 1], 'y': [0, 0.85]},
-                number={'suffix': "s", 'font': {'size': 36, 'color': '#FFFFFF'}, 'xanchor': 'center', 'x': 0.5},
+                number={'suffix': "s", 'font': {'size': 36, 'color': '#FFFFFF'}},
                 gauge={
                     'axis': {
                         'range': [None, 2.0], 
